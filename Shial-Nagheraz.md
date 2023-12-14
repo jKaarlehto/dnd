@@ -15,6 +15,6 @@ Kirjelmissään hän kertoo kulkutaudista, joka kulkee [Pohjoisen kapina](Pohjoi
 >[!question] Vahvistamaton 
 >Tautiin ja sen leviämiseen viitataan teksteissä nimellä [Mädättyminen](Mädättyminen.md).
 >>[!quote] Lähde 
->>[[Grozan diaari]]
+>>[Grozan diaari](Grozan%20diaari.md)
 
 

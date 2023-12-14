@@ -8,8 +8,6 @@ tags:
 ###### Lähteet
 - [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, kartan yllä
 
-
-
 ###### Runon säkeet
 
 Kuulkaa vanhan sankarin tarinaa

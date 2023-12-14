@@ -7,28 +7,28 @@
         {
           "type": "file",
           "ctime": 1699899491221,
-          "path": "Elhen Imperiumin läntinen kartta.png",
+          "path": "Maps/Elhen Imperiumin läntinen kartta.png",
           "title": "Elhen valtakunnan läntinen kartta"
         },
         {
           "type": "file",
           "ctime": 1699899559011,
-          "path": "Sôru-agazin kartta.png"
+          "path": "Maps/Sôru-agazin kartta.png"
         },
         {
           "type": "file",
           "ctime": 1699899570177,
-          "path": "Shûlumir kartta.png"
+          "path": "Maps/Shûlumir kartta.png"
         },
         {
           "type": "file",
           "ctime": 1699899580831,
-          "path": "Selemdûr kartta.png"
+          "path": "Maps/Selemdûr kartta.png"
         },
         {
           "type": "file",
           "ctime": 1699899707541,
-          "path": "Länsi-Lakeuden kartta.png"
+          "path": "Maps/Länsi-Lakeuden kartta.png"
         }
       ],
       "title": "Kartat"

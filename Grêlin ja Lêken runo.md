@@ -5,7 +5,7 @@ tags:
   - Historia/Grelekit
   - Uskonto/Tekstit
 ---
-[Grelekkien](Grelekit.md) kansanruno, joka kertoo miten maailma syntyi [[Greli]] ja [[Leke]] taistelussa.
+[Grelekkien](Grelekit.md) kansanruno, joka kertoo miten maailma syntyi [Greli](Greli.md) ja [Leke](Leke.md) taistelussa.
 
 ###### Runon säkeet
 

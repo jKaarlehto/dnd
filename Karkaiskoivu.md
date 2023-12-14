@@ -9,7 +9,7 @@ Yksi  neljästä [ikilehdosta](Ikilehdot.md). Sijaitsee [Bôl-Thazâdin kadonnee
 
 Koivu on tällä hetkellä elossa, mutta hyvin lahonnut ja heikentynyt. [Ordo bellos](Ordo%20bellos.md) on tällä hetkellä tutkimassa Karkaiskoivun aluetta
 
-[[Karkaiskoivun kaste]] on harmaata kimmeltävää nestettä. Koivun alusta on kokonaan sen peitossa.
+[Karkaiskoivun kaste](Karkaiskoivun%20kaste) on harmaata kimmeltävää nestettä. Koivun alusta on kokonaan sen peitossa.
 
 ###### Maininnat
 

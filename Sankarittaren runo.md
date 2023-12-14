@@ -61,7 +61,7 @@ Saleihin muinaisten jumalten* ^49799e
 
 ###### Runon tulkinta
 
-Runossa mainitaan [Ikilehdot](Ikilehdot.md) ja [[Elämän lähde]]. Ei ole varmaa, ovatko ne sama asia.
+Runossa mainitaan [Ikilehdot](Ikilehdot.md) ja [Elämän lähde](Elämän%20lähde.md). Ei ole varmaa, ovatko ne sama asia.
 
 Runossa mainitaan "Serovi" jolka viittaa [Shial-Nagheraz](Shial-Nagheraz.md)iin, Syvyyden seroviin. 
 

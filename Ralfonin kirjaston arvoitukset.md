@@ -4,7 +4,7 @@ tags:
   - Lähdemateriaali
   - Uskonto/Tekstit
 ---
-[[Ralfonin kirjasto]]n vanhan siiven uumenista löytyneitä arvoituksia. Jokainen arvoitus on kirjoitettu patsaan jalustalle.
+[Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanhan siiven uumenista löytyneitä arvoituksia. Jokainen arvoitus on kirjoitettu patsaan jalustalle.
 
 ###### Kuvaus 
 

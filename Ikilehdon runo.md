@@ -32,10 +32,10 @@ Lehtien lapojen leputtaessa
 Haapa hurmeinen hehkuu 
 Alle kalman aaltojen uppoavalle 
 Neidolle vajoavalle 
-Keskellä hiilen ja hiljaisuuden 
+Keskellä [hiilen ja hiljaisuuden ](Kita.md)
 Reunalla rautaisen rotkon 
 Keskellä kierojen kuiskausten 
-Reunalla mustien vuorten 
+Reunalla [mustien vuorten ](Kärnävuoret.md)
 
 Juurten jäärien jähmettyessä 
 Tammi tahtoni tuikkii 

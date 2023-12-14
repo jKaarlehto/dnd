@@ -10,6 +10,6 @@ Taivaalla sijaitseva usva, jossa on muutamia kirkkaampia tähtiä. Jumalhovi on 
 
 ###### Tähtiä
 - [Ya’ar](Ya’ar.md)
-- [[Mutra’ar]]
+- [Mutra’ar](Mutra’ar.md)
 
 ![](jumalhovi.png)

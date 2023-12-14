@@ -4,108 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "888bfc60b9a34689",
-        "type": "split",
+        "id": "abbf027e2332d376",
+        "type": "tabs",
         "children": [
           {
-            "id": "b8499b540ab2b3ba",
-            "type": "split",
-            "dimension": 79.95978552278821,
-            "children": [
-              {
-                "id": "a8ecb452b01c1375",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "71ff2f43829c6435",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "d28cbc3c944814aa",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Sankarin runo.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "42a56f7387865d76",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "30ac9d74ef9d6aa6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Läntisen mantereen runo.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            "id": "c869db33e377a1d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           },
           {
-            "id": "d8c138efb72ba18c",
-            "type": "tabs",
-            "dimension": 20.040214477211794,
-            "children": [
-              {
-                "id": "40945e44ed0ea305",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Läntisen mantereen runo.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 2.32110726643599,
-                      "lineSizeMultiplier": 0.1,
-                      "collapse-forces": false,
-                      "centerStrength": 0,
-                      "repelStrength": 1.6475911631621,
-                      "linkStrength": 0.0072753083133706,
-                      "linkDistance": 50,
-                      "scale": 0.29036020226785003,
-                      "close": true
-                    }
-                  }
-                }
+            "id": "eb00b07e62d2a77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maailmankartta.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.50124740600586
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -172,6 +96,35 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "5f7de2f3acd246f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maailmankartta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecc0b40e5e5a1f09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maailmankartta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -187,57 +140,59 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "30ac9d74ef9d6aa6",
+  "active": "eb00b07e62d2a77b",
   "lastOpenFiles": [
-    "Ralfonin kirjaston arvoitukset.md",
-    "Läntisen mantereen runo.md",
-    "Sankarittaren runo.md",
-    "Sankarin runo.md",
-    "Kalman Kammio.md",
-    "Mielo.md",
-    "Ikilehdon runo.md",
-    "Shial-Nagheraz.md",
-    "Rhindelgâlin uhraus.md",
-    "Grêlin ja Lêken runo.md",
-    "Rhindelgâl.md",
-    "A'zelserath.md",
-    "Kalmankutu.md",
-    "Elämän lähde.md",
-    "Ikilehdot.md",
-    "Salaperäiset riimut.md",
-    "Karkaiskoivu.md",
-    "Sankarin runo.md^.md",
-    "Mädättyminen.md",
-    "Grozan diaari.md",
-    "Länsi-Lakeuden kartta.png",
-    "Tuoneteer.md",
-    "Drieny Koldhazâd.md",
-    "Vanhat jumalat.md",
-    "Keson valtakunta.md",
+    "Note.md",
+    "Maailmankartta.md",
+    "Maps/Sôru-agazin kartta.png",
     "Sôru-agazin kartta.png",
-    "Jumalhovi.md",
-    "Sôru-agazin riimu.png",
-    "Aikajana.md",
-    "Selemdûr kartta.png",
-    "jumalhovi.png",
-    "Elhen vasara.png",
-    "Elhen Imperiumin läntinen kartta.png",
-    "Nori-Koldazhâd ",
     "Shûlumir kartta.png",
-    "Shûlumirin kartta.png",
-    "Selemdûrin kartta.png",
-    "site/index.markdown",
-    "site/_posts/2023-11-05-welcome-to-jekyll.markdown",
-    "site/_posts",
-    "site/404.html",
-    "CNAME",
-    "dnd/_posts/2023-11-05-welcome-to-jekyll.markdown",
-    "dnd/index.markdown",
-    "dnd/about.markdown",
-    "dnd/_posts",
-    "Untitled.canvas"
+    "Selemdûr kartta.png",
+    "Länsi-Lakeuden kartta.png",
+    "Elhen Imperiumin läntinen kartta.png",
+    "Maps/Mountains/Borders/politicalunits.qix",
+    "Maps/Waterline.shp",
+    "Maps/Waterline.shx",
+    "Maps/Waterline.dbf",
+    "Maps/Waterline.prj",
+    "Maps/Waterline.cpg",
+    "Maps/Hashing.shp",
+    "Maps/Hashing.shx",
+    "Maps/Hashing.dbf",
+    "Maps/Hashing.prj",
+    "Maps/Shûlumir kartta.png",
+    "Maps/Selemdûr kartta.png",
+    "Maps/Länsi-Lakeuden kartta.png",
+    "Maps/Elhen Imperiumin läntinen kartta.png",
+    "Risa.md",
+    "Mielo.md",
+    "Bôl-Thazâdin portin kirjoitus.md",
+    "Rhindelgâl.md",
+    "Maisteri Balasár.md",
+    "Dak.md",
+    "Jylhän aatelissuku.md",
+    "Kesiö.md",
+    "Kilven Konglomeraatin epistola.md",
+    "Sankarin runo.md",
+    "Ralfonin kirjaston arvoitukset.md",
+    "Mielon Alrundin ja Thivratassan sopimus.md",
+    "Kilven Konglomeraatti.md",
+    "A'zelserath.md",
+    "Oneshot hahmo idea.md",
+    "Näky Mielosta.md",
+    "Thaer A'jabar.md",
+    "Ikilehdon runo.md",
+    "Salaperäiset riimut.md",
+    "Vuohiäiti.md",
+    "Ikilehdot.md",
+    "Iki-Haapa.md",
+    "Kärnävuoret.md",
+    "Kita.md",
+    "Tärkeät tapahtumat.canvas"
   ]
 }

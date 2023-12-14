@@ -16,7 +16,7 @@ Tuntuu kuin tähdet näyttäisivät himmenevän vuosi vuodelta, aivan kuin jumal
 
 Uusi teleskooppi valmistui eilen ja katsoin oppilaitteni kanssa ensimmäistä kertaa laitteen kristallisin silmin kohti Jumalten maata. Jokin kuitenkin on vialla, lasisepät ovat varmaankin olleet kiireessään huolimattomia. 
 
-Tähdet näyttävät jotenkin hajanaisilta, etenkin [[Ya’ar]] ja [[Mutra’ar]] vaikuttavat kieroilta; jotenkin vinoutuneilta. Korjaukset saadaan lasimestarin arvion mukaan valmiiksi ensi viikkoon mennessä.
+Tähdet näyttävät jotenkin hajanaisilta, etenkin [Ya’ar](Ya’ar.md) ja [Mutra’ar](Mutra’ar.md) vaikuttavat kieroilta; jotenkin vinoutuneilta. Korjaukset saadaan lasimestarin arvion mukaan valmiiksi ensi viikkoon mennessä.
 
 Teleskooppia on korjattu jo lukemattomia kertoja, en enää voi tehdä tekosyitä havaintojen selittämiseksi. Totuus on hyväksyttävä. 
 

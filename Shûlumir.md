@@ -14,4 +14,4 @@ Shûlumirissa sijaitsee salainen käynti [Bôl-Thazâdin kadonneeseen kaupunkiin
 >![](Grozan%20diaari.md#^1ee1d0)
 
 
-![Shûlumir kartta](Shûlumir%20kartta.png)
+![Shûlumir kartta](Maps/Shûlumir%20kartta.png)

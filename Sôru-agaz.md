@@ -2,7 +2,7 @@
 tags:
   - Maantiede/Mantere
 ---
-Tämän hetkisen tiedon mukaan lähellä maailman keskiötä sijaitseva iso manner. Sitä ympäröi etelästä [Ûhm-gwen](Ûhm-gwe.md) mantere, pohjoisesta [Pohjoinen mantere](Pohjoinen%20mantere) ja lännestä [läntinen mantere](Läntinen%20mantere.md).
+Tämän hetkisen tiedon mukaan lähellä maailman keskiötä sijaitseva iso manner. Sitä ympäröi etelästä [Ûhm-gwen](Ûhm-gwe.md) ja lännestä [läntinen mantere](Läntinen%20mantere.md).
 
 Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio.md), josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
 
@@ -25,8 +25,8 @@ Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio
 - [Shûlumir](Shûlumir.md)
 - [Selemdûr](Selemdûr.md)
 - [Bôl-Kolduhr](Bôl-Kolduhr.md)
-- [Shûlumir](Shûlumir.md)]
+- [Shûlumir](Shûlumir.md)
 - 
 
 
-![Sôru-agazin kartta](Sôru-agazin%20kartta.png)
+![Sôru-agazin kartta](Maps/Sôru-agazin%20kartta.png)

@@ -8,6 +8,8 @@ tags:
 
 Tuntematon nainen, joka esiintyy useissa [Werdaegiin](Werdaeg.md) ja [Ikilehtoihin](Ikilehdot.md) viittaavissa materiaaleissa.
 
+[Vanhuksen kirjasto](Vanhuksen%20kirjasto.md)ssa mainitaan [Mielon Alrundin ja Thivratassan sopimus](Mielon%20Alrundin%20ja%20Thivratassan%20sopimus.md)
+
 >[!question] Vahvistamaton 
 Mielo saattoi olla maagi. Mieloksi uskotut kuvaukset esittävät hänet usein pitämässä suurta sauvaa.
 >

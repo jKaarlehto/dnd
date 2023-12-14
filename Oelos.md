@@ -6,4 +6,4 @@ tags:
 ---
 [Gêriläinen](Gêrin%20saarivaltio.md) orjakauppias. Oeloksen orjat merkataan polttomerkillä vasempaan kämmeneen.
 
-[[Thaer A'jabar]] karkasi Oeloksen palveluksesta, hänen ollessaan matkalla [Selemdûr](Selemdûr.md)issa.
+[Thaer A'jabar](Thaer%20A'jabar.md) karkasi Oeloksen palveluksesta, hänen ollessaan matkalla [Selemdûr](Selemdûr.md)issa.

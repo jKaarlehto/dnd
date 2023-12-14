@@ -6,14 +6,14 @@ tags:
 ---
 Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän.
 
-Runossa esiintyy viittauksia [Ikilehtoihin](Ikilehdot.md), [[Kalman Kammio]]on.
+Runossa esiintyy viittauksia [Ikilehtoihin](Ikilehdot.md), [Kalman Kammio](Kalman%20Kammio.md)on.
 
 Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
 
 Runon parina pidetään [Sankarittaren runoa](Sankarittaren%20runo.md) joka käsittelee samoja aihepiirejä naissankarin näkökulmasta.
 
 >[!question] Vahvistamaton 
->Runossa mainittu sankari on [Werdaeg](Werdaeg.md) tai [[Elhe]]
+>Runossa mainittu sankari on [Werdaeg](Werdaeg.md) tai [Elhe](Elhe.md)
 
 ###### Lähteet
 - [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, Sôru-Agazin kartan yltä.
@@ -34,7 +34,7 @@ Käy min kaik ovat kadonneet*
 *Kalman kammio karmivana 
 Kivenä seisoo, mahtavana 
 Iäten varjoissa vaeltavana 
-Keijun ja haltian hautana* 
+Keijun ja haltian hautana*  ^9def7f
 
 *Yli seilaten aaltojen kultaisten 
 Käy min kaik ovat päätyneet 
