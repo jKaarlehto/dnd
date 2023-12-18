@@ -12,3 +12,7 @@ tags:
 ###### Merkittävät järjestöt
 
 - [Ilkvestin haltijasuku](Ilkvestin%20haltijasuku.md)
+- [Hjildrumin haltijasuku](Hjildrumin%20haltijasuku.md)
+- [Gjeeljurdin haltijasuku](Gjeeljurdin%20haltijasuku.md)
+- [Uurmsvaltin haltijasuku](Uurmsvaltin%20haltijasuku.md)
+- 

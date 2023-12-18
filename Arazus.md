@@ -3,4 +3,8 @@ tags:
   - Historia/Kääpiöt
   - Historia/Sankari
 ---
-Uskotaan olleen [Inkvisition](Elhen%20kirkko.md) perustaja. Hän oli Elhen läheisimpiä seuraajia.
+
+>[!quote] Lähde 
+[Vanhuksen kirjasto](Vanhuksen%20kirjasto.md)
+
+Uskotaan olleen [Inkvisition](Elhen%20kirkko.md)  ja kirkon perustaja. Hän oli Elhen läheisimpiä seuraajia.

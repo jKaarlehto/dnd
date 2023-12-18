@@ -8,28 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c869db33e377a1d9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb00b07e62d2a77b",
+            "id": "2292c3c346edcee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maailmankartta.md",
+                "file": "Salaperäiset riimut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b147ba0724a345d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4bc57b9c69c0c8b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a2c12370e073740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kidan alttari.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50124740600586
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -103,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maailmankartta.md",
+                "file": "Kidan alttari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +140,50 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maailmankartta.md",
+                "file": "Kidan alttari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0321953ab801efb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e95605e0fc7335",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Kidan alttari.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           }
@@ -130,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,10 +206,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eb00b07e62d2a77b",
+  "active": "7a2c12370e073740",
   "lastOpenFiles": [
-    "Note.md",
+    "Kivinen vuohipatsas.md",
+    "Kidan alttari.md",
+    "Vuohiäiti.md",
+    "Kaivosmiehen rukous.md",
+    "Shial-Nagheraz.md",
+    "Risa.md",
+    "Näky Mielosta.md",
     "Maailmankartta.md",
+    "Mielon Alrundin ja Thivratassan sopimus.md",
+    "Iki-Haapa.md",
+    "Salaperäiset riimut.md",
+    "Vaka-Viisi.md",
+    "Note.md",
+    "Läntisen mantereen runo.md",
+    "Karminin Kuningas.md",
+    "Ralfonin kirjaston arvoitukset.md",
+    "Sankarin runo.md",
+    "Felganarin.md",
+    "Llaminryl.md",
+    "Ilke.md",
+    "Kyrijakos.md",
+    "Thaer A'jabar.md",
+    "Greli.md",
+    "Leke.md",
+    "Elhen kirkko.md",
+    "Herra Hjildrum.md",
+    "Tärkeät tapahtumat.canvas",
     "Maps/Sôru-agazin kartta.png",
     "Sôru-agazin kartta.png",
     "Shûlumir kartta.png",
@@ -168,31 +254,6 @@
     "Maps/Shûlumir kartta.png",
     "Maps/Selemdûr kartta.png",
     "Maps/Länsi-Lakeuden kartta.png",
-    "Maps/Elhen Imperiumin läntinen kartta.png",
-    "Risa.md",
-    "Mielo.md",
-    "Bôl-Thazâdin portin kirjoitus.md",
-    "Rhindelgâl.md",
-    "Maisteri Balasár.md",
-    "Dak.md",
-    "Jylhän aatelissuku.md",
-    "Kesiö.md",
-    "Kilven Konglomeraatin epistola.md",
-    "Sankarin runo.md",
-    "Ralfonin kirjaston arvoitukset.md",
-    "Mielon Alrundin ja Thivratassan sopimus.md",
-    "Kilven Konglomeraatti.md",
-    "A'zelserath.md",
-    "Oneshot hahmo idea.md",
-    "Näky Mielosta.md",
-    "Thaer A'jabar.md",
-    "Ikilehdon runo.md",
-    "Salaperäiset riimut.md",
-    "Vuohiäiti.md",
-    "Ikilehdot.md",
-    "Iki-Haapa.md",
-    "Kärnävuoret.md",
-    "Kita.md",
-    "Tärkeät tapahtumat.canvas"
+    "Maps/Elhen Imperiumin läntinen kartta.png"
   ]
 }

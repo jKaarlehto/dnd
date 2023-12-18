@@ -3,24 +3,23 @@ tags:
   - Henkilö/Elossa
   - Henkilö/Ihminen
 ---
-[Zahhak A'jabar](Zahhak%20A'jabar.md)in poika.
+	[Zahhak A'jabar](Zahhak%20A'jabar.md)in poika.
 ###### Pelihommat
 
 1G
 -380 balbadur
 2 Daggers
 Potion of climbing
+Adventure kit.
 
 
 Resistance Cold
 MAX HP = 50
-HP = 50
+HP =  50 
 HIT DIE MAX 5d12
-HIT DIE 5d12
+HIT DIE 4d12
 
 10/10
-
-Inspiration
 Range: 10ft (15ft)
 
 +7 to hit +4 dmg (+6)
@@ -33,7 +32,7 @@ Rage: 2/3
 Nature proficiency.
 2/20
 Investigation prof:
-5/15
+6/15
 
 
 1+Magic glaive

@@ -3,13 +3,9 @@ tags:
   - Maantiede/Kaupunki
 ---
 [Elhen Imperiumi](Elhen%20Imperiumi.md)n pääkaupunki. Kaupunkia ympyröi korkea harmaa muuri.
-
-
 ###### Alueet
 
 - [Fel-Maulin vanha kaupunki](Fel-Maulin%20vanha%20kaupunki)
-
-
 ###### Rakennukset
 
 - [Vanhuksen kirjasto](Vanhuksen%20kirjasto.md)

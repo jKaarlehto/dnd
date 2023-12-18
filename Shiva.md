@@ -7,3 +7,5 @@ tags:
 
 Shiva haluaa tulla varkainkillan valtuutetuksi, ja ajaa inkvisition ja korruption killasta.
 
+Shivan jalankoko on 64.
+
