@@ -10,7 +10,7 @@
           {
             "id": "ce357ca9404f322a",
             "type": "split",
-            "dimension": 61.31944444444445,
+            "dimension": 74.15730337078652,
             "children": [
               {
                 "id": "a8ecb452b01c1375",
@@ -51,7 +51,7 @@
           {
             "id": "3833e2b1275100b9",
             "type": "split",
-            "dimension": 38.68055555555556,
+            "dimension": 25.842696629213485,
             "children": [
               {
                 "id": "d8c138efb72ba18c",
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -200,9 +200,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "671af52291bc6115",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a67cc073e91c5358",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,10 +233,12 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b9845c1bf2630687",
+  "active": "a67cc073e91c5358",
   "lastOpenFiles": [
     "Kita.md",
     "Untitled.canvas",

@@ -6,5 +6,7 @@
   "text-snippets-obsidian",
   "text-extractor",
   "obsidian-leaflet-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "breadcrumbs"
 ]
