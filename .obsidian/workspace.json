@@ -4,51 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "abbf027e2332d376",
-        "type": "tabs",
+        "id": "888bfc60b9a34689",
+        "type": "split",
         "children": [
           {
-            "id": "2292c3c346edcee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salaperäiset riimut.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "ce357ca9404f322a",
+            "type": "split",
+            "dimension": 61.31944444444445,
+            "children": [
+              {
+                "id": "a8ecb452b01c1375",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "71ff2f43829c6435",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Kita.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "691ca797bffdab05",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b9845c1bf2630687",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "b147ba0724a345d5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "3833e2b1275100b9",
+            "type": "split",
+            "dimension": 38.68055555555556,
+            "children": [
+              {
+                "id": "d8c138efb72ba18c",
+                "type": "tabs",
+                "dimension": 68.28193832599119,
+                "children": [
+                  {
+                    "id": "40945e44ed0ea305",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 2,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": false,
+                          "textFadeMultiplier": -3,
+                          "nodeSizeMultiplier": 1.53295491536458,
+                          "lineSizeMultiplier": 1.84678141276042,
+                          "collapse-forces": false,
+                          "centerStrength": 0,
+                          "repelStrength": 20,
+                          "linkStrength": 1,
+                          "linkDistance": 500,
+                          "scale": 0.5198012695743827,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "4dfa67018bb67c28",
+                "type": "tabs",
+                "dimension": 31.718061674008812,
+                "children": [
+                  {
+                    "id": "a258900448717bd1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "tagfolder-view",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "4bc57b9c69c0c8b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a2c12370e073740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kidan alttari.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,45 +152,36 @@
             }
           },
           {
-            "id": "9c31219580a3902a",
+            "id": "7a2f17f1a73bbb21",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "5e987266027bf10b",
     "type": "split",
     "children": [
       {
-        "id": "d65f33effe8172d0",
+        "id": "e9a54f3bc28ad751",
         "type": "tabs",
         "children": [
           {
-            "id": "4af1bd393fb0f0c9",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5f7de2f3acd246f6",
+            "id": "d8362b1add5293aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kidan alttari.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -135,105 +191,64 @@
             }
           },
           {
-            "id": "ecc0b40e5e5a1f09",
+            "id": "2534af23f87eb96c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kidan alttari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
-      },
-      {
-        "id": "0321953ab801efb6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23e95605e0fc7335",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Kidan alttari.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
-      "workspaces:Manage workspace layouts": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a2c12370e073740",
+  "active": "b9845c1bf2630687",
   "lastOpenFiles": [
-    "Kivinen vuohipatsas.md",
+    "Kita.md",
+    "Untitled.canvas",
+    "Vanhat jumalat.md",
+    "Elhen kirkko.md",
+    "Lekhêz.md",
+    "Grezli.md",
+    "Templates/Kaupunki Template.md",
+    "Fel-Maul.md",
+    "Brantby.md",
+    "Bôl-Thazâdin kadonnut kaupunki.md",
+    "Bôl-Kolduhr.md",
+    "Templates/Henkilö Template.md",
+    "Filverel.md",
+    "Dak.md",
+    "Henkilö.md",
+    "Templates",
     "Kidan alttari.md",
-    "Vuohiäiti.md",
-    "Kaivosmiehen rukous.md",
     "Shial-Nagheraz.md",
+    "Filverelin kirjasto.md",
     "Risa.md",
-    "Näky Mielosta.md",
-    "Maailmankartta.md",
-    "Mielon Alrundin ja Thivratassan sopimus.md",
-    "Iki-Haapa.md",
-    "Salaperäiset riimut.md",
-    "Vaka-Viisi.md",
-    "Note.md",
-    "Läntisen mantereen runo.md",
-    "Karminin Kuningas.md",
+    "Shial-Nagherazin Kultistit.md",
+    "Kalmankoskema.md",
     "Ralfonin kirjaston arvoitukset.md",
+    "Rhindelgâlin uhraus.md",
+    "Rhindelgâl.md",
     "Sankarin runo.md",
     "Felganarin.md",
-    "Llaminryl.md",
-    "Ilke.md",
-    "Kyrijakos.md",
-    "Thaer A'jabar.md",
-    "Greli.md",
-    "Leke.md",
-    "Elhen kirkko.md",
-    "Herra Hjildrum.md",
     "Tärkeät tapahtumat.canvas",
     "Maps/Sôru-agazin kartta.png",
     "Sôru-agazin kartta.png",
@@ -250,7 +265,6 @@
     "Maps/Hashing.shp",
     "Maps/Hashing.shx",
     "Maps/Hashing.dbf",
-    "Maps/Hashing.prj",
     "Maps/Shûlumir kartta.png",
     "Maps/Selemdûr kartta.png",
     "Maps/Länsi-Lakeuden kartta.png",

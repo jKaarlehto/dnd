@@ -9,3 +9,5 @@ Risan kaupunkia hallitsee [Hjildrumin haltijasuku](Hjildrumin%20haltijasuku.md),
 Kaupungissa on muutamia kauppoja, sekä kirkko [Vuohiädille](Vuohiäiti.md)
 ###### Henkilöt
 [[Lloer]]
+[Migas Hjildrum](Migas%20Hjildrum.md)
+[Herra Hjildrum](Herra%20Hjildrum.md)

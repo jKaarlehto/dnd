@@ -4,6 +4,7 @@ tags:
   - Henkilö/Grelekki
 aliases:
   - Elhen peto
+  - Etelän petturi
 ---
 >[!quote]
 >![](Ralfonin%20kirjaston%20arvoitukset.md#^f5b509)

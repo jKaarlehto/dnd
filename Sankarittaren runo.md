@@ -12,7 +12,7 @@ Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee sa
 >Runossa mainittu nainen on [Mielo](Mielo.md)
 
 ###### Lähteet
-- [Kultisti](Kultistit.md)en kääröistä
+- [Kultisti](Shial-Nagherazin%20Kultistit.md)en kääröistä
 - [Maisteri Balasár](Maisteri%20Balasár.md)in tutkimukset
 - [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, Sôru-agazin kartan yltä
 

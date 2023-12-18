@@ -1,37 +1,3 @@
 {
-  "items": [
-    {
-      "type": "group",
-      "ctime": 1699899530442,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1699899491221,
-          "path": "Maps/Elhen Imperiumin läntinen kartta.png",
-          "title": "Elhen valtakunnan läntinen kartta"
-        },
-        {
-          "type": "file",
-          "ctime": 1699899559011,
-          "path": "Maps/Sôru-agazin kartta.png"
-        },
-        {
-          "type": "file",
-          "ctime": 1699899570177,
-          "path": "Maps/Shûlumir kartta.png"
-        },
-        {
-          "type": "file",
-          "ctime": 1699899580831,
-          "path": "Maps/Selemdûr kartta.png"
-        },
-        {
-          "type": "file",
-          "ctime": 1699899707541,
-          "path": "Maps/Länsi-Lakeuden kartta.png"
-        }
-      ],
-      "title": "Kartat"
-    }
-  ]
+  "items": []
 }

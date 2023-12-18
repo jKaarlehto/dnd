@@ -4,7 +4,12 @@ tags:
   - Maantiede/Maamerkki
   - Historia/Rakennus
 ---
-[Kidan](Kita.md) pohjalla oleva kirjasto.
+[Kidan](Kita.md) pohjalla oleva kirjasto. 
 
-Kirjasto toimii pyhiinvaelluskohteena [Vuohiäidin](Vuohiäiti.md) seuraajille. Pyhiinvaeltajaien kerrotaan jäävän kirjastoon jatkamaan elämäänsä akolyytteinä. He uskovat kirjaston olevan vuohiäidin lahja hänen seuraajilleen.
+Kirjasto toimii pyhiinvaelluskohteena [Vuohiäidin](Vuohiäiti.md) seuraajille. Pyhiinvaeltajaien kerrotaan jäävän kirjastoon jatkamaan elämäänsä akolyytteinä. 
 
+###### Historia
+
+He uskovat kirjaston olevan vuohiäidin lahja hänen seuraajilleen.
+
+Toinen syntytarina kertoo *maagin* upottaneen kirjastonsa kitaan piiloon.

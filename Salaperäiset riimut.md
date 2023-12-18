@@ -13,7 +13,7 @@ Sivu sisältää spekulaatiota
 
 ###### Sôru-agazin riimu
 
-![|500](Sôru-agazin%20riimu.png)
+![|500](Sôru-agazin%20riimu.png) ^ec6250
 
 Sôru-agazin kartan päällä olevassa riimusta tunnetaan neljä solmukohtaa:
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Lähdemateriaali  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.250081380208333,
   "linkDistance": 125,
-  "scale": 0.3815277374223662,
+  "scale": 0.37710616470485264,
   "close": true
 }
