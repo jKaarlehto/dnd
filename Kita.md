@@ -2,6 +2,7 @@
 tags:
   - Maantiede/Maamerkki
   - Historia/Haltijat
+sama: "[[Risa]]"
 ---
 Suuri rotko [Rulindínin Haltija-maiden](Rulindínin%20Haltija-maat.md) ja [Vuorimaiden](Vuorimaat) välissä.
 Toimii [Haltijoiden](Haltijat.md) tärkeänä kaivoiksena, josta kaivetaan kiveä, rautaa, lumokiveä sekä muita mineraaleja. Kita kulkee [Kärnävuorien](Kärnävuoret.md) läpi. 

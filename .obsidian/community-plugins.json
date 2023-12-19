@@ -8,5 +8,6 @@
   "obsidian-leaflet-plugin",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "breadcrumbs"
+  "breadcrumbs",
+  "dataview"
 ]

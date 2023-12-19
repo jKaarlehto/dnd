@@ -2,6 +2,9 @@
 tags:
   - Historia/Kääpiöt
   - Maantiede/Valtakunta
+ylempi: "[[Sôru-agaz]]"
+aliases:
+  - Nori-Koldhazǎd
 ---
 [Sôru-agaz](Sôru-agaz.md)in pohjoisin valtakunta. [Kääpiöiden](Kääpiöt.md) kotialuetta.
 

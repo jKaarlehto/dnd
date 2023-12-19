@@ -8,6 +8,7 @@ timelines:
   - main
 aat-event-title: Elhen imperiumin nousu
 aat-event-picture: https://cdn.midjourney.com/549b8b52-e65c-4149-a388-66f295cfcbc2/0_3.webp
+ylempi: "[[Sôru-agaz]]"
 ---
 
 [Sôru-agaz](Sôru-agaz.md)issa sijaitseva Imperiumi. Imperiumia johtaa [Elhen imperiumin aatelishuoneet](Elhen%20imperiumin%20aatelishuoneet.md) sekä [Elhen kirkko](Elhen%20kirkko.md).
@@ -18,7 +19,13 @@ Elhen kuningaskunnan hallitsijasukujen kerrotaan olevan Elhen jälkeläisiä. Ku
 ![Länsi-Lakeuden kartta](Länsi-Lakeuden%20kartta.png)
 
 
-###### Aatelissuvut
+###### Hallinto
+
+Kirkko
+- [[Elhen kirkko]]
+- [[Elhen Imperiumin Keisari]]
+
+Aatelissuvut
 - [Jylhän aatelissuku](Jylhän%20aatelissuku.md)
 
 ###### Merkittävät alueet

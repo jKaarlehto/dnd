@@ -4,7 +4,7 @@
   "userIgnoreFilters": [
     "node_modules/"
   ],
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "promptDelete": false,
   "vimMode": true,
   "pdfExportSettings": {

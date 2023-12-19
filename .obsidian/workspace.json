@@ -8,50 +8,43 @@
         "type": "split",
         "children": [
           {
-            "id": "ce357ca9404f322a",
-            "type": "split",
+            "id": "a8ecb452b01c1375",
+            "type": "tabs",
             "dimension": 74.15730337078652,
             "children": [
               {
-                "id": "a8ecb452b01c1375",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "71ff2f43829c6435",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kita.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
+                "id": "71ff2f43829c6435",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Yuhzus.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   }
-                ]
+                }
               },
               {
-                "id": "691ca797bffdab05",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "b9845c1bf2630687",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
+                "id": "c966d16b9603afdd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selemdûrin vallanvaihto.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   }
-                ]
+                }
               }
             ],
-            "direction": "vertical"
+            "currentTab": 1
           },
           {
             "id": "3833e2b1275100b9",
             "type": "split",
-            "dimension": 25.842696629213485,
+            "dimension": 25.84269662921348,
             "children": [
               {
                 "id": "d8c138efb72ba18c",
@@ -64,6 +57,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Selemdûrin vallanvaihto.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -86,7 +80,7 @@
                           "repelStrength": 20,
                           "linkStrength": 1,
                           "linkDistance": 500,
-                          "scale": 0.5198012695743827,
+                          "scale": 0.24761899599198922,
                           "close": true
                         }
                       }
@@ -158,13 +152,45 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0a60b6b9792e56e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a67cc073e91c5358",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "671af52291bc6115",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d68269908eca73c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -180,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Selemdûrin vallanvaihto.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,29 +223,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Selemdûrin vallanvaihto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "671af52291bc6115",
+            "id": "6dcf187b8a5dec41",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "a67cc073e91c5358",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
+              "type": "BC-ducks",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -238,10 +258,28 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a67cc073e91c5358",
+  "active": "c966d16b9603afdd",
   "lastOpenFiles": [
-    "Kita.md",
     "Untitled.canvas",
+    "Selemdûrin vallanvaihto.md",
+    "Iki-Haapa.md",
+    "Thaer A'jabar.md",
+    "Vaka-Viisi.md",
+    "Yuhzus.md",
+    "Ûhm-gwe.md",
+    "Tupa Duuri.md",
+    "Elhen Imperiumi.md",
+    "Ralfonin Suur-lääni.md",
+    "Elhen Imperiumin Keisari.md",
+    "Jylhän aatelissuku.md",
+    "Sôru-agaz.md",
+    "Vuorimaat.md",
+    "Gre'Lekus / Grelekin saaristo.md",
+    "Gre'Lekus ",
+    "Pohjoiset kääpiö-maat.md",
+    "Rulindínin Haltija-maat.md",
+    "Risa.md",
+    "Kita.md",
     "Vanhat jumalat.md",
     "Elhen kirkko.md",
     "Lekhêz.md",
@@ -249,24 +287,7 @@
     "Templates/Kaupunki Template.md",
     "Fel-Maul.md",
     "Brantby.md",
-    "Bôl-Thazâdin kadonnut kaupunki.md",
-    "Bôl-Kolduhr.md",
-    "Templates/Henkilö Template.md",
-    "Filverel.md",
-    "Dak.md",
-    "Henkilö.md",
     "Templates",
-    "Kidan alttari.md",
-    "Shial-Nagheraz.md",
-    "Filverelin kirjasto.md",
-    "Risa.md",
-    "Shial-Nagherazin Kultistit.md",
-    "Kalmankoskema.md",
-    "Ralfonin kirjaston arvoitukset.md",
-    "Rhindelgâlin uhraus.md",
-    "Rhindelgâl.md",
-    "Sankarin runo.md",
-    "Felganarin.md",
     "Tärkeät tapahtumat.canvas",
     "Maps/Sôru-agazin kartta.png",
     "Sôru-agazin kartta.png",
@@ -282,7 +303,6 @@
     "Maps/Waterline.cpg",
     "Maps/Hashing.shp",
     "Maps/Hashing.shx",
-    "Maps/Hashing.dbf",
     "Maps/Shûlumir kartta.png",
     "Maps/Selemdûr kartta.png",
     "Maps/Länsi-Lakeuden kartta.png",

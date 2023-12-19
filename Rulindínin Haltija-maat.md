@@ -2,6 +2,7 @@
 tags:
   - Maantiede/Valtakunta
   - Historia/Haltijat
+ylempi: "[[Sôru-agaz]]"
 ---
 [Sôru-agazin](Sôru-agaz.md) mantereen eteläisin valtakunta. [Haltijoiden](Haltijat.md) kotialuetta.
 
