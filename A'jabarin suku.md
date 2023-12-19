@@ -2,6 +2,12 @@
 tags:
   - Historia/Suku
   - Historia/Ihmiset
+jäsenet:
+  - "[[Zahhak A'jabar]]"
+  - "[[Thaer A'jabar]]"
+  - "[[Bassem A'jabar]]"
+  - "[[Balokim A'jabar]]"
+hallitsee: "[[Arnakeshin valtakunta]]"
 ---
 [Ûhm-gwe](Ûhm-gwe.md)läinen aatelissuku, jonka jäsenet ovat [Bassem A'jabar](Bassem%20A'jabar.md) jälkeläisiä.
 

@@ -1,8 +1,7 @@
 ---
 tags:
   - Maantiede/Lääni
-ylempi:
-  - "[[Elhen Imperiumi]]"
-  - "[[Sôru-agaz]]"
+palvelee: "[[Elhen Imperiumi]]"
+aliases:
 ---
-Autonominen hallinto-alue, [Pohjoisten kääpiö-maiden](Pohjoiset%20kääpiö-maat.md) alueella.
+Autonominen hallinto-alue, [[Elhen Imperiumi]]n alueella.

@@ -2,6 +2,7 @@
 tags:
   - Henkilö/Elossa
   - Henkilö/Johtaja
+alaiset:
 ---
 [Varkainkilta](Varkainkilta.md)n valtuutettu. Vanha äijä
 

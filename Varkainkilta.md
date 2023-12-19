@@ -2,6 +2,12 @@
 tags:
   - Maantiede/Järjestö
   - Historia/Järjestö
+jäsenet:
+  - "[[Shiva]]"
+  - "[[Korsto]]"
+  - "[[Alton]]"
+  - "[[Dak]]"
+johtaja: "[[Dak]]"
 ---
 Alamaailman toimintaa johtava järjestö, jonka jäsenistö koostuu rikollisista ja hylkiöistä.
 Varkainkillalla on laajasti tietoa [Sôru-agaz](Sôru-agaz.md)issa tapahtumista.

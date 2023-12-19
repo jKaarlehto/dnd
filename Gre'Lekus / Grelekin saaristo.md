@@ -2,5 +2,7 @@
 tags:
   - Maantiede/Valtakunta
   - Historia/Grelekit
-ylempi: "[[Sôru-agaz]]"
+sijaitsee:
+  - "[[Sôru-agaz]]"
 ---
+[[Sôru-agaz]]in lounaisessa kulmassa sijaitseva saaristoalue.

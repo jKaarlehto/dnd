@@ -53,7 +53,12 @@
     "Jäsen",
     "Järjestöt",
     "jäsenet",
-    "järjestöt"
+    "järjestöt",
+    "alaiset",
+    "liittolaiset",
+    "vanhemmat",
+    "hallitsija",
+    "palvelija"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
@@ -72,7 +77,7 @@
   "refreshOnNoteChange": false,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
-  "openDuckOnLoad": false,
+  "openDuckOnLoad": true,
   "openDownOnLoad": true,
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": true,
@@ -106,7 +111,10 @@
     "hallitsee",
     "Jäsenet",
     "Järjestöt",
-    "järjestöt"
+    "järjestöt",
+    "johtaja",
+    "vanhemmat",
+    "hallitsija"
   ],
   "limitJumpToFirstFields": [
     "vanhempi",
@@ -138,7 +146,12 @@
     "Jäsen",
     "Järjestöt",
     "jäsenet",
-    "järjestöt"
+    "järjestöt",
+    "alaiset",
+    "liittolaiset",
+    "vanhemmat",
+    "hallitsija",
+    "palvelija"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
@@ -168,12 +181,8 @@
       "down": [
         "alempi"
       ],
-      "next": [
-        "seuraava"
-      ],
-      "prev": [
-        "edellinen"
-      ]
+      "next": [],
+      "prev": []
     },
     {
       "up": [
@@ -185,6 +194,19 @@
       "down": [
         "sisältää"
       ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "palvelee"
+      ],
+      "same": [
+        "rinnastettavat"
+      ],
+      "down": [
+        "hallitsee"
+      ],
       "next": [
         "seuraava"
       ],
@@ -194,19 +216,19 @@
     },
     {
       "up": [
-        "hallitsee"
+        "johtaja"
       ],
       "same": [
-        "rinnastettavat"
+        "vertaiset"
       ],
       "down": [
-        "palvelee"
+        "alaiset"
       ],
       "next": [
-        "seuraaja"
+        "seuraava"
       ],
       "prev": [
-        "edeltäjä"
+        "edellinen"
       ]
     },
     {
@@ -214,7 +236,7 @@
         "järjestöt"
       ],
       "same": [
-        "vertaiset"
+        "liittolaiset"
       ],
       "down": [
         "jäsenet"
@@ -224,30 +246,13 @@
     },
     {
       "up": [
-        "johtaja"
-      ],
-      "same": [
-        "vertainen"
-      ],
-      "down": [
-        "alainen"
-      ],
-      "next": [
-        "seuraava"
-      ],
-      "prev": [
-        "edellinen"
-      ]
-    },
-    {
-      "up": [
-        "vanhempi"
+        "vanhemmat"
       ],
       "same": [
         "sisaret"
       ],
       "down": [
-        "lapsi"
+        "lapset"
       ],
       "next": [
         "seuraaja"

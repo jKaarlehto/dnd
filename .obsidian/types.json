@@ -12,6 +12,7 @@
     "ylempi": "multitext",
     "muut": "multitext",
     "vertainen": "multitext",
-    "jäsenet": "multitext"
+    "jäsenet": "multitext",
+    "sijaitsee": "multitext"
   }
 }

@@ -9,5 +9,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "breadcrumbs",
-  "dataview"
+  "dataview",
+  "obsidian-map-view"
 ]

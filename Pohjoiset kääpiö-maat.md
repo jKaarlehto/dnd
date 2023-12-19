@@ -2,7 +2,8 @@
 tags:
   - Historia/Kääpiöt
   - Maantiede/Valtakunta
-ylempi: "[[Sôru-agaz]]"
+sijaitsee:
+  - "[[Sôru-agaz]]"
 aliases:
   - Nori-Koldhazǎd
 ---

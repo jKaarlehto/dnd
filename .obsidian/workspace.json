@@ -13,98 +13,53 @@
             "dimension": 74.15730337078652,
             "children": [
               {
-                "id": "71ff2f43829c6435",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Yuhzus.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "c966d16b9603afdd",
                 "type": "leaf",
                 "state": {
+                  "type": "map",
+                  "state": {
+                    "name": "Default",
+                    "mapZoom": 8,
+                    "mapCenter": {
+                      "lat": 1.6504674962567953,
+                      "lng": 25.614624023437504
+                    },
+                    "query": "",
+                    "chosenMapSource": 1,
+                    "queryError": false,
+                    "followActiveNote": true
+                  }
+                }
+              },
+              {
+                "id": "5acb8c87610330b6",
+                "type": "leaf",
+                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Selemdûrin vallanvaihto.md",
+                    "file": "Leichten aatelishuone.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "3833e2b1275100b9",
-            "type": "split",
+            "id": "4dfa67018bb67c28",
+            "type": "tabs",
             "dimension": 25.84269662921348,
             "children": [
               {
-                "id": "d8c138efb72ba18c",
-                "type": "tabs",
-                "dimension": 68.28193832599119,
-                "children": [
-                  {
-                    "id": "40945e44ed0ea305",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Selemdûrin vallanvaihto.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 2,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": true,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": false,
-                          "colorGroups": [],
-                          "collapse-display": false,
-                          "showArrow": false,
-                          "textFadeMultiplier": -3,
-                          "nodeSizeMultiplier": 1.53295491536458,
-                          "lineSizeMultiplier": 1.84678141276042,
-                          "collapse-forces": false,
-                          "centerStrength": 0,
-                          "repelStrength": 20,
-                          "linkStrength": 1,
-                          "linkDistance": 500,
-                          "scale": 0.24761899599198922,
-                          "close": true
-                        }
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "4dfa67018bb67c28",
-                "type": "tabs",
-                "dimension": 31.718061674008812,
-                "children": [
-                  {
-                    "id": "a258900448717bd1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "tagfolder-view",
-                      "state": {}
-                    }
-                  }
-                ]
+                "id": "a258900448717bd1",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           }
         ],
         "direction": "horizontal"
@@ -190,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 328.5
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -206,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selemdûrin vallanvaihto.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selemdûrin vallanvaihto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,38 +208,40 @@
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-map-view:Open map view": false
     }
   },
   "active": "c966d16b9603afdd",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Selemdûrin vallanvaihto.md",
-    "Iki-Haapa.md",
+    "Location added on 2023-12-19T22-44.md",
+    "Maailmankartta.md",
+    "Note.md",
+    "A'jabarin suku.md",
+    "Arnakeshin valtakunta.md",
+    "Leichten aatelishuone.md",
+    "Balokim A'jabar.md",
     "Thaer A'jabar.md",
-    "Vaka-Viisi.md",
+    "Zahhak A'jabar.md",
+    "Shiva.md",
+    "Varkainkilta.md",
+    "Alton.md",
+    "Dak.md",
+    "Korsto.md",
+    "Oelos.md",
     "Yuhzus.md",
-    "Ûhm-gwe.md",
-    "Tupa Duuri.md",
-    "Elhen Imperiumi.md",
-    "Ralfonin Suur-lääni.md",
-    "Elhen Imperiumin Keisari.md",
-    "Jylhän aatelissuku.md",
+    "Gêrin saarivaltio.md",
+    "Gre'Lekus / Grelekin saaristo.md",
     "Sôru-agaz.md",
     "Vuorimaat.md",
-    "Gre'Lekus / Grelekin saaristo.md",
-    "Gre'Lekus ",
-    "Pohjoiset kääpiö-maat.md",
     "Rulindínin Haltija-maat.md",
-    "Risa.md",
-    "Kita.md",
-    "Vanhat jumalat.md",
-    "Elhen kirkko.md",
-    "Lekhêz.md",
-    "Grezli.md",
-    "Templates/Kaupunki Template.md",
-    "Fel-Maul.md",
-    "Brantby.md",
+    "Pohjoiset kääpiö-maat.md",
+    "Elhen Imperiumi.md",
+    "Ralfonin Suur-lääni.md",
+    "Elhen imperiumin aatelishuoneet.md",
+    "Selemdûrin vallanvaihto.md",
+    "Untitled.canvas",
+    "Gre'Lekus ",
     "Templates",
     "Tärkeät tapahtumat.canvas",
     "Maps/Sôru-agazin kartta.png",

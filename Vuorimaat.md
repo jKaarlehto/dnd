@@ -1,7 +1,8 @@
 ---
 tags:
   - Maantiede/Valtakunta
-ylempi: "[[Sôru-agaz]]"
+sijaitsee:
+  - "[[Sôru-agaz]]"
 alempi:
 ---
 
