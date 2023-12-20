@@ -1,7 +1,7 @@
 ---
 tags:
   - Uskonto/Jumala
-jäsen:
+jäsen: "[[Kolme epäjumalaa]]"
 ---
 >[!quote] Lähde: Vuohiäidin seuraaja Risassa
 >

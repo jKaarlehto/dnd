@@ -15,7 +15,7 @@ Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio
 1. [Elhen Imperiumi](Elhen%20Imperiumi.md)
 2. [Rulindínin Haltija-maat](Rulindínin%20Haltija-maat.md)
 3. [Pohjoiset kääpiö-maat](Pohjoiset%20kääpiö-maat.md)
-4. [Ralfonin Suur-lääni](Ralfonin%20Suur-lääni)
+4. [Ralfonin Suur-Lääni](Ralfonin%20Suur-Lääni.md)
 5. [Gre'Lekus / Grelekin saaristo](Gre'Lekus%20/%20Grelekin%20saaristo)
 6. [Vuorimaat](Vuorimaat)
 

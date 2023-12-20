@@ -52,5 +52,14 @@
       ],
       "key": "S"
     }
+  ],
+  "juggl:open-vis": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

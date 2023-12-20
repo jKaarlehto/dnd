@@ -5,6 +5,6 @@ tags:
 jäsenet:
   - "[[Jylhän aatelissuku]]"
   - "[[Leichten aatelishuone]]"
-palvelee: "[[Elhen Imperiumi]]"
+hallitsija: "[[Keisari Aegor El'haera]]"
 ---
 Aatelissukuja, joiden jälkeläisten uskotaan olevan [Elhen](Elhe.md) jälkeläisiä.

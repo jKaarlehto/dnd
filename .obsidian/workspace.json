@@ -11,13 +11,22 @@
             "id": "36c0d97c18c3361b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a67d8aade14a607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f719b7a10b31c932",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,6 +41,7 @@
       {
         "id": "14a358be6667255f",
         "type": "tabs",
+        "dimension": 50.224719101123604,
         "children": [
           {
             "id": "a30fd3617025e07a",
@@ -41,6 +51,22 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "671af52291bc6115",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "26b200db630638dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           },
           {
@@ -56,6 +82,29 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4191a5e500debdd1",
+        "type": "tabs",
+        "dimension": 49.775280898876396,
+        "children": [
+          {
+            "id": "64497da9f1936a60",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dcf187b8a5dec41",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
             }
           },
           {
@@ -73,37 +122,12 @@
               "type": "git-history-view",
               "state": {}
             }
-          },
-          {
-            "id": "a67cc073e91c5358",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "671af52291bc6115",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d68269908eca73c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 307.5
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -119,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,17 +159,32 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6dcf187b8a5dec41",
+            "id": "a8e0ae93fec0f58c",
             "type": "leaf",
             "state": {
-              "type": "BC-ducks",
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "db054626f38d2ad2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "d97738f6835f2fc0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
@@ -155,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,59 +207,60 @@
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "juggl:Juggl global graph": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "36c0d97c18c3361b",
+  "active": "a30fd3617025e07a",
   "lastOpenFiles": [
-    "A'zelserath.md",
-    "Kolme epäjumalaa.md",
-    "Vanhat jumalat.md",
-    "Vuohiäiti.md",
-    "Malroth.md",
-    "Yuhzus.md",
-    "Vaka-Viisi.md",
-    "Thaer A'jabar.md",
-    "A'jabarin suku.md",
-    "Zahhak A'jabar.md",
-    "Bassem A'jabar.md",
-    "Arnakeshin valtakunta.md",
-    "Balokim A'jabar.md",
-    "Selemdûr.md",
-    "Location added on 2023-12-19T22-49.md",
-    "Leichten aatelishuone.md",
-    "Location added on 2023-12-19T22-44.md",
-    "Maailmankartta.md",
-    "Note.md",
-    "Shiva.md",
-    "Varkainkilta.md",
-    "Alton.md",
-    "Dak.md",
-    "Korsto.md",
-    "Oelos.md",
-    "Gêrin saarivaltio.md",
-    "Untitled.canvas",
-    "Gre'Lekus ",
-    "Templates",
+    "Resources/jumalhovi.png",
+    "Resources/Sôru-agazin kartta.png",
+    "Resources/Shûlumir kartta.png",
+    "Resources/Elhen vasara.png",
+    "Resources/Selemdûr kartta.png",
+    "Resources/Elhen Imperiumin läntinen kartta.png",
+    "Resources/Sôru-agazin riimu.png",
+    "Resources/Länsi-Lakeuden kartta.png",
+    "Resources",
+    "untitled folder",
+    "Maps",
+    "QGIS/Mountains/Borders/politicalunits.shx",
+    "QGIS/Mountains/Borders/politicalunits.shp",
+    "QGIS/Mountains/Borders/politicalunits.qix",
+    "QGIS/Mountains/Borders/politicalunits.prj",
+    "QGIS/Mountains/Borders/politicalunits.dbf",
+    "QGIS/Mountains/Borders/politicalunits.cpg",
+    "QGIS/Rivers/Rivers.shx",
+    "Esihistoria.md",
+    "Notes/Ûhm-gwe.md",
+    "Notes/index.md",
+    "Notes/Zahhak A'jabar.md",
+    "Notes/Yuhzus.md",
+    "Notes/Ya’ar.md",
+    "Notes/Werdaeg.md",
+    "Notes/Vuotava Kolpakko.md",
+    "Notes/Vuorimaat.md",
+    "Notes/Vuohiäiti.md",
+    "Notes/Veli Galindus.md",
+    "Notes/Vaskilaiset.md",
+    "Notes/Varkainkilta.md",
+    "Notes/Vanhuksen kirjasto.md",
+    "Notes/Vanhat jumalat.md",
+    "Notes/Vaka-Viisi.md",
+    "Notes/Uurmsvaltin haltijasuku.md",
+    "Notes/Ulthâzin akolyytit.md",
+    "Notes/Ulthâz.md",
+    "Notes/Tähtitieteilijän muistiinpanot.md",
+    "Notes/Tupa Duuri.md",
+    "Notes/Tuoneteer.md",
+    "Notes/Traakkilainen imperiumi.md",
+    "Notes/Thivratassa.md",
+    "Notes/Thaer A'jabar.md",
     "Tärkeät tapahtumat.canvas",
+    "Untitled.canvas",
     "Maps/Sôru-agazin kartta.png",
     "Sôru-agazin kartta.png",
-    "Shûlumir kartta.png",
-    "Selemdûr kartta.png",
-    "Länsi-Lakeuden kartta.png",
-    "Elhen Imperiumin läntinen kartta.png",
-    "Maps/Mountains/Borders/politicalunits.qix",
-    "Maps/Waterline.shp",
-    "Maps/Waterline.shx",
-    "Maps/Waterline.dbf",
-    "Maps/Waterline.prj",
-    "Maps/Waterline.cpg",
-    "Maps/Hashing.shp",
-    "Maps/Hashing.shx",
-    "Maps/Shûlumir kartta.png",
-    "Maps/Selemdûr kartta.png",
-    "Maps/Länsi-Lakeuden kartta.png",
-    "Maps/Elhen Imperiumin läntinen kartta.png"
+    "Shûlumir kartta.png"
   ]
 }

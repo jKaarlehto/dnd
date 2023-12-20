@@ -3,6 +3,9 @@ aliases:
   - Maailmanarpi
 tags:
   - Uskonto/Pyhättö
+sisältää:
+  - "[[Ya’ar]]"
+  - "[[Mutra’ar]]"
 ---
 Taivaalla sijaitseva usva, jossa on muutamia kirkkaampia tähtiä. Jumalhovi on tärkeä osa monia uskontoja, ja sen syntymiselle on lukuisia tarinoita.
 
