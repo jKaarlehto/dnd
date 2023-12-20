@@ -123,7 +123,7 @@
       "currentMode": "auto"
     }
   ],
-  "chosenMapMode": "auto",
+  "chosenMapMode": "light",
   "saveHistory": true,
   "letZoomBeyondMax": false,
   "queryForFollowActiveNote": "path:\"$PATH$\"",

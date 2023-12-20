@@ -4,65 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "888bfc60b9a34689",
-        "type": "split",
+        "id": "a8ecb452b01c1375",
+        "type": "tabs",
         "children": [
           {
-            "id": "a8ecb452b01c1375",
-            "type": "tabs",
-            "dimension": 74.15730337078652,
-            "children": [
-              {
-                "id": "c966d16b9603afdd",
-                "type": "leaf",
-                "state": {
-                  "type": "map",
-                  "state": {
-                    "name": "Default",
-                    "mapZoom": 8,
-                    "mapCenter": {
-                      "lat": 1.6504674962567953,
-                      "lng": 25.614624023437504
-                    },
-                    "query": "",
-                    "chosenMapSource": 1,
-                    "queryError": false,
-                    "followActiveNote": true
-                  }
-                }
-              },
-              {
-                "id": "5acb8c87610330b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Leichten aatelishuone.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "36c0d97c18c3361b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "4dfa67018bb67c28",
-            "type": "tabs",
-            "dimension": 25.84269662921348,
-            "children": [
-              {
-                "id": "a258900448717bd1",
-                "type": "leaf",
-                "state": {
-                  "type": "tagfolder-view",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,34 +172,34 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c966d16b9603afdd",
+  "active": "36c0d97c18c3361b",
   "lastOpenFiles": [
+    "A'zelserath.md",
+    "Kolme epäjumalaa.md",
+    "Vanhat jumalat.md",
+    "Vuohiäiti.md",
+    "Malroth.md",
+    "Yuhzus.md",
+    "Vaka-Viisi.md",
+    "Thaer A'jabar.md",
+    "A'jabarin suku.md",
+    "Zahhak A'jabar.md",
+    "Bassem A'jabar.md",
+    "Arnakeshin valtakunta.md",
+    "Balokim A'jabar.md",
+    "Selemdûr.md",
+    "Location added on 2023-12-19T22-49.md",
+    "Leichten aatelishuone.md",
     "Location added on 2023-12-19T22-44.md",
     "Maailmankartta.md",
     "Note.md",
-    "A'jabarin suku.md",
-    "Arnakeshin valtakunta.md",
-    "Leichten aatelishuone.md",
-    "Balokim A'jabar.md",
-    "Thaer A'jabar.md",
-    "Zahhak A'jabar.md",
     "Shiva.md",
     "Varkainkilta.md",
     "Alton.md",
     "Dak.md",
     "Korsto.md",
     "Oelos.md",
-    "Yuhzus.md",
     "Gêrin saarivaltio.md",
-    "Gre'Lekus / Grelekin saaristo.md",
-    "Sôru-agaz.md",
-    "Vuorimaat.md",
-    "Rulindínin Haltija-maat.md",
-    "Pohjoiset kääpiö-maat.md",
-    "Elhen Imperiumi.md",
-    "Ralfonin Suur-lääni.md",
-    "Elhen imperiumin aatelishuoneet.md",
-    "Selemdûrin vallanvaihto.md",
     "Untitled.canvas",
     "Gre'Lekus ",
     "Templates",

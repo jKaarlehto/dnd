@@ -117,41 +117,30 @@
     "hallitsija"
   ],
   "limitJumpToFirstFields": [
-    "vanhempi",
-    "sisar",
-    "lapsi",
-    "seuraaja",
-    "edeltäjä",
-    "esimies",
-    "vertainen",
-    "alainen",
-    "johtaja",
     "ylempi",
     "sama",
     "alempi",
-    "seuraava",
-    "edellinen",
     "sijaitsee",
     "muut",
     "sisältää",
-    "hallitsee",
     "palvelee",
     "rinnastettavat",
+    "hallitsee",
+    "seuraava",
+    "edellinen",
+    "johtaja",
     "vertaiset",
+    "alaiset",
+    "järjestöt",
+    "liittolaiset",
+    "jäsenet",
+    "vanhemmat",
     "sisaret",
     "lapset",
-    "seuraajat",
-    "Jäsenet",
-    "Jäsenistö",
-    "Jäsen",
-    "Järjestöt",
-    "jäsenet",
-    "järjestöt",
-    "alaiset",
-    "liittolaiset",
-    "vanhemmat",
+    "seuraaja",
+    "edeltäjä",
     "hallitsija",
-    "palvelija"
+    "alainen"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
@@ -199,30 +188,13 @@
     },
     {
       "up": [
-        "palvelee"
+        "hallitsija"
       ],
       "same": [
         "rinnastettavat"
       ],
       "down": [
-        "hallitsee"
-      ],
-      "next": [
-        "seuraava"
-      ],
-      "prev": [
-        "edellinen"
-      ]
-    },
-    {
-      "up": [
-        "johtaja"
-      ],
-      "same": [
-        "vertaiset"
-      ],
-      "down": [
-        "alaiset"
+        "alainen"
       ],
       "next": [
         "seuraava"
@@ -243,6 +215,23 @@
       ],
       "next": [],
       "prev": []
+    },
+    {
+      "up": [
+        "johtaja"
+      ],
+      "same": [
+        "vertaiset"
+      ],
+      "down": [
+        "alaiset"
+      ],
+      "next": [
+        "seuraava"
+      ],
+      "prev": [
+        "edellinen"
+      ]
     },
     {
       "up": [

@@ -1,5 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "",
-  "baseFontSize": 18
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 18,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ]
 }

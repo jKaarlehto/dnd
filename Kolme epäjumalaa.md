@@ -3,6 +3,9 @@ tags:
   - Uskonto/Jumala
   - Historia/Aikakausi
   - Uskonto/Heretiikka
+jäsenet:
+  - "[[A'zelserath]]"
+  - "[[Shial-Nagheraz]]"
 ---
 >[!quote] Tähtitieteilijän muistiinpanot
 >![](Tähtitieteilijän%20muistiinpanot.md#^25ed69)
