@@ -1,6 +1,7 @@
 ---
 tags:
   - Maantiede/Järjestö
+  - Historia/Suku
 alaiset:
   - "[[Selemdûr]]"
   - "[[Ralfonin Suur-Lääni]]"

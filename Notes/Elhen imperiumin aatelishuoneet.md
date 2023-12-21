@@ -3,7 +3,7 @@ tags:
   - Maantiede/Järjestö
   - Historia/Ihmiset
 jäsenet:
-  - "[[Jylhän aatelissuku]]"
+  - "[[Jylhän aatelishuone]]"
   - "[[Leichten aatelishuone]]"
 hallitsija: "[[Keisari Aegor El'haera]]"
 ---

@@ -4,4 +4,4 @@ tags:
 ---
 Ihmisten valtakunnan  ja haltija-maiden rajalla oleva, kallion seinämään rakennettu kaupunki.
 
-Kaupunkia hallitsee [Jylhän aatelissuku](Jylhän%20aatelissuku.md). Tunnettu aseentaonnastaan.
+Kaupunkia hallitsee [Jylhän aatelishuone](Jylhän%20aatelishuone.md). Tunnettu aseentaonnastaan.
