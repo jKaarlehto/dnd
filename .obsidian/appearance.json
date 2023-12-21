@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "ITS Theme",
   "baseFontSize": 18,
-  "theme": "system",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "S - Encoded Fonts",
     "S - Encoded Icons"
