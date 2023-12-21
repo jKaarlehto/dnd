@@ -60,7 +60,8 @@
     "hallitsija",
     "palvelija",
     "suppeampi",
-    "liittyvät"
+    "liittyvät",
+    "puoliso"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
@@ -146,7 +147,8 @@
     "alainen",
     "laajempi",
     "suppeampi",
-    "liittyvät"
+    "liittyvät",
+    "puoliso"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
@@ -223,7 +225,7 @@
         "vanhemmat"
       ],
       "same": [
-        "sisaret"
+        "puoliso"
       ],
       "down": [
         "lapset"

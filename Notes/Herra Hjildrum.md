@@ -3,6 +3,8 @@ tags:
   - Henkilö/Johtaja
   - Henkilö/Haltija
   - Henkilö/Elossa
+puoliso: "[[Esajas Hjildrum]]"
+lapset: "[[Migas Hjildrum]]"
 ---
 [Hjildrumin haltijasuvun](Hjildrumin%20haltijasuku.md) johtaja.
 
