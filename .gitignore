@@ -1,2 +1,2 @@
-_site/
-.obsidian/workspace*
+.obsidian/workspace*.json
+.obsidians/plugins/text-extractor/cache/

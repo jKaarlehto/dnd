@@ -6,13 +6,19 @@
       {
         "id": "a8ecb452b01c1375",
         "type": "tabs",
+        "dimension": 50.98039215686274,
         "children": [
           {
             "id": "36c0d97c18c3361b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Herra Hjildrum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -20,6 +26,7 @@
       {
         "id": "0a67d8aade14a607",
         "type": "tabs",
+        "dimension": 49.01960784313726,
         "children": [
           {
             "id": "f719b7a10b31c932",
@@ -127,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 200
   },
   "right": {
     "id": "5e987266027bf10b",
@@ -143,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Herra Hjildrum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Herra Hjildrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +218,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
       "juggl:Juggl global graph": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a30fd3617025e07a",
+  "active": "36c0d97c18c3361b",
   "lastOpenFiles": [
+    "Notes/Alton.md",
+    "Notes/Varkainkilta.md",
+    "Notes/Elhe.md",
     "Resources/jumalhovi.png",
     "Resources/Sôru-agazin kartta.png",
     "Resources/Shûlumir kartta.png",
@@ -244,7 +257,6 @@
     "Notes/Vuohiäiti.md",
     "Notes/Veli Galindus.md",
     "Notes/Vaskilaiset.md",
-    "Notes/Varkainkilta.md",
     "Notes/Vanhuksen kirjasto.md",
     "Notes/Vanhat jumalat.md",
     "Notes/Vaka-Viisi.md",
@@ -256,11 +268,9 @@
     "Notes/Tuoneteer.md",
     "Notes/Traakkilainen imperiumi.md",
     "Notes/Thivratassa.md",
-    "Notes/Thaer A'jabar.md",
     "Tärkeät tapahtumat.canvas",
     "Untitled.canvas",
     "Maps/Sôru-agazin kartta.png",
-    "Sôru-agazin kartta.png",
-    "Shûlumir kartta.png"
+    "Sôru-agazin kartta.png"
   ]
 }
