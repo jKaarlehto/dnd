@@ -130,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Herra Hjildrum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Herra Hjildrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +221,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "36c0d97c18c3361b",
+  "active": "a30fd3617025e07a",
   "lastOpenFiles": [
+    "Notes/Herra Hjildrum.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Alton.md",
     "Notes/Varkainkilta.md",
     "Notes/Elhe.md",
@@ -266,8 +267,6 @@
     "Notes/Tähtitieteilijän muistiinpanot.md",
     "Notes/Tupa Duuri.md",
     "Notes/Tuoneteer.md",
-    "Notes/Traakkilainen imperiumi.md",
-    "Notes/Thivratassa.md",
     "Tärkeät tapahtumat.canvas",
     "Untitled.canvas",
     "Maps/Sôru-agazin kartta.png",

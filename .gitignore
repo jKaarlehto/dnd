@@ -1,2 +1,3 @@
 .obsidian/workspace*.json
 .obsidians/plugins/text-extractor/cache/
+.DS_Store
