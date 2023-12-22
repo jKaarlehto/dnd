@@ -1,6 +1,9 @@
 ---
 tags:
   - Maantiede/Kaupunki
+
+location: [-0.8459165322899671,26.998901367187504]
+
 ---
 [Elhen Imperiumi](Elhen%20Imperiumi.md)n pääkaupunki. Kaupunkia ympyröi korkea harmaa muuri.
 ###### Alueet

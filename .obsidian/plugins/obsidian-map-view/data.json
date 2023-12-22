@@ -31,38 +31,23 @@
       "preset": true,
       "iconDetails": {
         "prefix": "fas",
-        "icon": "fa-circle",
-        "markerColor": "blue",
-        "innerHTML": "<svg class=\"map-view-icon\"><use xlink:href=\"#icon-1804148836\"></use></svg>"
+        "icon": "fa-question",
+        "innerHTML": "<svg class=\"map-view-icon\"><use xlink:href=\"#icon-1804148836\"></use></svg>",
+        "markerColor": "black",
+        "shape": "penta"
       }
     },
     {
-      "ruleName": "#trip",
+      "ruleName": "#Maantiede/Kaupunki",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
-        "icon": "fa-hiking",
-        "markerColor": "green"
-      }
-    },
-    {
-      "ruleName": "#trip-water",
-      "preset": false,
-      "iconDetails": {
-        "prefix": "fas",
-        "markerColor": "blue"
-      }
-    },
-    {
-      "ruleName": "#dogs",
-      "preset": false,
-      "iconDetails": {
-        "prefix": "fas",
-        "icon": "fa-paw"
+        "icon": "fa-chess-rook",
+        "markerColor": "black"
       }
     }
   ],
-  "zoomOnGoFromNote": 15,
+  "zoomOnGoFromNote": 5,
   "autoZoom": true,
   "markerClickBehavior": "replaceCurrent",
   "markerCtrlClickBehavior": "dedicatedPane",
@@ -103,11 +88,11 @@
     }
   ],
   "mapControls": {
-    "filtersDisplayed": false,
-    "viewDisplayed": false,
-    "presetsDisplayed": false
+    "filtersDisplayed": true,
+    "viewDisplayed": true,
+    "presetsDisplayed": true
   },
-  "maxClusterRadiusPixels": 20,
+  "maxClusterRadiusPixels": 200,
   "searchProvider": "osm",
   "useGooglePlaces": false,
   "mapSources": [
@@ -133,7 +118,7 @@
   "geoHelperCommand": "chrome",
   "geoHelperUrl": "https://esm7.github.io/obsidian-geo-helper/",
   "handleGeolinksInNotes": true,
-  "showGeolinkPreview": false,
-  "zoomOnGeolinkPreview": 10,
+  "showGeolinkPreview": true,
+  "zoomOnGeolinkPreview": 5,
   "routingUrl": "https://www.google.com/maps/dir/?api=1&origin={x0},{y0}&destination={x1},{y1}"
 }

@@ -1,7 +1,7 @@
 
 
 ```leaflet
-id: leaflet-test
+id: soru-agaz
 osmLayer: false
 tileServer: https://jkaarlehto.github.io/dnd_webmap/Tiles/WorldMap/{z}/{x}/{y}.png
 height: 500px
