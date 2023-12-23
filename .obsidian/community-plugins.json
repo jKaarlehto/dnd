@@ -4,7 +4,6 @@
   "omnisearch",
   "text-snippets-obsidian",
   "text-extractor",
-  "obsidian-leaflet-plugin",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "breadcrumbs",
@@ -12,6 +11,5 @@
   "obsidian-map-view",
   "obsidian-style-settings",
   "obsidian-tagfolder",
-  "juggl",
   "templater-obsidian"
 ]

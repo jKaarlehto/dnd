@@ -1,6 +1,9 @@
 ---
 tags:
   - Maantiede/Kaupunki
+
+
+location: [-1.8920510496201288,19.465026855468754] 
 ---
 [Sôru-agazin](Sôru-agaz.md) kapunki, joka on tunnettu bardikulttuurista ja tupakasta.
 

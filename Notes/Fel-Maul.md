@@ -1,8 +1,11 @@
 ---
 tags:
   - Maantiede/Kaupunki
+
+location: [-0.8610210575212998,26.96456909179688]
+
 ---
-[Elhen Imperiumi](Elhen%20Imperiumi.md)n pääkaupunki. Kaupunkia ympyröi korkea harmaa muuri.
+[Elhen Imperiumi](Elhen%20Imperiumi.md)n pääkaupunki. Kaupunkia ympyröi korkea harmaa muuri. Kaupungin alle on hautautunut lukuisia vanhoja rakennuksia ja teitä 
 ###### Alueet
 
 - [Fel-Maulin vanha kaupunki](Fel-Maulin%20vanha%20kaupunki)

@@ -14,7 +14,7 @@
     "vertainen": "multitext",
     "jäsenet": "multitext",
     "sijaitsee": "multitext",
-    "location": "multitext",
+    "location": "text",
     "sisältää": "multitext",
     "alaiset": "multitext",
     "alainen": "multitext"
