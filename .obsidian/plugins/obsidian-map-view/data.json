@@ -32,7 +32,7 @@
       "iconDetails": {
         "prefix": "fas",
         "icon": "fa-question",
-        "innerHTML": "<svg class=\"map-view-icon\"><use xlink:href=\"#icon-1804148836\"></use></svg>",
+        "innerHTML": "<svg class=\"map-view-icon\"><use xlink:href=\"#icon-59574504\"></use></svg>",
         "markerColor": "black",
         "shape": "penta"
       }
@@ -47,9 +47,9 @@
       }
     }
   ],
-  "zoomOnGoFromNote": 5,
+  "zoomOnGoFromNote": 3,
   "autoZoom": true,
-  "markerClickBehavior": "replaceCurrent",
+  "markerClickBehavior": "alwaysNewTab",
   "markerCtrlClickBehavior": "dedicatedPane",
   "markerMiddleClickBehavior": "dedicatedTab",
   "openMapBehavior": "replaceCurrent",
@@ -89,10 +89,10 @@
   ],
   "mapControls": {
     "filtersDisplayed": true,
-    "viewDisplayed": true,
-    "presetsDisplayed": true
+    "viewDisplayed": false,
+    "presetsDisplayed": false
   },
-  "maxClusterRadiusPixels": 200,
+  "maxClusterRadiusPixels": 5,
   "searchProvider": "osm",
   "useGooglePlaces": false,
   "mapSources": [
@@ -119,6 +119,6 @@
   "geoHelperUrl": "https://esm7.github.io/obsidian-geo-helper/",
   "handleGeolinksInNotes": true,
   "showGeolinkPreview": true,
-  "zoomOnGeolinkPreview": 5,
+  "zoomOnGeolinkPreview": 4,
   "routingUrl": "https://www.google.com/maps/dir/?api=1&origin={x0},{y0}&destination={x1},{y1}"
 }

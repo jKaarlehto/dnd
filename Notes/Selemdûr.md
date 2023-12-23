@@ -1,8 +1,9 @@
 ---
 tags:
   - Maantiede/Kaupunki
+
+location: [-0.8431702486277648,23.003997802734375]
 ---
-[](geo:-0.8580938141758436,23.013610839843754)
 
 Velhojen ja maagien kaupunki [Sôru-agaz](Sôru-agaz.md)in länsiosissa. Selemûr sijaitsee [Länsi-Lakeuden](Lakeus) alueella.
 
