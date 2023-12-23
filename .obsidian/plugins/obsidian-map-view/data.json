@@ -89,10 +89,10 @@
   ],
   "mapControls": {
     "filtersDisplayed": true,
-    "viewDisplayed": false,
+    "viewDisplayed": true,
     "presetsDisplayed": false
   },
-  "maxClusterRadiusPixels": 5,
+  "maxClusterRadiusPixels": 60,
   "searchProvider": "osm",
   "useGooglePlaces": false,
   "mapSources": [
