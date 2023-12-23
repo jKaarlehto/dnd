@@ -3,7 +3,5 @@
 tags:
 <%* for (let i = 0; i < arr.length; i++) { %> - <% arr[i] %> 
 <%* } %>
-<% tp.system.suggester %>
-
 ---
 

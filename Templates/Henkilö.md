@@ -1,9 +1,26 @@
 ---
-<% const NOTE_TYPE = "Henkilö"%>
-<%* const arr = await tp.user.selectTags(tp, NOTE_TYPE)
-tags:
-<%* for (let i = 0; i < arr.length; i++) { %> - <% arr[i] %> 
-<%* } %>
-
+<%* var name = await tp.system.prompt("Nimi:")
+await tp.file.rename(name) %> 
+nimi: <% name %>
+rotu: 
+ikä: 
+sijainti: 
+elossa: 
+suku: 
+järjestöt: 
+lvl: 
+Rotu: Ihminen
 ---
+>[!col]
+> #### Kuvaus
+>>[!col-md]
+>> 
+>>```meta-bind
+>>INPUT[suggester(title(Rotu:),option(Ihminen)):Rotu]
+>>
+>>```
+
+
+
+
 

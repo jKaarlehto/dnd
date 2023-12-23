@@ -1,0 +1,9 @@
+ body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-vertical.mod-root > div > div.workspace-tab-container > div > div > div.view-content > div.markdown-source-view.cm-s-obsidian.mod-cm6.is-folding.is-live-preview.show-properties.is-readable-line-width.node-insert-event > div > div.cm-scroller.cm-vimMode > div.cm-sizer > div.cm-contentContainer > div > div.cm-preview-code-block.cm-embed-block.markdown-rendered{
+	border: 10px #f6e3cd; 
+	border-style: inset;
+}
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-vertical.mod-root > div > div.workspace-tab-container > div.workspace-leaf.mod-active > div > div.view-content > div.markdown-source-view.cm-s-obsidian.mod-cm6.is-folding.is-live-preview.show-properties.is-readable-line-width.node-insert-event > div > div.cm-scroller.cm-vimMode > div.cm-sizer > div.cm-contentContainer > div > div.cm-preview-code-block.cm-embed-block.markdown-rendered > div.block-language-mapview > div > div.map-view-graph-controls {
+	visibility: hidden;
+}
+
+	

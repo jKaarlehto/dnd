@@ -17,6 +17,7 @@
     "location": "text",
     "sisältää": "multitext",
     "alaiset": "multitext",
-    "alainen": "multitext"
+    "alainen": "multitext",
+    "elossa": "checkbox"
   }
 }

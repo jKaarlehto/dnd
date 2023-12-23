@@ -11,5 +11,7 @@
   "obsidian-map-view",
   "obsidian-style-settings",
   "obsidian-tagfolder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-columns",
+  "obsidian-meta-bind-plugin"
 ]
