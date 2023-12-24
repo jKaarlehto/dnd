@@ -9,5 +9,5 @@ Balasarin toimisto sijaitsee Selemdurin luoteistornissa.
 
 ###### Yhteydet
 - [Selemdûrin Maagikilta](Selemdûrin%20Maagikilta.md)
-- [Arkkimaaagi Azhar](Arkkimaaagi%20Azhar.md)
+- [Azhar](Azhar.md)
 - 

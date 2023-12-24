@@ -1,8 +1,12 @@
 ---
+tags:
+  - Henkilö/Johtaja
+  - Henkilö/Grelekki
+  - Henkilö/Elossa
+
 type:henkilö
-<%* var nimi = await tp.system.prompt("Nimi:")
-await tp.file.rename(nimi) %> 
-nimi: <% nimi %>
+ 
+nimi: Azhar
 titteli:
 rotu: 
 ikä: 
@@ -20,12 +24,14 @@ aliases:
 >>[!col-md-2]
 >>### Kuvaus
 >>%%KUVAUS%%
->>Kuvaus...
+>>[Selemdûrin Maagikillan](Selemdûrin%20Maagikilta.md) arkkimaagi ja johtaja.
+>>
+>>Pitää kirkolta salassa hallussaan [Kalman sydäntä](Kalman%20sydän). Hänen aikeensa eivät ole selvät, eikä hänen alaisensa [Maisteri Balasár](Maisteri%20Balasár.md) vaikuta luottavan häneen täysin.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
->>![[IMG_3083.png]]
->> ## <%nimi%>
+>>![[Azhar.png]]
+>> ## Azhar
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}][link]`
 >>###### Ikä: `VIEW[{ikä}]`
@@ -36,7 +42,9 @@ aliases:
 >>##### Elossa:`VIEW[{elossa}]`
 
 %%KUVAUS%%
-...Kuvaus
+### Yhteydet:
+[Maisteri Balasár](Maisteri%20Balasár.md)
+[Selemdûrin Maagikilta](Selemdûrin%20Maagikilta.md)
 
 
 ### Tiedot
@@ -45,7 +53,7 @@ aliases:
 #### Rotu:
 `INPUT[rodut][:rotu]`
 #### Ikä:
-`INPUT[text:ikä]`
+`INPUT[number:ikä]`
 #### Sijainti:
 `INPUT[suggester(optionQuery(#Maantiede)):lokaatio]`
 #### Järjestöt:
@@ -58,9 +66,6 @@ INPUT[listSuggester(title(Järjestöt:),optionQuery("/")):järjestöt]
 `INPUT[number:lvl]`
 #### Elossa:
 `INPUT[toggle:elossa]`
-
-
-
 
 
 
