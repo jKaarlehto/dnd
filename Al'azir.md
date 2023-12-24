@@ -11,7 +11,8 @@ suku:
 elossa: 
 lvl: 
 
-
+tags:
+- Henkilö
 aliases:
 - 
 ---
