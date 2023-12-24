@@ -5,7 +5,6 @@ tags:
 jäsenet:
   - "[[Shiva]]"
   - "[[Korsto]]"
-  - "[[Alton]]"
   - "[[Dak]]"
 johtaja: "[[Dak]]"
 ---
