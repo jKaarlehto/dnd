@@ -8,9 +8,9 @@
   "promptDelete": false,
   "vimMode": true,
   "pdfExportSettings": {
-    "pageSize": "Tabloid",
+    "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 100
   },
   "livePreview": false

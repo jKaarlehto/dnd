@@ -3,22 +3,19 @@ tags:
   - Henkilö/Johtaja
   - Henkilö/Grelekki
   - Henkilö/Elossa
-
 type: henkilö
- 
 nimi: Azhar
-titteli:
-rotu: 
+titteli: Arkkimaagi
+rotu: Grelekki
 ikä: 
 sijainti: 
 järjestöt: 
-suku:
-elossa: 
+suku: 
+elossa: true
 lvl: 
-
-
 aliases:
-- 
+  - 
+lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 ---
 >[!col]
 >>[!col-md-2]
