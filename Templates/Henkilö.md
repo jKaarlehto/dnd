@@ -6,11 +6,11 @@ titteli:
 rotu: 
 ikä: 
 sijainti: 
-elossa: 
-suku: 
 järjestöt: 
+suku:
+elossa: 
 lvl: 
-rotu: 
+
 
 aliases:
 - 
@@ -18,14 +18,20 @@ aliases:
 >[!col]
 >### Kuvaus
 >>[!col-md-0.5]
->>![[IMG_3083.png]]
->> ### <%nimi%>
->>```meta-bind
->>INPUT[suggester(title(Rotu:),option(hminen)):rotu]
->>```
->>```meta-bind
->>INPUT[suggester(title(Sijainti:),optionQuery(#Maantiede)):sijainti]
->>```
+>>![[IMG_3083.png]]|
+>> ##### <%nimi%>
+>> ###### `VIEW[{titteli}]`
+>> 
+>>##### Rotu: `INPUT[rodut]`
+>>##### Ikä: `INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+>>##### Sijainti: `INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+>>##### Järjestöt: `INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+>>##### Suku: `INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+>>##### Lvl: `INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+>>##### Elossa: `INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+
+
+
 
 
 
