@@ -1,5 +1,8 @@
 ---
-type:henkilö
+tags:
+ - Henkil¨¨o
+
+type: henkilö
 <%* var nimi = await tp.system.prompt("Nimi:")
 await tp.file.rename(nimi) %> 
 nimi: <% nimi %>
@@ -11,11 +14,8 @@ järjestöt:
 suku:
 elossa: 
 lvl: 
-
-tags:
-aliases:
-- 
 ---
+
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus

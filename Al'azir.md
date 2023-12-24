@@ -1,10 +1,8 @@
 ---
 tags:
-- Henkilö
-aliases:
-- 
+ - Henkilö
 
-type:henkilö
+type: henkilö
  
 nimi: Al'azir
 titteli:
@@ -16,6 +14,7 @@ suku:
 elossa: 
 lvl: 
 ---
+
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus

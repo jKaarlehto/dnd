@@ -1,22 +1,21 @@
 ---
 tags:
   - Henkilö/Elossa
-
-type:henkilö
- 
+type: henkilö
 nimi: Alton
-titteli:
-rotu: 
+titteli: Varkainkillan jäsen
+rotu: Ihminen
 ikä: 
 sijainti: 
-järjestöt: 
-suku:
-elossa: 
+järjestöt:
+  - 
+  - "[[Varkainkilta.md|Varkainkilta]]"
+suku: 
+elossa: true
 lvl: 
-
-
 aliases:
-- 
+  - 
+lokaatio: "[[Selemdûr.md|Selemdûr]]"
 ---
 >[!col]
 >>[!col-md-2]
