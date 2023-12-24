@@ -27,7 +27,7 @@ lvl:
 >>![[IMG_3083.png]]
 >> ## <%nimi%>
 >>##### *`VIEW[{titteli}]`*
->>###### Rotu: `VIEW[{rotu}][link]`
+>>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`
 >>##### Sijainti: `VIEW[{lokaatio}][link]`
 >>##### Järjestöt: `VIEW[{järjestöt}][link]`

@@ -8,7 +8,6 @@ rotu: Ihminen
 ikä: 
 sijainti: 
 järjestöt:
-  - 
   - "[[Varkainkilta.md|Varkainkilta]]"
 suku: 
 elossa: true
