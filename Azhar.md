@@ -4,7 +4,7 @@ tags:
   - Henkilö/Grelekki
   - Henkilö/Elossa
 
-type:henkilö
+type: henkilö
  
 nimi: Azhar
 titteli:
