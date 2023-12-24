@@ -17,22 +17,26 @@ aliases:
 - 
 ---
 >[!col]
->### Kuvaus
->>[!col-md-0.5]
->>>![[IMG_3083.png]]
->>> ##### <%nimi%>
->> >###### `VIEW[{titteli}]`
->>>##### Rotu: `VIEW[{rotu}]`
->>>##### Ikä: `VIEW[{ikä}]`
->>>##### Sijainti: `VIEW[{lokaatio}]`
->>>##### Järjestöt: `VIEW[{järjestöt}]`
->>>##### Suku: `VIEW[{suku}]`
->>>##### Lvl: `VIEW[{lvl}]`
->>>##### Elossa:`VIEW[{elossa}]`
+>>[!col-md-2]
+>>### Kuvaus
+>>%%KUVAUS%%
+>>Kuvaus...
+>>%%KUVAUS
+>
+>>%%TIEDOT%%
+>>![[IMG_3083.png]]
+>> ## <%nimi%>
+>>##### *`VIEW[{titteli}]`*
+>>###### Rotu: `VIEW[{rotu}][link]`
+>>###### Ikä: `VIEW[{ikä}]`
+>>##### Sijainti: `VIEW[{lokaatio}][link]`
+>>##### Järjestöt: `VIEW[{järjestöt}][link]`
+>>##### Suku: `VIEW[{suku}][link]`
+>>##### Lvl: `VIEW[{lvl}]`
+>>##### Elossa:`VIEW[{elossa}]`
 
-
-
-
+%%KUVAUS%%
+...Kuvaus
 
 
 ### Tiedot
@@ -49,7 +53,7 @@ aliases:
 INPUT[listSuggester(title(Järjestöt:),optionQuery("Notes")):järjestöt]
 ```
 #### Suku:
-`INPUT[suggester(title(Suku:),optionQuery("Notes")):rotu]`
+`INPUT[suggester(title(Suku:),optionQuery("Notes")):suku]`
 #### Lvl:
 `INPUT[number:lvl]`
 #### Elossa:
