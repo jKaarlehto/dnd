@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "userIgnoreFilters": [
     "node_modules/"
   ],
@@ -12,5 +12,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "livePreview": false
 }

@@ -1,7 +1,8 @@
 ---
-<%* var name = await tp.system.prompt("Nimi:")
-await tp.file.rename(name) %> 
-nimi: <% name %>
+<%* var nimi = await tp.system.prompt("Nimi:")
+await tp.file.rename(nimi) %> 
+nimi: <% nimi %>
+titteli:
 rotu: 
 ikä: 
 sijainti: 
@@ -9,16 +10,34 @@ elossa:
 suku: 
 järjestöt: 
 lvl: 
-Rotu: Ihminen
+rotu: 
+
+aliases:
+- 
 ---
 >[!col]
-> #### Kuvaus
->>[!col-md]
->> 
+>### Kuvaus
+>>[!col-md-0.5]
+>>![[IMG_3083.png]]
+>> ### <%nimi%>
 >>```meta-bind
->>INPUT[suggester(title(Rotu:),option(Ihminen)):Rotu]
->>
+>>INPUT[suggester(title(Rotu:),option(hminen)):rotu]
 >>```
+>>```meta-bind
+>>INPUT[suggester(title(Sijainti:),optionQuery(#Maantiede)):sijainti]
+>>```
+
+
+
+### Tiedot
+#### Titteli: 
+`INPUT[text(title(Titteli:)):titteli]`
+#### Rotu:
+`INPUT[suggester(title(Rotu:),option(hminen)):rotu]`
+
+
+
+
 
 
 
