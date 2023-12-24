@@ -1,4 +1,9 @@
 ---
+tags:
+- Henkilö
+aliases:
+- 
+
 type:henkilö
  
 nimi: Al'azir
@@ -10,11 +15,6 @@ järjestöt:
 suku:
 elossa: 
 lvl: 
-
-tags:
-- Henkilö
-aliases:
-- 
 ---
 >[!col]
 >>[!col-md-2]
