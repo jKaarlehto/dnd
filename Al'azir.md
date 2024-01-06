@@ -1,18 +1,17 @@
 ---
 tags:
- - Henkilö
-
+  - Henkilö
 type: henkilö
- 
 nimi: Al'azir
-titteli:
+titteli: 
 rotu: 
 ikä: 
 sijainti: 
-järjestöt: 
-suku:
+järjestöt: []
+suku: 
 elossa: 
 lvl: 
+lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 ---
 
 >[!col]

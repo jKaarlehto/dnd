@@ -7,7 +7,7 @@ Kirkon vankkureista varastettu pätkä kirjeenvaihtoa [Elhen kirkon](Elhen%20kir
 
 1.
 
-[Arvon Kardinaali](Kardinaali%20Van%20Bluet.md)
+[Arvon Kardinaali](Van%20Bluet.md)
 Tutkimuksemme eivät tuottaneet tulosta.
 Emme voi nykyisen informaation valossa tehdä johtopäätöstä Selemdûrin johdon mahdollisista tavoitteista.
 Toistaiseksi emme usko, että jatkotoimenpiteet ovat tarpeen.

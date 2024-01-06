@@ -1,38 +1,36 @@
 ---
 tags:
-  - Henkilö/Johtaja
-  - Henkilö/Grelekki
-  - Henkilö/Elossa
+  - Henkilö
 type: henkilö
-nimi: Azhar
-titteli: Arkkimaagi
-rotu: Grelekki
+nimi: Van Bluet
+titteli: Kardinaali
+rotu: Ihminen
 ikä: 
 sijainti: 
 järjestöt:
-  - 
-  - "[[Selemdûrin Maagikilta.md|Selemdûrin Maagikilta]]"
+  - "[[Elhen kirkko.md|Elhen kirkko]]"
 suku: 
 elossa: true
 lvl: 
-aliases:
-  - 
-lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 ---
+
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus
 >>%%KUVAUS%%
->>[Selemdûrin Maagikillan](Selemdûrin%20Maagikilta.md) arkkimaagi ja johtaja.
+>>[Elhen kirkon](Elhen%20kirkko.md) kardinaali. 
 >>
->>Pitää kirkolta salassa hallussaan [Kalman sydäntä](Kalman%20sydän). Hänen aikeensa eivät ole selvät, eikä hänen alaisensa [Maisteri Balasár](Maisteri%20Balasár.md) vaikuta luottavan häneen täysin.
+>>>[!question] Vahvistamaton 
+>>>Hän on mukana [leviävään kulkutautiin](Groteski%20kulkutauti.md) liittyvässä selvityksessä.
+>>>>[!quote] Lähde 
+>>>>[Selemdûrin varastetut kirjeet](Selemdûrin%20varastetut%20kirjeet.md)
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
->>![[Azhar.png]]
->> ## Azhar
+>>![[IMG_3083.png]]
+>> ## Van Bluet
 >>##### *`VIEW[{titteli}]`*
->>###### Rotu: `VIEW[{rotu}][link]`
+>>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`
 >>##### Sijainti: `VIEW[{lokaatio}][link]`
 >>##### Järjestöt: `VIEW[{järjestöt}][link]`
@@ -41,9 +39,7 @@ lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 >>##### Elossa:`VIEW[{elossa}]`
 
 %%KUVAUS%%
-### Yhteydet:
-[Maisteri Balasár](Maisteri%20Balasár.md)
-[Selemdûrin Maagikilta](Selemdûrin%20Maagikilta.md)
+...Kuvaus
 
 
 ### Tiedot
@@ -52,7 +48,7 @@ lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 #### Rotu:
 `INPUT[rodut][:rotu]`
 #### Ikä:
-`INPUT[number:ikä]`
+`INPUT[text:ikä]`
 #### Sijainti:
 `INPUT[suggester(optionQuery(#Maantiede)):lokaatio]`
 #### Järjestöt:
@@ -65,6 +61,13 @@ INPUT[listSuggester(title(Järjestöt:),optionQuery("/")):järjestöt]
 `INPUT[number:lvl]`
 #### Elossa:
 `INPUT[toggle:elossa]`
+
+
+
+
+
+
+
 
 
 

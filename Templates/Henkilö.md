@@ -1,6 +1,6 @@
 ---
 tags:
- - Henkil¨¨o
+ - Henkilö
 
 type: henkilö
 <%* var nimi = await tp.system.prompt("Nimi:")
