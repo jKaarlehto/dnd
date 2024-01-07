@@ -12,6 +12,7 @@ suku:
 elossa: true
 lvl: 
 lokaatio: "[[Risa.md|Risa]]"
+
 ---
 
 >[!col]
@@ -19,7 +20,7 @@ lokaatio: "[[Risa.md|Risa]]"
 >>### Kuvaus
 >>%%KUVAUS%%
 >>
->>[Kidan](Kita.md) kaivoksen työnjohtaja. 
+>>[Kidan](Kita.md) kaivoksen työnjohtaja. Pyytänyt apua [[Vaka-Viisi|Vaka-viideltä]] löytääkseen [[Migas Hjildrum]]in, joka on kadonnut kaivoksen alueella. Vastapalveluksi hän antoi ryhmälle kulkuluvat Kitaan.
 >>
 >>###### Tuntomerkit
 >>- Lyhyt haltijaksi

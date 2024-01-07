@@ -14,5 +14,6 @@
     "downscalePercent": 100
   },
   "livePreview": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "foldHeading": true
 }

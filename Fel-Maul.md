@@ -3,8 +3,12 @@ tags:
   - Maantiede/Kaupunki
 
 location: [-0.8610210575212998,26.96456909179688]
-
+banner: "![[Pasted image 20240107202259.png]]"
+banner_y: 0.5
+locations: 
 ---
+
+
 [Elhen Imperiumi](Elhen%20Imperiumi.md)n pääkaupunki. Kaupunkia ympyröi korkea harmaa muuri. Kaupungin alle on hautautunut lukuisia vanhoja rakennuksia ja teitä 
 ###### Alueet
 
@@ -27,3 +31,8 @@ location: [-0.8610210575212998,26.96456909179688]
 - Sankarin soppa / alkemisti nelimerkki
 - Felmaulin fysiatrinen keskus / parantaja
 - Harakanvarvas / taikakirjuri.
+
+###### Kartalla
+```mapview
+{"name":"Default","mapZoom":8,"centerLat":-0.8610210575212998,"centerLng":26.96456909179688,"query":"","chosenMapSource":1}
+```
