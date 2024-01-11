@@ -2,7 +2,9 @@
 tags:
   - Henkilö
 puoliso: "[[Giera Hjildrum]]"
-lapset: "[[Migas Hjildrum]]"
+lapset:
+  - "[[Migas Hjildrum]]"
+  - "[[Nilas Hjildrum]]"
 type: henkilö
 nimi: Herra Hjildrum
 titteli: Suvun Keulamies

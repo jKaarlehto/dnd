@@ -18,6 +18,7 @@
     "sisältää": "multitext",
     "alaiset": "multitext",
     "alainen": "multitext",
-    "elossa": "checkbox"
+    "elossa": "checkbox",
+    "lapset": "multitext"
   }
 }
