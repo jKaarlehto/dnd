@@ -4,4 +4,4 @@ Tässä vapaamuotoista foliohattuteorisointia.
 
 - Vuohiäiti = Muodoton äiti = Shial-Nagheraz
 
-- 
+- Karmiinikuningas = Karmiinikeisarin pikkuveli tms. --> etelän petturi

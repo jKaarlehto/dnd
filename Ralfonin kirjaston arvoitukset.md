@@ -22,7 +22,7 @@ Ei muisteta Ralfonin sankaria Vain yks laulu nimeään kantaa Muisto vain sankar
 
 (3) (Draconic) 
 
-Veljekset taistohon tuoksinassa Maailmain mahtien mittelössä Greli kultana kimaltaa Pelastuksena kääpiöruhtinaan 
+Veljekset taistohon tuoksinassa Maailmain mahtien mittelössä Greli kultana kimaltaa Pelastuksena kääpiöruhtinaan  ^cbf1ca
 
 (4) (Draconic) 
 

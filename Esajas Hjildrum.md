@@ -1,11 +1,11 @@
 ---
 tags:
-  - Henkilö/Haltija
-  - Henkilö/Johtaja
-  - Henkilö/Elossa
+  - Henkilö
+puoliso: "[[Giera Hjildrum]]"
+lapset: "[[Migas Hjildrum]]"
 type: henkilö
-nimi: Esajas Hjildrum
-titteli: Aatelinen
+nimi: Herra Hjildrum
+titteli: Suvun Keulamies
 rotu: Haltija
 ikä: 
 sijainti: 
@@ -13,6 +13,7 @@ järjestöt:
 suku: "[[Hjildrumin haltijasuku.md|Hjildrumin haltijasuku]]"
 elossa: true
 lvl: 
+lokaatio: "[[Risa.md|Risa]]"
 ---
 
 >[!col]
@@ -20,12 +21,14 @@ lvl:
 >>### Kuvaus
 >>%%KUVAUS%%
 >>
->>[Migas Hjildrum](Migas%20Hjildrum.md)in äiti. [[Herra Hjildrum]]in vaimo.
+>>[Hjildrumin haltijasuvun](Hjildrumin%20haltijasuku.md) johtaja.
+>>
+>>Hänen poikansa [Migas Hjildrum](Migas%20Hjildrum.md) on kadoksissa Risan alueella.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
 >>![[IMG_3083.png]]
->> ## Esajas Hjildrum
+>> ## Herra Hjildrum
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`
@@ -58,8 +61,6 @@ INPUT[listSuggester(title(Järjestöt:),optionQuery("/")):järjestöt]
 `INPUT[number:lvl]`
 #### Elossa:
 `INPUT[toggle:elossa]`
-
-
 
 
 

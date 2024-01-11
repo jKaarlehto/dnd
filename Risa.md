@@ -10,4 +10,4 @@ Kaupungissa on muutamia kauppoja, sekä kirkko [Vuohiädille](Vuohiäiti.md)
 ###### Henkilöt
 [[Lloer]]
 [Migas Hjildrum](Migas%20Hjildrum.md)
-[Herra Hjildrum](Herra%20Hjildrum.md)
+[Esajas Hjildrum](Esajas%20Hjildrum.md)

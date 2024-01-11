@@ -24,7 +24,7 @@ Range: 10ft (15ft)
 
 +7 to hit +4 dmg (+6)
 GWM
-+2 to hit +14 dmg (+16)
++2 to hit +14 dmg (+17)
 
 Rage: 2/3
 10/10
@@ -32,7 +32,7 @@ Rage: 2/3
 Nature proficiency.
 2/20
 Investigation prof:
-6/15
+8/15
 
 
 1+Magic glaive

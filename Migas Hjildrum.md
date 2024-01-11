@@ -3,6 +3,8 @@ tags:
   - Henkilö/Haltija
 ---
 
-Nuori ruhtinas, kadonnut Risan alueella.
+Nuori ruhtinas, kadonnut Risan alueella. 
 
-[Esajas Hjildrum](Esajas%20Hjildrum.md) etsii häntä.
+[Giera Hjildrum](Giera%20Hjildrum.md) etsii häntä.
+
+Hän on [[Nilas Hjildrum]]in pikkuveli. 

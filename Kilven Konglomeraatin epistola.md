@@ -7,7 +7,7 @@ tags:
 
 *Kilven Konglomeraatin arvostettu jäsen. Maailmamme on tunnetun historian suurimman uhan alainen. Entinen liittolaisemme ja konglomeraatin arvostettu jäsen Tasnaji A´jabar on kääntynyt maailmaamme vastaan. 
 
-Taivastamme peittävä kamaluus on tämän petturin ja hänen herransa, Azelzerathin aikaansaannosta. Jumalhovi lojuu mätänä ja turmeltuneena tämän “Väljäinlinnan” kierojen tornien ja suunnan lakeja pilkkaavien porttien musertamana. i
+Taivastamme peittävä kamaluus on tämän petturin ja hänen herransa, Azelzerathin aikaansaannosta. Jumalhovi lojuu mätänä ja turmeltuneena tämän “Väljäinlinnan” kierojen tornien ja suunnan lakeja pilkkaavien porttien musertamana.
 
 Tällä hetkellä osa pohjoisen liittolaisistamme, kuten kulta- ja karmiinikesari, ovat toisen, luonteeltaan samankaltaisen uhan alaisena. Heidän apuaan emme toistaiseksi tule saamaan. 
 

@@ -15,7 +15,8 @@ Plakan kirjoittaja on todennäköisesti ollut [Shial-Nagherazin Kultistit](Shial
 
 >[!question] Vahvistamaton 
 >[Patsas 1](#^545489) esittää [Filverel](Filverel.md)iä
->>[!quote] [Kidan syntytarina](Kita.md#^8b744e)
+>>[!quote]
+>>Filverelin työhuoneesta löytyi outo kuutiomainen reliikki
 >
 
 >[!question] Vahvistamaton 
@@ -24,11 +25,13 @@ Plakan kirjoittaja on todennäköisesti ollut [Shial-Nagherazin Kultistit](Shial
 >>Shial-Nagerazia kutsutaan Syvyyden Seroviksi ja Muodottomaksi äidiksi
 
 >[!question] Vahvistamaton 
->[Patsas 3](#^725dbb) esittää [Rhindelgâl](Rhindelgâl.md)ia, [[Leke]]ä tai jotain muuta
+>[Patsas 3](#^725dbb) esittää [Rhindelgâl](Rhindelgâl.md)ia, [[Leke]]ä tai [[Karminin Kuningas]]ta.
 >>[!quote] Lähde 
->>Plakan kirjoittajilla olisi syytä kutsua Rhindelgalia petturiksi [Rhindelgâlin uhrauksen](Rhindelgâlin%20uhraus.md) takia. Patsaan kielessä oleva riimu on lähellä [Sôru-Agazin päällä olevaa riimua](Salaperäiset%20riimut.md#^ec6250), jolla vaikuttaa olevan yhteys [Shial-Nagheraziin](Shial-Nagheraz.md) ja siten myös Rhindelgaliin. Rhindelgalin suomut eivät olleet punaiset, mutta veri olisi voinut värjätä ne.
+>>Plakan kirjoittajilla olisi syytä kutsua Rhindelgalia petturiksi [Rhindelgâlin uhrauksen](Rhindelgâlin%20uhraus.md) takia. Patsaan kielessä oleva riimu on lähellä [Sôru-Agazin päällä olevaa riimua](Salaperäiset%20riimut.md#^ec6250), jolla vaikuttaa olevan yhteys [Shial-Nagheraziin](Shial-Nagheraz.md) ja siten myös Rhindelgaliin. Rhindelgalin suomut eivät olleet punaiset, mutta veri olisi voinut värjätä ne. 
 >
->>Lekestä ei tiedetä paljoa muuta, kuin että hän taisteli veljeään [Greli](Grezli.md)ä vastaan. Tämä osuu plakan kuvaukseen. [Lekhêz](Lekhêz.md)in kerrotaan olleen 
+>>Lekestä ei tiedetä paljoa muuta, kuin että hän taisteli veljeään [Greli](Grezli.md)ä vastaan. Tämä osuu plakan kuvaukseen.
+>>
+>>Karmiinikuninkaan suomujen kerrotaan myös olleen punaiset. Saattaa olla, että karmiinikuningas tappoi veljensä, Karmiinikeisarin päästäkseen valtaan.
 
 
 >[Patsas 4](#^c623f7) esittää [Drieny Koldhazâd](Drieny%20Koldhazâd.md)in aikaista kääpiökuningasta
