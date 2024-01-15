@@ -1,14 +1,13 @@
 ---
 tags:
-  - Historia/Henkilö
-  - Historia/Haltijat
+  - Historia/Rakennus
 ---
-Haltija/Keijukuningas, hänet mainitaan olleen vangittuna "kiveen ja kudokseen".
+Myyteissä mainittava linnoitus, joka katosi salaperäisesti
+
+Liittyy [[Malroth]]iin
 
 >[!question] Vahvistamaton 
 >
-Voi olla, että Felganarin, on uhrattu/lukittu [Kalman Kammio](Kalman%20Kammio.md)on
-[Ralfonin kirjasto](Ralfonin%20kirjasto.md)ssa hänen patsaansa pitää oletettavasti. [Llaminryl](Llaminryl.md)in kättä
 ###### Maininnat
 >[!quote] [Ralfonin kirjaston arvoitukset](Ralfonin%20kirjaston%20arvoitukset.md)
 >![](Ralfonin%20kirjaston%20arvoitukset.md#^f58a87)

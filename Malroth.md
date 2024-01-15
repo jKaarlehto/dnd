@@ -1,7 +1,9 @@
 ---
-aliases: []
+aliases: 
 tags:
   - Uskonto/Jumala
+  - Henkilö/Fei
+  - Henkilö/Johtaja
 ---
 >[!quote]
 >![](Ralfonin%20kirjaston%20arvoitukset.md#^f58a87)

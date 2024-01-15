@@ -49,5 +49,5 @@ Malroth odottaa iäti  ^f58a87
 
 (8) (Elvish) 
 
-Virheestään hintaansa maksaa Serovin porttille haudataan Vankina vierellä kuninkaan Llaminryl aikaansa odottaa
+Virheestään hintaansa maksaa Serovin porttille haudataan Vankina vierellä kuninkaan Llaminryl aikaansa odottaa ^40dc53
 

@@ -32,7 +32,7 @@ Rage: 2/3
 Nature proficiency.
 2/20
 Investigation prof:
-8/15
+10/15
 
 
 1+Magic glaive
