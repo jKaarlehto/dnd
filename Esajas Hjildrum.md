@@ -16,6 +16,8 @@ suku: "[[Hjildrumin haltijasuku.md|Hjildrumin haltijasuku]]"
 elossa: true
 lvl: 
 lokaatio: "[[Risa.md|Risa]]"
+aliases:
+  - Herra Hildrum
 ---
 
 >[!col]

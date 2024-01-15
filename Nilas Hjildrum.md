@@ -7,7 +7,8 @@ titteli: Herttua
 rotu: Haltija
 ikä: n.20
 sijainti: 
-järjestöt: 
+järjestöt:
+  - "[[Vuohiäidin kirkko.md|Vuohiäidin kirkko]]"
 suku: "[[Hjildrumin haltijasuku.md|Hjildrumin haltijasuku]]"
 elossa: false
 lvl: 

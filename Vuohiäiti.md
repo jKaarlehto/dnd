@@ -3,6 +3,9 @@ tags:
   - Uskonto/Jumala
 jäsen: "[[Kolme epäjumalaa]]"
 ---
+
+Jumala, jota [[Vuohiäidin kirkko]] palvoo
+
 >[!quote] Lähde: Vuohiäidin seuraaja Risassa
 >
 Voimakas fei, risalaiset uskovat hänen luoneen kidan.

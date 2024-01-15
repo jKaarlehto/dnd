@@ -9,4 +9,3 @@ aliases:
 ---
 [Ûhm-gwe](Ûhm-gwe.md)läinen kansansankari. Hänen teoistaan kerrotaan lukuisia tarinoita ja lauluja.
 
-[A'jabarin suku](A'jabarin%20suku.md) sai alkunsa Bassem A'jabarista.

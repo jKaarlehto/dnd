@@ -7,7 +7,7 @@ sijaitsee:
 ---
 [Sôru-agazin](Sôru-agaz.md) mantereen eteläisin valtakunta. [Haltijoiden](Haltijat.md) kotialuetta.
 
-![Sôru-agazin kartta](Maps/Sôru-agazin%20kartta.png) 
+![[Sôru-agazin kartta.png]]
 ###### Merkittävät alueet:
 
 - [Kita](Kita.md)
