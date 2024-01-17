@@ -13,3 +13,7 @@ tags:
 *Latlaús on murtunut. Olen yksin syylinen siihen, mitä kalman kaivo sai aikaan. Toivon, että tunnustaminen näille sivuille auttaa minua kantamaan tätä taakkaa. Lukuisat armeijat marssivat nyt kohti itää kaikista kolmesta Unarithista. He marssivat kuolemaansa, mutta ehkä se ostaa minulle aikaa löytää keino, jolla tämä vapauttamani pahuus voidaan peitota. Suunnitelmaa en ole vielä ehtinyt laatia, mutta sen voin sanoa varmaksi, että Shial-Nagheraz ei saanut minusta haluamaansa airuetta, vaan sen sijaan, karmivan vihollisen. *
 
 *Kilven konglomeraatin kirje varmisti pelkoni. Mantereemme ei ole ainoa näiden vitsausten kohteista. Chaitalin kuvailemaa “Väljäinlinnaa” ei kuitenkaan taivaallamme näy. Se on varmasti jonkin toisen kivessä mainitun Jumalvarjon aikaan saamaa. Minun tulee kuitenkin toimia ensin oman mantereeni pelastamiseksi. Konglomeraatti saa pärjätä ilman tukeani toistaiseksi.*
+
+*Karmiinikeisari on kuollut. Tämä koki tuhonsa ilmeisesti veljensä toimesta. Toivottavasti jäljellä oleva lohikäärme on puolellamme, muuten olemme tuhon omat.*
+
+*Shial-Nagheraz on murtautunut ulos toistamiseen. Grelin, Leken ja Ulthâzin liitto pitää toistaiseksi muut kaivot aisoissa. Minun pitää luottaa heihin, vaikka he eivät täysin ymmärrä uhan luonnetta.*

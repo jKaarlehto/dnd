@@ -7,6 +7,7 @@ aat-render-enabled: true
 timelines:
   - main
 aat-event-body: Kääpiöiden kolmas aikakausi.
+edellinen: "[[Dvanie Koldhazâd]]"
 ---
 [Kääpiöden](Kääpiöt.md) kalenterin kolmas ajanjakso. 
 

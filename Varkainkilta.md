@@ -13,6 +13,11 @@ Varkainkillalla on laajasti tietoa [Sôru-agaz](Sôru-agaz.md)issa tapahtumista.
 
 Varkainkilta osallistuu [orjakauppaan](Orjakauppa)
 
+Perustettiin heti [[Selemdûr]]in perustamisen jälkeen Haltijoiden perustama järjestö. Toiminut tuhansia vuosia samalla tavalla.
+
+Toiminut välineenä kurottaa haltijoiden vaikutusvaltaa Selemduurin politiikkaan ja tapahtumiin.
+
+
 ###### Valtuutetut:
 [Dak](Dak.md)
 ###### Tunnettuja jäseniä:

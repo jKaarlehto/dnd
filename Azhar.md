@@ -10,14 +10,13 @@ rotu: Grelekki
 ikä: 
 sijainti: 
 järjestöt:
-  - 
   - "[[Selemdûrin Maagikilta.md|Selemdûrin Maagikilta]]"
 suku: 
 elossa: true
 lvl: 
-aliases:
-  - 
+aliases: 
 lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
+liittolaiset: "[[Leichten aatelishuone]]"
 ---
 >[!col]
 >>[!col-md-2]
@@ -25,7 +24,9 @@ lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 >>%%KUVAUS%%
 >>[Selemdûrin Maagikillan](Selemdûrin%20Maagikilta.md) arkkimaagi ja johtaja.
 >>
->>Pitää kirkolta salassa hallussaan [Kalman sydäntä](Kalman%20sydän). Hänen aikeensa eivät ole selvät, eikä hänen alaisensa [Maisteri Balasár](Maisteri%20Balasár.md) vaikuta luottavan häneen täysin.
+>>Pitää kirkolta salassa hallussaan [Kalman sydäntä](Kalman%20sydän). Hänen aikeensa eivät ole selvät, eikä hänen alaisensa [Balasár Ghesh](Balasár%20Ghesh.md) vaikuta luottavan häneen täysin.
+>>
+>>Balasar uskoo Azharin havittelevan [[Traakkilainen imperiumi]]n uudelleennousua, ja paikkaa seuraavana Karmiinikuninkaana.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
@@ -42,7 +43,7 @@ lokaatio: "[[Ûhm-gwe.md|Ûhm-gwe]]"
 
 %%KUVAUS%%
 ### Yhteydet:
-[Maisteri Balasár](Maisteri%20Balasár.md)
+[Balasár Ghesh](Balasár%20Ghesh.md)
 [Selemdûrin Maagikilta](Selemdûrin%20Maagikilta.md)
 
 

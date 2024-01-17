@@ -2,7 +2,12 @@
 tags:
   - Historia/Henkilö
   - Henkilö/Haltija
+aliases:
+  - Ensimmäinen nekromanti
 ---
+>[!question] Vahvistamaton 
+>Tämä sivu sisältää spekulaatiota
+
 Maagi, joka tarinan mukaan loi [Filverelin kirjasto](Filverelin%20kirjasto.md)n ja upotti sen [Kita](Kita.md)an. Filverelistä ja hänen motiiveistaan ei tiedetä paljoa.
 
 

@@ -9,7 +9,7 @@ Sivu sisältää spekulaatiota
 
 [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanhasta siivestä lötyneiden kolmen mantereen kartan päälle piirretyt tuntemattomat riimut. Riimujen muoto muistuttaa rituaaleissa käytettäviä riimuja.
 
-[Maisteri Balasár](Maisteri%20Balasár.md) vaikuttaa olevan hyvin kiinnostunut mutta huolestunut riimuista.
+[Balasár Ghesh](Balasár%20Ghesh.md) vaikuttaa olevan hyvin kiinnostunut mutta huolestunut riimuista.
 
 ###### Sôru-agazin riimu
 

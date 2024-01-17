@@ -4,7 +4,7 @@ tags:
   - Lähdemateriaali
   - Uskonto/Tekstit
 ---
-Runo, joka kertoo sankarittaresta, joka toivoo ammentavansa ikuisen elämän. Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md).
+Runo, joka kertoo sankarittaresta, joka toivoo ammentavansa ikuisen elämän. Löytynyt mm. [Balasarin](Balasár%20Ghesh.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md).
 
 Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee samoja aihepiirejä miessankarin näkökulmasta.
 
@@ -13,7 +13,7 @@ Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee sa
 
 ###### Lähteet
 - [Kultisti](Shial-Nagherazin%20Kultistit.md)en kääröistä
-- [Maisteri Balasár](Maisteri%20Balasár.md)in tutkimukset
+- [Balasár Ghesh](Balasár%20Ghesh.md)in tutkimukset
 - [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, Sôru-agazin kartan yltä
 
 ###### Runon säkeet:

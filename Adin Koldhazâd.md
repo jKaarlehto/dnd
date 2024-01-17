@@ -8,6 +8,8 @@ aliases:
 ---
 Kääpiöiden Kalenterin ensimmäinen aikakausi. Ihmiset kutsuvat aikakautta nimellä Muinaiset ajat.
 
+Adin Koldhazâdin aikana pohjoista [[Sôru-agaz]]ia hallitsi kaksi kääpiövaltakuntaa: [[Thazad]] ja [[Kol-duhr]]
+
 
 ```dataview
 

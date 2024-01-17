@@ -4,7 +4,7 @@ tags:
 ---
 Tämän hetkisen tiedon mukaan lähellä maailman keskiötä sijaitseva iso manner. Sitä ympäröi etelästä [Ûhm-gwen](Ûhm-gwe.md) ja lännestä [läntinen mantere](Läntinen%20mantere.md).
 
-Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio.md), josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
+Sôru-agazin lounaispuolella sijaitsee [Gêr](Gêr.md), josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
 
 
 #### Historia

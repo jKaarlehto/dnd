@@ -1,7 +1,7 @@
 {
-  "snippets_file": "vahvistamaton : >[!question] Vahvistamaton $nl$>>[!quote] Lähde $nl$.\n\nmeta : >[!info] Meta $nl$>Sisältää tietoa, jota pelaajahahmot eivät tiedä.\n\nlähde : >[!quote] Lähde $nl$\n\naat : aat-event-start-date: 1$nl$\naat-event-end-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-body: body$nl$\n\naat-inline : %%aat-inline-event$nl$\naat-event-start-date: 1$nl$\naat-event-end-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-title: $nl$\naat-event-body: $nl$\n%%$nl$\n\n",
+  "snippets_file": "vahvistamaton : >[!question] Vahvistamaton $nl$>>[!quote] Lähde $nl$\n\nmeta : >[!info] Meta $nl$>Sisältää tietoa, jota pelaajahahmot eivät tiedä.\n\nlähde : >[!quote] Lähde $nl$\n\naat : aat-event-start-date: 1$nl$\naat-event-end-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-body: body$nl$\n\naat-inline : %%aat-inline-event$nl$\naat-event-start-date: 1$nl$\naat-event-end-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-title: $nl$\naat-event-body: $nl$\n%%$nl$\n\n",
   "snippets": [
-    "vahvistamaton : >[!question] Vahvistamaton $nl$>>[!quote] Lähde $nl$.",
+    "vahvistamaton : >[!question] Vahvistamaton $nl$>>[!quote] Lähde $nl$\n",
     "meta : >[!info] Meta $nl$>Sisältää tietoa, jota pelaajahahmot eivät tiedä.",
     "lähde : >[!quote] Lähde $nl$\n",
     "aat : aat-event-start-date: 1$nl$\naat-event-end-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-body: body$nl$\n",

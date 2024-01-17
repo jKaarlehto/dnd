@@ -1,11 +1,14 @@
 ---
 tags:
   - Maantiede/Kaupunki
-
-location: [-0.8610210575212998,26.96456909179688]
+location:
+  - -0.8610210575212998
+  - 26.96456909179688
 banner: "![[Pasted image 20240107202259.png]]"
 banner_y: 0.5
 locations: 
+aliases:
+  - Keso
 ---
 
 

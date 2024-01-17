@@ -25,7 +25,7 @@ Plakan kirjoittaja on todennäköisesti ollut [Shial-Nagherazin Kultistit](Shial
 >>Shial-Nagerazia kutsutaan Syvyyden Seroviksi ja Muodottomaksi äidiksi
 
 >[!question] Vahvistamaton 
->[Patsas 3](#^725dbb) esittää [Rhindelgâl](Rhindelgâl.md)ia, [[Leke]]ä tai [[Karminin Kuningas]]ta.
+>[Patsas 3](#^725dbb) esittää [Rhindelgâl](Rhindelgâl.md)ia, [[Leke]]ä tai [[Karmini Kuningas]]ta.
 >>[!quote] Lähde 
 >>Plakan kirjoittajilla olisi syytä kutsua Rhindelgalia petturiksi [Rhindelgâlin uhrauksen](Rhindelgâlin%20uhraus.md) takia. Patsaan kielessä oleva riimu on lähellä [Sôru-Agazin päällä olevaa riimua](Salaperäiset%20riimut.md#^ec6250), jolla vaikuttaa olevan yhteys [Shial-Nagheraziin](Shial-Nagheraz.md) ja siten myös Rhindelgaliin. Rhindelgalin suomut eivät olleet punaiset, mutta veri olisi voinut värjätä ne. 
 >

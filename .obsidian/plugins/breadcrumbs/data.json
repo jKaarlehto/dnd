@@ -116,7 +116,6 @@
     "Järjestöt",
     "järjestöt",
     "johtaja",
-    "vanhemmat",
     "hallitsija",
     "laajempi"
   ],
@@ -124,9 +123,7 @@
     "ylempi",
     "sama",
     "alempi",
-    "sijaitsee",
     "muut",
-    "sisältää",
     "palvelee",
     "rinnastettavat",
     "hallitsee",
@@ -138,17 +135,11 @@
     "järjestöt",
     "liittolaiset",
     "jäsenet",
-    "vanhemmat",
     "sisaret",
-    "lapset",
-    "seuraaja",
-    "edeltäjä",
     "hallitsija",
     "alainen",
     "laajempi",
-    "suppeampi",
-    "liittyvät",
-    "puoliso"
+    "suppeampi"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
@@ -219,23 +210,6 @@
       ],
       "next": [],
       "prev": []
-    },
-    {
-      "up": [
-        "vanhemmat"
-      ],
-      "same": [
-        "puoliso"
-      ],
-      "down": [
-        "lapset"
-      ],
-      "next": [
-        "seuraaja"
-      ],
-      "prev": [
-        "edeltäjä"
-      ]
     },
     {
       "up": [

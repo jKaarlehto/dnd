@@ -8,7 +8,7 @@ Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän.
 
 Runossa esiintyy viittauksia [Ikilehtoihin](Ikilehdot.md), [Kalman Kammio](Kalman%20Kammio.md)on.
 
-Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
+Löytynyt mm. [Balasarin](Balasár%20Ghesh.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
 
 Runon parina pidetään [Sankarittaren runoa](Sankarittaren%20runo.md) joka käsittelee samoja aihepiirejä naissankarin näkökulmasta.
 
@@ -17,7 +17,7 @@ Runon parina pidetään [Sankarittaren runoa](Sankarittaren%20runo.md) joka käs
 
 ###### Lähteet
 - [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, Sôru-Agazin kartan yltä.
-- [Maisteri Balasár](Maisteri%20Balasár.md)in muistiinpanoista.
+- [Balasár Ghesh](Balasár%20Ghesh.md)in muistiinpanoista.
 
 ###### Runon säkeet:
 

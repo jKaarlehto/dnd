@@ -18,4 +18,6 @@ aat-event-picture: https://cdn.midjourney.com/7c1960c8-b97e-453b-88f0-c3861f73b9
 
 Tapahtuma tai ajanjakso joka vaikuttaa liittyvän [Shial-Nagheraziin](Shial-Nagheraz.md) ja [Groteskiin kulkutautiin](Groteski%20kulkutauti.md)
 
+Tapahtui noin 1934 [[Drieny Koldhazâd]]
+
 ![](https://cdn.midjourney.com/7c1960c8-b97e-453b-88f0-c3861f73b919/0_1.webp)

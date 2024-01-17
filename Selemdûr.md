@@ -9,6 +9,12 @@ Velhojen ja maagien kaupunki [Sôru-agaz](Sôru-agaz.md)in länsiosissa. Selemû
 
 Selemdûria johtaa [Leichten aatelishuone](Leichten%20aatelishuone.md). Siellä vaikuttavat myös [Selemdûrin Maagikilta](Selemdûrin%20Maagikilta.md) sekä [Varkainkilta](Varkainkilta.md)
 
+###### Historia
+
+Selemdûr perustettiin [[Lahden rauha]]n merkiksi, [[Thazad]]in ja [[Kol-duhr]]in valtakuntien rajalle.
+
+
+
 ###### Tapahtumat
 
 >[!question] Vahvistamaton
@@ -18,7 +24,7 @@ Selemdûria johtaa [Leichten aatelishuone](Leichten%20aatelishuone.md). Siellä 
 
 ###### Kartta
 
-![Selemdûr kartta](Maps/Selemdûr%20kartta.png)
+![[Selemdûr kartta.png]]
 
 
 ###### Kohteet

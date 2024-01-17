@@ -27,7 +27,7 @@ aliases:
 >>
 >>[Hjildrumin haltijasuvun](Hjildrumin%20haltijasuku.md) johtaja.
 >>
->>Hänen poikansa [Migas Hjildrum](Migas%20Hjildrum.md) on kadoksissa Risan alueella.
+>>[[Vaka-Viisi]] pelasti hänen poikansa [Migas Hjildrum](Migas%20Hjildrum.md) [[Filverelin kirjasto]]sta. Esajas on vannonut suosionsa Vaka-viidelle tästä hyvästä.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
