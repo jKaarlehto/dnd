@@ -10,7 +10,7 @@ tags:
 
 Jumalhahmo, jonka nimi esintyy muutamissa vanhoissa loruissa ja lauluissa.
 
-Filverelin kirjastossa Malrothin riimu oli psykologian ja mielenterveyden osastolla. Hänen tiedetään vaikuttaneen enimmäkseen haltijamaiden alueella. Felge-Unarithin kaupunki ja sen haltijasuvut mainitaan myös usein Malrothin kanssa.
+Filverelin kirjastossa Malrothin riimu oli psykologian ja mielenterveyden osastolla. Hänen tiedetään vaikuttaneen enimmäkseen haltijamaiden alueella. [[Felge-Unarith]]in kaupunki ja sen haltijasuvut mainitaan myös usein Malrothin kanssa.
 
 Elhen nousun jälkeen Malrothista ei ole mitään mainintoja, kuin hän olisi kadonnut.
 

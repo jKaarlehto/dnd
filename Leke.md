@@ -18,5 +18,5 @@ Leke sai surmansa veljënsä kynsissä, kun Leke koetti pettää hänet. Pettäm
 >[!quote] Filverelin kirjasto
 >*"[[Greli|Kulta]] ja Karmiinikeisari perustivat Gêrin."
 
-Leke perusti [[Gêrin]] veljensä kanssa. Myöhemmin Leke kuitenkin petti veljensä ja kääpiökuningas [[Ulthâz]]in. Tämän seurauksena Greli tappoi Leken.
+Leke perusti [[Gêr]]in veljensä kanssa. Myöhemmin Leke kuitenkin petti veljensä ja kääpiökuningas [[Ulthâz]]in. Tämän seurauksena Greli tappoi Leken.
 
