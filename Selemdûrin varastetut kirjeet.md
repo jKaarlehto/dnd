@@ -5,6 +5,14 @@ tags:
 ---
 Kirkon vankkureista varastettu pätkä kirjeenvaihtoa [Elhen kirkon](Elhen%20kirkko.md), [Varkainkillan](Varkainkilta.md) ja [Ilkvestin haltijasuvun](Ilkvestin%20haltijasuku.md) välillä.
 
+Kirje 1. Käsittelee mahdollisesti [[Azhar]]in ja [[Leichten aatelishuone]]en suunnitelmia vallanvaihdosta tms.
+
+Kirje 2. Käsittelee [[Bol-Thazâd]]in aluella havaituista [[Shial-Nagheraz]]iin liittyvistä esiintymistä.
+
+Kirje 3. Liittyy [[Syvälä]]n [[Kähykuolema]]tapauksiin.
+
+
+
 1.
 
 [Arvon Kardinaali](Van%20Bluet.md)
@@ -26,7 +34,7 @@ Allekirjoittanut: Kardinaali Van Bluet
 
 Arvon Kuvernööri
 Kuvailemanne vitsaus on erittäin huolettava ilmiö, joka vaatii inkvisition välitöntä huomiota.
-Lähetämme teidän avuksenne Ordo Auxillariuksen ja Ordo Hereticuksen edustajia, sekä Inkvisiittorit Veli Galinduksen ja Sisko Modaresin.
+Lähetämme teidän avuksenne Ordo Auxillariuksen ja Ordo Hereticuksen edustajia, sekä Inkvisiittorit [[Veli Galindus|Veli Galinduksen ]]ja [[Sisko Modares]]in.
 Pyydän teitä pitämään kanssani jakamanne tiedon omananne. Tämän kaltaiset tapahtumat eivät ole yleisiä, emmekä halua kenenkään luulevan toisin.
 Pitäkää altistuneet lukkojen takana, mutta hengissä. Mieluiten myös järjissään, jos suinkin mahdollista.
 Viisi teitä johdattakoon ja Elhe teitä siunatkoon.
