@@ -2,30 +2,28 @@
 tags:
   - Henkilö
 type: henkilö
-nimi: Ilajas
-titteli: Merikapteeni
-rotu: 
-ikä: 
+nimi: Hans Hardfelt
+titteli: Vaka-Viiden kunniajäsen
+rotu: Ihminen
+ikä: "23"
 sijainti: 
-järjestöt: 
+järjestöt:
+  - "[[Vaka-Viisi.md|Vaka-Viisi]]"
 suku: 
-elossa: true
-lvl:
+elossa: false
+lvl: 7
 ---
 
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus
 >>%%KUVAUS%%
->>Merikapteeni. Luvannut [[Vaka-Viisi|Vaka-Viidelle]] ilmaisen kyydin, kun he pelastivat hänet merihirviöltä.
->>###### Miehistö
->>Unnar kuollut perämies
->>Alar ja Olga alaisia, pursimiehet 8 ihmistä, Laivakokki Petyr.
+>>[[Kähykuolema]]lta vaskilaisteknologialla pelastettu nuori mies, joka oli osana [[Vaka-Viisi|Vaka-viittä]]. Hans menehtyi taistelussa merirosvoja vastaan merimatkalla Haltijamaille.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
 >>![[IMG_3083.png]]
->> ## Ilajas
+>> ## Hans Hardfelt
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`
@@ -35,8 +33,8 @@ lvl:
 >>##### Lvl: `VIEW[{lvl}]`
 >>##### Elossa:`VIEW[{elossa}]`
 
-
-
+%%KUVAUS%%
+...Kuvaus
 
 
 ### Tiedot

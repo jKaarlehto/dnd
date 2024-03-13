@@ -8,4 +8,7 @@ jäsenet:
   - "[[Yuhzus]]"
   - "[[Balbadur]]"
   - "[[Shiva]]"
+  - "[[Hans Hardfelt]]"
 ---
+Seikkailijaryhmä [[Sôru-agaz]]in alueella. Ryhmä selvittää manteretta ympäröivään sulkukehään liittyvää mysteeriä.
+

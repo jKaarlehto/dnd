@@ -24,7 +24,7 @@ imperiumin loppupuolella varsinainen sota
 
 vhavistamatonta legendaa:
 
-Kääpiökuningatar Brúnn tappoi [[Karmini Kuningas|Karmiinikuninkaan]].
+Kääpiökuningatar [[Brúnn]] tappoi [[Karmini Kuningas|Karmiinikuninkaan]].
 
 
 

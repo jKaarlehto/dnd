@@ -1,31 +1,30 @@
 ---
 tags:
-  - Henkilö
+ - Henkilö
+
 type: henkilö
-nimi: Ilajas
-titteli: Merikapteeni
+ 
+nimi: Brúnn
+titteli:
 rotu: 
 ikä: 
 sijainti: 
 järjestöt: 
-suku: 
-elossa: true
-lvl:
+suku:
+elossa: 
+lvl: 
 ---
 
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus
 >>%%KUVAUS%%
->>Merikapteeni. Luvannut [[Vaka-Viisi|Vaka-Viidelle]] ilmaisen kyydin, kun he pelastivat hänet merihirviöltä.
->>###### Miehistö
->>Unnar kuollut perämies
->>Alar ja Olga alaisia, pursimiehet 8 ihmistä, Laivakokki Petyr.
+>>Kuvaus...
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
 >>![[IMG_3083.png]]
->> ## Ilajas
+>> ## Brúnn
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`
@@ -35,8 +34,10 @@ lvl:
 >>##### Lvl: `VIEW[{lvl}]`
 >>##### Elossa:`VIEW[{elossa}]`
 
+%%KUVAUS%%
+Kääpiökuningatar, joka legendan mukaan tappoi [[Karmini Kuningas|Karmiinikuninkaan]].
 
-
+Eli todennäköisesti [[Dvanie Koldhazâd]]in aikaan.
 
 
 ### Tiedot

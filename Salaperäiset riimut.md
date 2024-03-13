@@ -23,3 +23,6 @@ Sôru-agazin kartan päällä olevassa riimusta tunnetaan neljä solmukohtaa:
 - [Kita](Kita.md)
 
 Riimun solmukohdista suurinta osaa ei ole vielä tutkittu, mutta Bôl-Thazâdin solmukohdan paikalla kasvaa [Karkaiskoivu](Karkaiskoivu.md). Bôl-Thazâdin krypassa vaelsi myös [Kalmankutu](Kalmankutu.md), sekä useita [Kalmankoskema](Kalmankoskema.md)ja
+
+Balasar uskoo suurempien solmukohtien sijaitsevan Kalman kaivojen kohdalla.
+Pienemmistä solmukohdista on löytynyt [[Ikilehdot|Ikilehtoja]]

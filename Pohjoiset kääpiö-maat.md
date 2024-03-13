@@ -7,7 +7,13 @@ sijaitsee:
 aliases:
   - Nori-Koldhazǎd
 ---
-[Sôru-agaz](Sôru-agaz.md)in pohjoisin valtakunta. [Kääpiöiden](Kääpiöt.md) kotialuetta.
+[Sôru-agaz](Sôru-agaz.md)in pohjoisin valtakunta. [Kääpiöiden](Kääpiöt.md) kotialuetta. Alue oli alunperin jakautunut kahteen valtakuntaan: [[Thazad]]iin ja [[Kol-duhr]]iin, jotka sotivat keskenään.
+
+###### Adin Koldhazâd
+
+[[Lahden rauha]]n jälkeen valtakuntaa hallitsi [[Ulthâz]], ja mahdollisesti hänen rinnallaan [[Thazad]]in konsulaatin jäseniä.
+
+
 
 ###### Merkittäviä alueita
 
