@@ -8,3 +8,4 @@ Parhaita paloja:
 
 Lobotomia 
 Tabaksihäntäkoru
+Hiuksia hautaan kunnianosoituksena.
