@@ -2,27 +2,28 @@
 tags:
   - Henkilö
 type: henkilö
-nimi: Ilajas
-titteli: Kapteeni
-rotu: 
-ikä: 
-sijainti: 
-järjestöt: 
+nimi: Jaeno
+titteli: Arven maisteri
+rotu: Puolituinen
+ikä: "60"
+sijainti: "[[Selemdûr]]"
+järjestöt:
+  - "[[Selemdûrin Maagikilta]]"
 suku: 
 elossa: true
-lvl: 
+lvl:
 ---
 
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus
 >>%%KUVAUS%%
->>Merikapteeni. Luvannut [[Vaka-Viisi|Vaka-Viidelle]] ilmaisen kyydin, kun he pelastivat hänet merihirviöltä.
+>>Paikannusloitsujen enteiden kosmologian ja muun sellaisen proffa.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
 >>![[IMG_3083.png]]
->> ## Ilajas
+>> ## Jaeno
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`

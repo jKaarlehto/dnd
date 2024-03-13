@@ -19,6 +19,12 @@ lokaatio: "[[Selemdûr.md|Selemdûr]]"
 >>### Kuvaus
 >>%%KUVAUS%%
 >>[[Balasár Ghesh]]in seuraaja. Toimii väliaikaisesti pestissä balasarin kadottua.
+>>Tiukkapipoinen kaveri, erittäin pikkutarkka. Erikoistunut arkistointiin?
+>>#### Ura
+>>Osana kirjoittamista: 
+>>**Historiallinen selvitys paikallaan olevien suojausloitsujen tekemisestä** - Krall listattuna suojauskehien eksperttinä selittämässä miten grelin thaeromi on epäonnistunut lähestymistapa suojauskehiin.
+>>
+>>**Taikakääröjen ja sitomakaavojen tutkimus** - Miten eteeriä voidaan sitoa tehokkaasti kääröihin yms. teoreettinen perusteons.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%

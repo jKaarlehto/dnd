@@ -11,7 +11,7 @@ Kirkon vankkureista varastettu pätkä kirjeenvaihtoa [Elhen kirkon](Elhen%20kir
 Tutkimuksemme eivät tuottaneet tulosta.
 Emme voi nykyisen informaation valossa tehdä johtopäätöstä Selemdûrin johdon mahdollisista tavoitteista.
 Toistaiseksi emme usko, että jatkotoimenpiteet ovat tarpeen.
-Emme myöskään löytäneet todisteita Konklaavin läsnäolosta rajan eteläpuolella. Yksittäiset solut, jotka kohdattiin Shûlumirissa on murskattu.
+Emme myöskään löytäneet todisteita [[Grozan salaliitto|Konklaavi]]n läsnäolosta rajan eteläpuolella. Yksittäiset solut, jotka kohdattiin Shûlumirissa on murskattu.
 12.6.938 NV ^60e62b
 + Teksti varustettu tuntemattoman Varkainkillan valtuutetun jäsenen sinetillä. 
 

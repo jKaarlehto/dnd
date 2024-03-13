@@ -2,27 +2,28 @@
 tags:
   - Henkilö
 type: henkilö
-nimi: Ilajas
-titteli: Kapteeni
-rotu: 
+nimi: Rhendra
+titteli: Lumousmaisteri
+rotu: Ihminen
 ikä: 
-sijainti: 
-järjestöt: 
+sijainti: "[[Selemdûr]]"
+järjestöt:
+  - "[[Selemdûrin Maagikilta]]"
 suku: 
 elossa: true
-lvl: 
+lvl:
 ---
 
 >[!col]
 >>[!col-md-2]
 >>### Kuvaus
 >>%%KUVAUS%%
->>Merikapteeni. Luvannut [[Vaka-Viisi|Vaka-Viidelle]] ilmaisen kyydin, kun he pelastivat hänet merihirviöltä.
+>>Vanha mukava rouva. Antoi Thaerille ja Balvadurille kirjastokortit. Vähän seniili.
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
 >>![[IMG_3083.png]]
->> ## Ilajas
+>> ## Rhendra
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}]`
 >>###### Ikä: `VIEW[{ikä}]`
