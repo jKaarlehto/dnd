@@ -11,7 +11,8 @@ järjestöt:
   - "[[Ordo hereticus]]"
 suku: 
 elossa: false
-lvl:
+lvl: 
+johtaja: "[[Van Bluet]]"
 ---
 
 >[!col]

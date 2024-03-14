@@ -1,4 +1,5 @@
 ---
+järjestöt: "[[Elhen imperiumin aatelishuoneet]]"
 jäsenet:
   - "[[Keisari Aegor El'haera]]"
   - "[[Elhe]]"
@@ -6,4 +7,4 @@ tags:
   - Historia/Suku
   - Historia/Ihmiset
 ---
-[[Elhen Imperiumi]]a johtava aatelissuku. Suvun jäsenten kerrotaan olevan [[Elhe]]n suoria jälkeläisiä.
+[[Elhen Imperiumi]]a johtava aatelissuku. Suvun jäsenten kerrotaan olevan [[Elhe]]n suoria jälkeläisiä. Hallitsee [[Fel-Maul]]in kaupunkia

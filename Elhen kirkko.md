@@ -2,10 +2,6 @@
 tags:
   - Uskonto/Järjestö
   - Historia/Järjestö
-alainen:
-  - "[[Ordo bellos]]"
-  - "[[Ordo hereticus]]"
-  - "[[Ordo auxiliarus]]"
 rinnastettavat: "[[Elhen Imperiumi]]"
 ---
 #### Uskonto:

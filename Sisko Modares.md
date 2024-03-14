@@ -13,6 +13,7 @@ suku:
 elossa: false
 lvl: 
 lokaatio: "[[Syvälä.md|Syvälä]]"
+johtaja: [[Van Bluet]]
 ---
 
 >[!col]

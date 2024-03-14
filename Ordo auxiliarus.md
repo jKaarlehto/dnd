@@ -2,7 +2,7 @@
 tags:
   - Uskonto/Järjestö
 ---
-Ordo auxiliarus on [Elhen kirkon](Elhen%20kirkko.md) suurin lahko.
+Ordo auxiliarus on [Elhen kirkon](Elhen%20kirkko.md) suurin lahko. Sen tehtävänä on suorittaa yleishyödyllisiä toimintoja ja levittää Elhen sanaa.
 
 
 ###### Tunnetut jäsenet

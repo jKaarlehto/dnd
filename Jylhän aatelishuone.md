@@ -1,6 +1,8 @@
 ---
 tags:
   - Historia/Suku
+järjestöt:
+  - "[[Elhen imperiumin aatelishuoneet]]"
 ---
 Yksi [Elhen Imperiumi](Elhen%20Imperiumi.md)n aatelissuvuista. Suku hallitsee [Brantby](Brantby.md)n kaupunkia.
 
