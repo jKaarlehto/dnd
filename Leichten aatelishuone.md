@@ -8,6 +8,8 @@ alaiset:
 jäsenet:
   - "[[Aldor Leichte]]"
   - "[[Rolen Leichte]]"
+yläjärjestö:
+  - "[[Elhen imperiumin aatelishuoneet]]"
 ---
 [Elhen Imperiumi](Elhen%20Imperiumi.md)n aatelishuone, joka hallitsee [Selemdûr](Selemdûr.md)ia.
 

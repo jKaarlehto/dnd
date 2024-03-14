@@ -3,7 +3,6 @@ tags:
   - Maantiede/Valtakunta
 sijaitsee:
   - "[[Sôru-agaz]]"
-alempi: 
 aliases:
   - Idän ylänkö
   - Menetetyt maat

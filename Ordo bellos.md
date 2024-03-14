@@ -1,7 +1,7 @@
 ---
 tags:
   - Uskonto/Järjestö
-hallitsija: "[[Elhen kirkko]]"
+yläjärjestö: "[[Elhen kirkko]]"
 ---
 Ordo bellos on [Elhen kirkon](Elhen%20kirkko.md) sodankäyntiin erikoistunut lahko.
 

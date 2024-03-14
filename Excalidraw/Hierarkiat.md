@@ -38,6 +38,14 @@ Henkilö ^wvnVhgk7
 
 Johtaja/Alaiset ^tzCodppo
 
+Alue ^quLebyAL
+
+Hallitsija/Alaiset ^ztd9R6Xt
+
+Järjestöjä Johdetaan
+Ihmisiä Johdetaan
+Alueita Hallitaan ^sfh4YXQM
+
 %%
 # Drawing
 ```json
@@ -48,8 +56,8 @@ Johtaja/Alaiset ^tzCodppo
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 877,
-			"versionNonce": 192090793,
+			"version": 879,
+			"versionNonce": 1147953769,
 			"isDeleted": false,
 			"id": "LqkmM_IWSMn6nu7p1UYFR",
 			"fillStyle": "solid",
@@ -92,14 +100,14 @@ Johtaja/Alaiset ^tzCodppo
 					"type": "arrow"
 				}
 			],
-			"updated": 1710435348359,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 820,
-			"versionNonce": 1689542313,
+			"version": 824,
+			"versionNonce": 1355814055,
 			"isDeleted": false,
 			"id": "44W2pkhK",
 			"fillStyle": "solid",
@@ -108,18 +116,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4.158879763085668,
+			"x": 5.4957099022458245,
 			"y": -57.429395127016335,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.43359375,
+			"width": 61.75993347167969,
 			"height": 25,
 			"seed": 1975207145,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341574,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -131,12 +139,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "LqkmM_IWSMn6nu7p1UYFR",
 			"originalText": "Henkilö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 673,
-			"versionNonce": 491415015,
+			"version": 675,
+			"versionNonce": 1936076105,
 			"isDeleted": false,
 			"id": "dPT0sr8to3eV_o3XzsfAo",
 			"fillStyle": "solid",
@@ -183,14 +191,14 @@ Johtaja/Alaiset ^tzCodppo
 					"type": "arrow"
 				}
 			],
-			"updated": 1710436393818,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 469,
-			"versionNonce": 49484039,
+			"version": 473,
+			"versionNonce": 2136270791,
 			"isDeleted": false,
 			"id": "1ur744Gu",
 			"fillStyle": "solid",
@@ -199,18 +207,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -175.38766887758402,
+			"x": -187.52075603578714,
 			"y": -340.87467522570984,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 61.09375,
+			"width": 85.35992431640625,
 			"height": 25,
 			"seed": 2140336615,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436393818,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -222,12 +230,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "dPT0sr8to3eV_o3XzsfAo",
 			"originalText": "Järjestö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 2220,
-			"versionNonce": 2083109703,
+			"version": 2226,
+			"versionNonce": 2057542697,
 			"isDeleted": false,
 			"id": "pArXUjQ6v2b2Wh3e1LjFs",
 			"fillStyle": "solid",
@@ -236,12 +244,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2.2487318386781183,
-			"y": -102.08662191611374,
+			"x": -2.195720846357929,
+			"y": -102.11577511908021,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 113.42072153708017,
-			"height": 182.92672518459608,
+			"width": 113.45995398464211,
+			"height": 182.89757198162962,
 			"seed": 917343143,
 			"groupIds": [],
 			"frameId": null,
@@ -254,7 +262,7 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "QfwreRIE"
 				}
 			],
-			"updated": 1710436393819,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -276,15 +284,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					-113.42072153708017,
-					-182.92672518459608
+					-113.45995398464211,
+					-182.89757198162962
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 37,
-			"versionNonce": 1778432615,
+			"version": 39,
+			"versionNonce": 672290535,
 			"isDeleted": false,
 			"id": "QfwreRIE",
 			"fillStyle": "solid",
@@ -304,7 +312,7 @@ Johtaja/Alaiset ^tzCodppo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436393819,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -320,8 +328,8 @@ Johtaja/Alaiset ^tzCodppo
 		},
 		{
 			"type": "ellipse",
-			"version": 931,
-			"versionNonce": 2055179303,
+			"version": 933,
+			"versionNonce": 1511010057,
 			"isDeleted": false,
 			"id": "0sh4pBykEbNYQn5pkffTQ",
 			"fillStyle": "solid",
@@ -352,14 +360,14 @@ Johtaja/Alaiset ^tzCodppo
 					"type": "arrow"
 				}
 			],
-			"updated": 1710435468155,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 875,
-			"versionNonce": 1434083657,
+			"version": 879,
+			"versionNonce": 831840775,
 			"isDeleted": false,
 			"id": "lRPUr0Xl",
 			"fillStyle": "solid",
@@ -368,18 +376,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9.938508503022366,
+			"x": 11.275338642182522,
 			"y": 292.4823976331865,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.43359375,
+			"width": 61.75993347167969,
 			"height": 25,
 			"seed": 1043382153,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341584,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -391,12 +399,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "0sh4pBykEbNYQn5pkffTQ",
 			"originalText": "Henkilö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 996,
-			"versionNonce": 315971497,
+			"version": 999,
+			"versionNonce": 136799721,
 			"isDeleted": false,
 			"id": "e9tvQVmd7OSiq2i3GQf_a",
 			"fillStyle": "solid",
@@ -423,7 +431,7 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "boUc1zHH"
 				}
 			],
-			"updated": 1710436341571,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -448,8 +456,8 @@ Johtaja/Alaiset ^tzCodppo
 		},
 		{
 			"type": "text",
-			"version": 34,
-			"versionNonce": 192838281,
+			"version": 36,
+			"versionNonce": 2094598439,
 			"isDeleted": false,
 			"id": "boUc1zHH",
 			"fillStyle": "solid",
@@ -462,14 +470,14 @@ Johtaja/Alaiset ^tzCodppo
 			"y": 122.83590399263812,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 118.857421875,
+			"width": 157.3798828125,
 			"height": 25,
 			"seed": 1133503881,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341571,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -481,12 +489,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "e9tvQVmd7OSiq2i3GQf_a",
 			"originalText": "Johtaja/Alaiset",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
-			"version": 1406,
-			"versionNonce": 1669679369,
+			"version": 1408,
+			"versionNonce": 536133833,
 			"isDeleted": false,
 			"id": "aGyQQzVSA47hywMsaBAej",
 			"fillStyle": "solid",
@@ -521,14 +529,14 @@ Johtaja/Alaiset ^tzCodppo
 					"type": "arrow"
 				}
 			],
-			"updated": 1710435348359,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1350,
-			"versionNonce": 1577916041,
+			"version": 1354,
+			"versionNonce": 390810695,
 			"isDeleted": false,
 			"id": "Jt5GRkW9",
 			"fillStyle": "solid",
@@ -537,18 +545,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 355.3518157739948,
+			"x": 356.68864591315497,
 			"y": 280.1631085611936,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.43359375,
+			"width": 61.75993347167969,
 			"height": 25,
 			"seed": 1369641255,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341588,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -560,12 +568,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "aGyQQzVSA47hywMsaBAej",
 			"originalText": "Henkilö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 2037,
-			"versionNonce": 1135043337,
+			"version": 2043,
+			"versionNonce": 1326694313,
 			"isDeleted": false,
 			"id": "ltkBay_3RiHSUZgjnprqo",
 			"fillStyle": "solid",
@@ -574,12 +582,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 125.28147349362314,
-			"y": -31.80328127907555,
+			"x": 125.28147349362315,
+			"y": -31.803281279075577,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 221.60645593709722,
-			"height": 257.8804142132583,
+			"height": 257.88041421325835,
 			"seed": 180839689,
 			"groupIds": [],
 			"frameId": null,
@@ -587,7 +595,7 @@ Johtaja/Alaiset ^tzCodppo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710436341587,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -610,14 +618,14 @@ Johtaja/Alaiset ^tzCodppo
 				],
 				[
 					221.60645593709722,
-					257.8804142132583
+					257.88041421325835
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 762,
-			"versionNonce": 1280242889,
+			"version": 768,
+			"versionNonce": 751315815,
 			"isDeleted": false,
 			"id": "AMMolbOQyQ-amakU8S864",
 			"fillStyle": "solid",
@@ -626,12 +634,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 133.8224421443056,
-			"y": 304.2452888997052,
+			"x": 133.82244214430557,
+			"y": 304.2452888997054,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 175.20246249750707,
-			"height": 7.520425097622706,
+			"width": 175.2024624975071,
+			"height": 7.520425097622763,
 			"seed": 954810633,
 			"groupIds": [],
 			"frameId": null,
@@ -644,7 +652,7 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "CI6AjWz7"
 				}
 			],
-			"updated": 1710436341588,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -666,15 +674,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					175.20246249750707,
-					-7.520425097622706
+					175.2024624975071,
+					-7.520425097622763
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 1546383241,
+			"version": 28,
+			"versionNonce": 61858441,
 			"isDeleted": false,
 			"id": "CI6AjWz7",
 			"fillStyle": "solid",
@@ -687,14 +695,14 @@ Johtaja/Alaiset ^tzCodppo
 			"y": 304.7275725122955,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 69.970703125,
+			"width": 91.99990844726562,
 			"height": 25,
 			"seed": 1234181351,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341584,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -706,12 +714,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "AMMolbOQyQ-amakU8S864",
 			"originalText": "Vertaiset",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
-			"version": 2591,
-			"versionNonce": 614683207,
+			"version": 2593,
+			"versionNonce": 966534791,
 			"isDeleted": false,
 			"id": "YxKFSZK4dG_nNXiv6PLoP",
 			"fillStyle": "solid",
@@ -746,14 +754,14 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "xp1TMQYy"
 				}
 			],
-			"updated": 1710435348360,
+			"updated": 1710438412182,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 510,
-			"versionNonce": 585554889,
+			"version": 514,
+			"versionNonce": 1518643561,
 			"isDeleted": false,
 			"id": "xp1TMQYy",
 			"fillStyle": "solid",
@@ -762,18 +770,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 330.4246188016089,
+			"x": 331.76144894076907,
 			"y": -55.37813427195931,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.43359375,
+			"width": 61.75993347167969,
 			"height": 25,
 			"seed": 2067521031,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341589,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -785,12 +793,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "YxKFSZK4dG_nNXiv6PLoP",
 			"originalText": "Henkilö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 1822,
-			"versionNonce": 572820647,
+			"version": 1828,
+			"versionNonce": 2089008551,
 			"isDeleted": false,
 			"id": "Q-VPKa1Q7anNhxWZRpuEw",
 			"fillStyle": "solid",
@@ -799,12 +807,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -33.39897445363761,
-			"y": -296.8481113610461,
+			"x": -33.39897445363758,
+			"y": -296.85407202598856,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 326.84843918466197,
-			"height": 205.6096129379018,
+			"width": 326.8490249617614,
+			"height": 205.6148691980997,
 			"seed": 1519039591,
 			"groupIds": [],
 			"frameId": null,
@@ -812,7 +820,7 @@ Johtaja/Alaiset ^tzCodppo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710436393820,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -834,15 +842,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					326.84843918466197,
-					205.6096129379018
+					326.8490249617614,
+					205.6148691980997
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1524,
-			"versionNonce": 1144850953,
+			"version": 1530,
+			"versionNonce": 1289589833,
 			"isDeleted": false,
 			"id": "sdX2Jj8artgY-Kez9A9aR",
 			"fillStyle": "solid",
@@ -851,12 +859,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 122.70897516234335,
-			"y": -54.991519722556504,
+			"x": 122.70897516234339,
+			"y": -54.991519722556006,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 160.24200941289348,
-			"height": 3.7557757965022986,
+			"width": 160.24200941289342,
+			"height": 3.7557757965019647,
 			"seed": 1315046407,
 			"groupIds": [],
 			"frameId": null,
@@ -869,7 +877,7 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "pwneCpnD"
 				}
 			],
-			"updated": 1710436341589,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -891,15 +899,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					160.24200941289348,
-					3.7557757965022986
+					160.24200941289342,
+					3.7557757965019647
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 12,
-			"versionNonce": 336839913,
+			"version": 14,
+			"versionNonce": 682324167,
 			"isDeleted": false,
 			"id": "pwneCpnD",
 			"fillStyle": "solid",
@@ -912,14 +920,14 @@ Johtaja/Alaiset ^tzCodppo
 			"y": -16.04346445977034,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 43.33984375,
+			"width": 49.33995056152344,
 			"height": 25,
 			"seed": 97413607,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341574,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -931,12 +939,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "sdX2Jj8artgY-Kez9A9aR",
 			"originalText": "Muut",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 2362,
-			"versionNonce": 361333609,
+			"version": 2366,
+			"versionNonce": 1206758345,
 			"isDeleted": false,
 			"id": "08Qz0jGZMQDt_viHy4o97",
 			"fillStyle": "solid",
@@ -969,16 +977,20 @@ Johtaja/Alaiset ^tzCodppo
 				{
 					"id": "2gRieKrsj4zInm5dpAkHj",
 					"type": "arrow"
+				},
+				{
+					"id": "NrnYKoP8livdJKrLuPY7q",
+					"type": "arrow"
 				}
 			],
-			"updated": 1710435348360,
+			"updated": 1710438430737,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2161,
-			"versionNonce": 1624418281,
+			"version": 2165,
+			"versionNonce": 1471135719,
 			"isDeleted": false,
 			"id": "t18UmSe7",
 			"fillStyle": "solid",
@@ -987,18 +999,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -377.349424481616,
+			"x": -389.4825116398191,
 			"y": -56.207781478344145,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 61.09375,
+			"width": 85.35992431640625,
 			"height": 25,
 			"seed": 260666569,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341592,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1010,12 +1022,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "08Qz0jGZMQDt_viHy4o97",
 			"originalText": "Järjestö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 3228,
-			"versionNonce": 413716199,
+			"version": 3234,
+			"versionNonce": 203019785,
 			"isDeleted": false,
 			"id": "x8a_GFlllncp9gdozYG06",
 			"fillStyle": "solid",
@@ -1024,11 +1036,11 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -355.58330131414345,
+			"x": -355.5432152579603,
 			"y": -86.74680044412986,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 132.3730846306152,
+			"width": 132.34098743418645,
 			"height": 205.15709866146494,
 			"seed": 364268583,
 			"groupIds": [],
@@ -1042,7 +1054,7 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "yqVuQr8k"
 				}
 			],
-			"updated": 1710436393820,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1064,15 +1076,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					132.3730846306152,
+					132.34098743418645,
 					-205.15709866146494
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 676996809,
+			"version": 57,
+			"versionNonce": 1000155911,
 			"isDeleted": false,
 			"id": "yqVuQr8k",
 			"fillStyle": "solid",
@@ -1092,7 +1104,7 @@ Johtaja/Alaiset ^tzCodppo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341579,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1108,8 +1120,8 @@ Johtaja/Alaiset ^tzCodppo
 		},
 		{
 			"type": "rectangle",
-			"version": 2596,
-			"versionNonce": 1256767305,
+			"version": 2598,
+			"versionNonce": 946089193,
 			"isDeleted": false,
 			"id": "Jo3g7Df8dxJJbWECJS0AL",
 			"fillStyle": "solid",
@@ -1148,14 +1160,14 @@ Johtaja/Alaiset ^tzCodppo
 					"type": "arrow"
 				}
 			],
-			"updated": 1710435822303,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2393,
-			"versionNonce": 577234217,
+			"version": 2397,
+			"versionNonce": 284176935,
 			"isDeleted": false,
 			"id": "tL4BJcsT",
 			"fillStyle": "solid",
@@ -1164,18 +1176,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -824.8565100452358,
+			"x": -836.989597203439,
 			"y": -60.50535467508735,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 61.09375,
+			"width": 85.35992431640625,
 			"height": 25,
 			"seed": 860939815,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341595,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1187,12 +1199,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "Jo3g7Df8dxJJbWECJS0AL",
 			"originalText": "Järjestö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 835,
-			"versionNonce": 607224103,
+			"version": 841,
+			"versionNonce": 1526769609,
 			"isDeleted": false,
 			"id": "PbtyWlsRgK2DRSF8Yivcb",
 			"fillStyle": "solid",
@@ -1201,12 +1213,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -791.831435708837,
+			"x": -791.8001260522731,
 			"y": -91.12827036400228,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 540.7926936253396,
-			"height": 233.92478775311935,
+			"width": 540.7613839687756,
+			"height": 233.92364853493046,
 			"seed": 1238077737,
 			"groupIds": [],
 			"frameId": null,
@@ -1214,7 +1226,7 @@ Johtaja/Alaiset ^tzCodppo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710436393821,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1236,15 +1248,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					540.7926936253396,
-					-233.92478775311935
+					540.7613839687756,
+					-233.92364853493046
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 263,
-			"versionNonce": 176089961,
+			"version": 269,
+			"versionNonce": 1351963975,
 			"isDeleted": false,
 			"id": "2gRieKrsj4zInm5dpAkHj",
 			"fillStyle": "solid",
@@ -1254,11 +1266,11 @@ Johtaja/Alaiset ^tzCodppo
 			"opacity": 100,
 			"angle": 0,
 			"x": -679.4994369922586,
-			"y": -39.135093442588506,
+			"y": -39.135093442462086,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 223.31530095431214,
-			"height": 3.601014510507646,
+			"height": 3.60101451059311,
 			"seed": 297293287,
 			"groupIds": [],
 			"frameId": null,
@@ -1271,7 +1283,7 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "3xNc32o4"
 				}
 			],
-			"updated": 1710436341595,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1294,14 +1306,14 @@ Johtaja/Alaiset ^tzCodppo
 				],
 				[
 					223.31530095431214,
-					-3.601014510507646
+					-3.60101451059311
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 21,
-			"versionNonce": 1607949865,
+			"version": 23,
+			"versionNonce": 772458153,
 			"isDeleted": false,
 			"id": "3xNc32o4",
 			"fillStyle": "solid",
@@ -1314,14 +1326,14 @@ Johtaja/Alaiset ^tzCodppo
 			"y": -53.84201726360661,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 86.650390625,
+			"width": 110.4998779296875,
 			"height": 25,
 			"seed": 1614441321,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341592,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1333,12 +1345,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "2gRieKrsj4zInm5dpAkHj",
 			"originalText": "Liittolaiset",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
-			"version": 1594,
-			"versionNonce": 489824425,
+			"version": 1596,
+			"versionNonce": 568923239,
 			"isDeleted": false,
 			"id": "DYshP0hlAZzqsK4GYhWNp",
 			"fillStyle": "solid",
@@ -1369,14 +1381,14 @@ Johtaja/Alaiset ^tzCodppo
 					"type": "arrow"
 				}
 			],
-			"updated": 1710435693561,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1536,
-			"versionNonce": 32213161,
+			"version": 1540,
+			"versionNonce": 472779145,
 			"isDeleted": false,
 			"id": "wvnVhgk7",
 			"fillStyle": "solid",
@@ -1385,18 +1397,18 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -171.64821450835512,
+			"x": -170.31138436919497,
 			"y": -622.1914636063289,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.43359375,
+			"width": 61.75993347167969,
 			"height": 25,
 			"seed": 409468871,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436341596,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1408,12 +1420,12 @@ Johtaja/Alaiset ^tzCodppo
 			"containerId": "DYshP0hlAZzqsK4GYhWNp",
 			"originalText": "Henkilö",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 1394,
-			"versionNonce": 1113760615,
+			"version": 1400,
+			"versionNonce": 213380999,
 			"isDeleted": false,
 			"id": "Sb4rap894HeMSKmMhQ7ws",
 			"fillStyle": "solid",
@@ -1422,12 +1434,12 @@ Johtaja/Alaiset ^tzCodppo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -135.57230402999988,
-			"y": -540.627952548127,
+			"x": -135.48597006591564,
+			"y": -540.6317934875556,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.9508490006874695,
-			"height": 162.75390581166812,
+			"width": 0.8835856075289144,
+			"height": 162.75774675109665,
 			"seed": 929960265,
 			"groupIds": [],
 			"frameId": null,
@@ -1440,18 +1452,18 @@ Johtaja/Alaiset ^tzCodppo
 					"id": "tzCodppo"
 				}
 			],
-			"updated": 1710436393821,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "DYshP0hlAZzqsK4GYhWNp",
-				"focus": -0.04712027112945143,
-				"gap": 3.666597712843952
+				"gap": 3.666597712843952,
+				"focus": -0.04712027112945143
 			},
 			"endBinding": {
 				"elementId": "dPT0sr8to3eV_o3XzsfAo",
-				"focus": 0.10054268575195602,
-				"gap": 15.985699635749086
+				"gap": 15.985699635749086,
+				"focus": 0.10054268575195602
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -1462,15 +1474,15 @@ Johtaja/Alaiset ^tzCodppo
 					0
 				],
 				[
-					0.9508490006874695,
-					162.75390581166812
+					0.8835856075289144,
+					162.75774675109665
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 94870665,
+			"version": 51,
+			"versionNonce": 782626921,
 			"isDeleted": false,
 			"id": "tzCodppo",
 			"fillStyle": "solid",
@@ -1490,7 +1502,7 @@ Johtaja/Alaiset ^tzCodppo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710436347314,
+			"updated": 1710438412183,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1503,6 +1515,320 @@ Johtaja/Alaiset ^tzCodppo
 			"originalText": "Johtaja/Alaiset",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"id": "tFD3YbpJlyXzLggNrVb90",
+			"type": "diamond",
+			"x": -440.74376549481707,
+			"y": 203.46012389443564,
+			"width": 196.19591346153845,
+			"height": 178.7800480769231,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2102178727,
+			"version": 357,
+			"versionNonce": 1427327367,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "quLebyAL"
+				},
+				{
+					"id": "NrnYKoP8livdJKrLuPY7q",
+					"type": "arrow"
+				}
+			],
+			"updated": 1710438457527,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "quLebyAL",
+			"type": "text",
+			"x": -363.034768208534,
+			"y": 280.1551359136664,
+			"width": 40.679962158203125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 124263015,
+			"version": 230,
+			"versionNonce": 52330663,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710438457527,
+			"link": null,
+			"locked": false,
+			"text": "Alue",
+			"rawText": "Alue",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 18,
+			"containerId": "tFD3YbpJlyXzLggNrVb90",
+			"originalText": "Alue",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "NrnYKoP8livdJKrLuPY7q",
+			"type": "arrow",
+			"x": -345.5092231670436,
+			"y": 1.7954604328972437,
+			"width": 1.225917887599394,
+			"height": 196.49852605065493,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 182891783,
+			"version": 450,
+			"versionNonce": 1387643623,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "ztd9R6Xt"
+				}
+			],
+			"updated": 1710438457527,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.225917887599394,
+					196.49852605065493
+				]
+			],
+			"lastCommittedPoint": [
+				6.063701923077019,
+				214.49519230769232
+			],
+			"startBinding": {
+				"elementId": "08Qz0jGZMQDt_viHy4o97",
+				"focus": -0.009655335165325903,
+				"gap": 11.989570036241389
+			},
+			"endBinding": {
+				"elementId": "tFD3YbpJlyXzLggNrVb90",
+				"focus": -0.010678898753964813,
+				"gap": 5.419443752458818
+			},
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ztd9R6Xt",
+			"type": "text",
+			"x": -423.91785243235444,
+			"y": 96.5430565867434,
+			"width": 164.8998565673828,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1931732199,
+			"version": 19,
+			"versionNonce": 1342594985,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710438441182,
+			"link": null,
+			"locked": false,
+			"text": "Hallitsija/Alaiset",
+			"rawText": "Hallitsija/Alaiset",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 18,
+			"containerId": "NrnYKoP8livdJKrLuPY7q",
+			"originalText": "Hallitsija/Alaiset",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "sfh4YXQM",
+			"type": "text",
+			"x": -712.943284725587,
+			"y": -608.5711261055632,
+			"width": 218.5398406982422,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1318155559,
+			"version": 283,
+			"versionNonce": 158090407,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710438576424,
+			"link": null,
+			"locked": false,
+			"text": "Järjestöjä Johdetaan\nIhmisiä Johdetaan\nAlueita Hallitaan",
+			"rawText": "Järjestöjä Johdetaan\nIhmisiä Johdetaan\nAlueita Hallitaan",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "Järjestöjä Johdetaan\nIhmisiä Johdetaan\nAlueita Hallitaan",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Sw_NbmtcAw9WuxUmOSDPX",
+			"type": "arrow",
+			"x": -362.82910203327845,
+			"y": 1.7353642790511117,
+			"width": 4.975961538461547,
+			"height": 237.5180288461538,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1720887239,
+			"version": 394,
+			"versionNonce": 1799251623,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1710438412183,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.975961538461547,
+					237.5180288461538
+				]
+			],
+			"lastCommittedPoint": [
+				4.975961538461547,
+				237.5180288461538
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "hma6inY6_IQ3q_tqLqrC8",
+			"type": "diamond",
+			"x": -355.32910203327845,
+			"y": 242.48055658674338,
+			"width": 1.0637019230769056,
+			"height": 1.7427884615384528,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1837818055,
+			"version": 6,
+			"versionNonce": 993917769,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1710438412183,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "L0Ul0Xk6JLxXXKBYtbAvY",
+			"type": "diamond",
+			"x": -419.5899193409707,
+			"y": 257.03584504828183,
+			"width": 255.3605769230769,
+			"height": 216.30408653846155,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 751524169,
+			"version": 96,
+			"versionNonce": 472447431,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1710438412183,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1520,8 +1846,8 @@ Johtaja/Alaiset ^tzCodppo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 936.2666020332758,
-		"scrollY": 777.6636741824916,
+		"scrollX": 902.6788616486638,
+		"scrollY": 681.3753628844094,
 		"zoom": {
 			"value": 0.65
 		},

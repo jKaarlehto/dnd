@@ -46,9 +46,10 @@
     ],
     "next": [
       "muut",
+      "rinnastettavat",
       "seuraaja",
       "seuraava",
-      "verrattavissa"
+      "verrattavat"
     ],
     "hidden": [
       "hidden"
@@ -59,11 +60,11 @@
   "inverseArrowDirection": true,
   "renderAlias": true,
   "nodeTitleScript": "",
-  "backgroundColor": "#0c3e6aff",
+  "backgroundColor": "#dbdbdbff",
   "excludeFilepaths": [],
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
-  "showInferredNodes": true,
+  "showInferredNodes": false,
   "showAttachments": true,
   "showURLNodes": true,
   "showVirtualNodes": true,
@@ -129,10 +130,14 @@
     "borderColor": "#4682b4ff",
     "textColor": "#4682b4ff"
   },
-  "tagNodeStyles": {},
-  "tagStyleList": [],
-  "primaryTagField": "Note type",
-  "primaryTagFieldLowerCase": "note-type",
+  "tagNodeStyles": {
+    "#Maantiede #Henkilö #Järjestö": {}
+  },
+  "tagStyleList": [
+    "#Maantiede #Henkilö #Järjestö"
+  ],
+  "primaryTagField": "type",
+  "primaryTagFieldLowerCase": "type",
   "displayAllStylePrefixes": true,
   "baseLinkStyle": {
     "strokeColor": "#696969FF",
@@ -157,7 +162,17 @@
   },
   "hierarchyLinkStyles": {
     "hidden": {},
-    "hallitsija": {},
+    "hallitsija": {
+      "strokeColor": "#696969ff",
+      "strokeWidth": 3.5,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "startArrowHead": "arrow",
+      "showLabel": true,
+      "textColor": "#ffffffff",
+      "fontFamily": 1,
+      "fontSize": 12
+    },
     "yläjärjestö": {},
     "sijaitsee": {},
     "alaiset": {},
@@ -170,11 +185,16 @@
     "viholliset": {},
     "edellinen": {},
     "muut": {},
-    "verrattavissa": {},
-    "johtaja": {}
+    "johtaja": {},
+    "rinnastettavat": {},
+    "verrattavat": {}
   },
   "navigationHistory": [
-    "Elhen imperiumin aatelishuoneet.md"
+    "Veli Galindus.md",
+    "Elhen imperiumin aatelishuoneet.md",
+    "Ralfonin Suur-Lääni.md",
+    "Excalidraw/ExcaliBrain Snapshot - Ralfonin Suur-Lääni.excalidraw.md",
+    "Leichten aatelishuone.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
