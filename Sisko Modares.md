@@ -3,12 +3,11 @@ tags:
   - Henkilö
 type: henkilö
 nimi: Sisko Modares
-titteli: Vaski Inkvisiittori
+titteli: Vaski-Inkvisiittori
 rotu: Ihminen
 ikä: 
 sijainti: "[[Syvälä]]"
 järjestöt:
-  - "[[Elhen kirkko.md|Elhen kirkko]]"
   - "[[Ordo auxiliarus]]"
 suku: 
 elossa: false
@@ -22,6 +21,7 @@ lokaatio: "[[Syvälä.md|Syvälä]]"
 >>%%KUVAUS%%
 >>Elhen kirkon jäsen, joka lähetettiin tutkimaan [[Syvälä]]n [[Kähykuolema]]tapauksia. Hänet löydettiin lukittuna huoneesta [[Veli Galindus]] kanssa uponneesta tornista. Vaikutti siltä että he olivat odottaneet tornissa hyvin kauan.
 >>Sisko Modares hyökkäsi [[Vaka-Viisi|Vaka-viiden]] kimppuun, ja kuoli taistelussa.
+>>
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
