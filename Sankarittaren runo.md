@@ -11,6 +11,8 @@ Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee sa
 >[!question] Vahvistamaton 
 >Runossa mainittu nainen on [Mielo](Mielo.md)
 
+
+
 ###### Lähteet
 - [Kultisti](Shial-Nagherazin%20Kultistit.md)en kääröistä
 - [Balasár Ghesh](Balasár%20Ghesh.md)in tutkimukset

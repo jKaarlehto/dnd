@@ -14,12 +14,14 @@
   "enableJs": false,
   "viewFieldDisplayNullAsEmpty": false,
   "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [
     {
       "name": "rodut",
       "declaration": "INPUT[suggester(option(Ihminen),option(Haltija),option(Kääpiö),option(Grelekki),option(Puolituinen))]"
     }
   ],
+  "buttonTemplates": [],
   "excludedFolders": [
     "templates"
   ]
