@@ -6,7 +6,7 @@ tags:
 jäsenet:
   - "[[Thaer A'jabar]]"
   - "[[Yuhzus]]"
-  - "[[Balbadur]]"
+  - "[[Balvadur]]"
   - "[[Shiva]]"
   - "[[Hans Hardfelt]]"
 ---

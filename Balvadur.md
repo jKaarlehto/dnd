@@ -2,7 +2,7 @@
 tags:
   - Henkilö
 type: henkilö
-nimi: Balbadur
+nimi: Balvadur
 titteli: 
 rotu: Kääpiö
 ikä: "62"

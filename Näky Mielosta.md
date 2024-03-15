@@ -3,7 +3,7 @@ tags:
   - Historia/Tapahtuma
   - Lähdemateriaali
 ---
-[Balbadur](Balbadur)in näkemä näky [Mielo](Mielo.md)sta, joka ilmestyi hänelle Legend Lore scrollin vaikutuksen alaisena Risassa.
+[Balvadur](Balvadur.md)in näkemä näky [Mielo](Mielo.md)sta, joka ilmestyi hänelle Legend Lore scrollin vaikutuksen alaisena Risassa.
 
 >[!question] Vahvistamaton 
 >> Kohta 4. kertoo [Mielon Alrundin ja Thivratassan sopimuksesta](Mielon%20Alrundin%20ja%20Thivratassan%20sopimus.md)
