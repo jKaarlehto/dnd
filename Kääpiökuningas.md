@@ -8,7 +8,7 @@ rotu: Kääpiö
 ikä: 100+
 sijainti: 
 järjestöt:
-  - "[[Pohjoiset kääpiö-maat.md|Pohjoiset kääpiö-maat]]"
+  - "[[Nori-Koldhazâd|Nori-Koldhazâd]]"
 suku: 
 elossa: 
 lvl: 
@@ -19,7 +19,7 @@ lvl:
 >>### Kuvaus
 >>%%KUVAUS%%
 >> 
->> [[Pohjoiset kääpiö-maat|Pohjoisten kääpiömaiden]] kuningas [[Pohjoisen kapina]]n aikaan, joka puolusti [[Iki-Koivu]]a [[Shial-Nagheraz]]in joukoilta.
+>> [[Nori-Koldhazâd|Pohjoisten kääpiömaiden]] kuningas [[Pohjoisen kapina]]n aikaan, joka puolusti [[Iki-Koivu]]a [[Shial-Nagheraz]]in joukoilta.
 >>  
 >>*![[Kidan alttari#^c623f7]]*
 >>

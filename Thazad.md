@@ -3,7 +3,7 @@ tags:
   - Maantiede/Valtakunta
   - Historia/Kääpiöt
 ---
-[[Adin Koldhazâd]] aikainen valtakunta nykyisten [[Pohjoiset kääpiö-maat|Kääpiömaiden]] alueella.
+[[Adin Koldhazâd]] aikainen valtakunta nykyisten [[Nori-Koldhazâd|Kääpiömaiden]] alueella.
 
 Thazadia hallitsi [[Thazâdin konsulaatti]].
 

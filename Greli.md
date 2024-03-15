@@ -10,7 +10,7 @@ Toinen [Grelekkien](Grelekit.md) syntykertomuksen lohikäärmejumalista. Hänen 
 
 ##### Gêrin perustus
 
-[[Filverelin kirjasto]]n tietojen mukaan Greli oli perustamassa [[Gêr]]ta / [[Traakkilainen imperiumi]]a
+[[Filverelin kirjasto]]n tietojen mukaan Greli oli perustamassa [[Gêrin Kaupunkivaltio]]ta / [[Traakkilainen imperiumi]]a
 
 ##### Kääpiökuninkaan uhraus
 

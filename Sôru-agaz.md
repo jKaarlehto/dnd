@@ -4,7 +4,7 @@ tags:
 ---
 Tämän hetkisen tiedon mukaan lähellä maailman keskiötä sijaitseva iso manner. Sitä ympäröi etelästä [Ûhm-gwen](Ûhm-gwe.md) ja lännestä [läntinen mantere](Läntinen%20mantere.md).
 
-Sôru-agazin lounaispuolella sijaitsee [Gêr](Gêr.md), josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
+Sôru-agazin lounaispuolella sijaitsee [Gêrin Kaupunkivaltio](Gêrin%20Kaupunkivaltio.md), josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
 
 
 #### Historia
@@ -14,7 +14,7 @@ Sôru-agazin lounaispuolella sijaitsee [Gêr](Gêr.md), josta käydään runsaas
 #### Sôru-agazin valtakunnat:
 1. [Elhen Imperiumi](Elhen%20Imperiumi.md)
 2. [Rulindínin Haltija-maat](Rulindínin%20Haltija-maat.md)
-3. [Pohjoiset kääpiö-maat](Pohjoiset%20kääpiö-maat.md)
+3. [Nori-Koldhazâd](Nori-Koldhazâd.md)
 4. [Ralfonin Suur-Lääni](Ralfonin%20Suur-Lääni.md)
 5. [Gre'Lekus / Grelekin saaristo](Gre'Lekus%20/%20Grelekin%20saaristo)
 6. [Vuorimaat](Vuorimaat)

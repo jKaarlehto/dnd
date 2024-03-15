@@ -8,7 +8,7 @@ aliases:
 Vuorta ympäröi jäinen ja vaarallinen autiomaa
 
 ###### Historia
-Yksi [salaperäisten riimujen](Salaperäiset%20riimut.md) solmukohdista on Tuoneteerin alueella.
+Yksi [salaperäisten riimujen](Mannersulkukehät.md) solmukohdista on Tuoneteerin alueella.
 
 [[Teeistit]] näkevät sen mahdollisena viimeisenä lepopaikkana Kääpiökuningas [[Ulthâz]]ille. 
 

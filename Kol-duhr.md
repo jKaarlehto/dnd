@@ -3,7 +3,7 @@ tags:
   - Maantiede/Valtakunta
   - Historia/Kääpiöt
 ---
-[[Adin Koldhazâd]]in aikainen valtakunta nykyisen [[Pohjoiset kääpiö-maat|Kääpiövaltakunnan]] alueella.
+[[Adin Koldhazâd]]in aikainen valtakunta nykyisen [[Nori-Koldhazâd|Kääpiövaltakunnan]] alueella.
 
 Kävi sotaa [[Thazad]]in kanssa, joka johti [[Lahden rauha]]an ja [[Selemdûr]]in perustamiseen.
 

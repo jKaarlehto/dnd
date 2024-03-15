@@ -15,7 +15,7 @@ Kolme voimakasta [vanhaa jumalaa](Vanhat%20jumalat.md) jotka vaikuttavat lähtei
 >[!question] Vahvistamaton 
 Epäjumalat saattoivat liittyä [Mädättymiseen](Mädättyminen.md) tai jopa aiheuttaa sen.
 >
->Mahdollisesti epäjumalia:
+>Tunnettuja Jumalvarjoja
 > + [Shial-Nagheraz](Shial-Nagheraz.md)
 > + [A'zelserath](A'zelserath.md)
 >

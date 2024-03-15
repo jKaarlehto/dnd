@@ -1,7 +1,7 @@
 ---
 tags:
   - Uskonto/Jumala
-jäsen: "[[Kolme epäjumalaa]]"
+jäsen: "[[Jumalvarjot]]"
 ---
 
 Jumala, jota [[Vuohiäidin kirkko]] palvoo

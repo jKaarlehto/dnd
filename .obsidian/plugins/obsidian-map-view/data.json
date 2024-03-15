@@ -45,6 +45,46 @@
         "icon": "fa-chess-rook",
         "markerColor": "black"
       }
+    },
+    {
+      "ruleName": "#Maantiede/Kylä",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-house-flag"
+      }
+    },
+    {
+      "ruleName": "#Maantiede/Maamerkki",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-monument"
+      }
+    },
+    {
+      "ruleName": "#Maantiede/Liike",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-coins"
+      }
+    },
+    {
+      "ruleName": "#Uskonto",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-scroll"
+      }
+    },
+    {
+      "ruleName": "#Historia/Tapahtuma",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-exclamation"
+      }
     }
   ],
   "zoomOnGoFromNote": 3,
@@ -88,11 +128,11 @@
     }
   ],
   "mapControls": {
-    "filtersDisplayed": true,
+    "filtersDisplayed": false,
     "viewDisplayed": false,
     "presetsDisplayed": false
   },
-  "maxClusterRadiusPixels": 60,
+  "maxClusterRadiusPixels": 45,
   "searchProvider": "osm",
   "useGooglePlaces": false,
   "mapSources": [

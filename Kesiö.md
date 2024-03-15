@@ -1,6 +1,8 @@
 ---
 tags:
-  - Maantiede/Kaupunki
+  - Maantiede/Kylä
+
+location: [-0.46589251574223317,25.435875096158863]
 ---
 Kaupunki Itä-[Lakeuden](Lakeus) alueella.
 

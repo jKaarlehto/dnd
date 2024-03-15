@@ -27,6 +27,7 @@
       "hallitsija",
       "johtaja",
       "jäsen",
+      "laajempi",
       "sijainti",
       "sijaitsee",
       "yläjärjestö"
@@ -35,7 +36,8 @@
       "alaiset",
       "alajärjestöt",
       "jäsenet",
-      "sisältää"
+      "sisältää",
+      "suppeampi"
     ],
     "leftFriends": [
       "liittolaiset"
@@ -198,7 +200,9 @@
       "startArrowHead": "dot"
     },
     "sijaitsee": {},
-    "sijainti": {}
+    "sijainti": {},
+    "laajempi": {},
+    "suppeampi": {}
   },
   "navigationHistory": [
     "Veli Galindus.md",

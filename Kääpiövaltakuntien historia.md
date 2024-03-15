@@ -5,7 +5,7 @@ tags:
 
 #### Selemdurin kirjastosta
 
-Ennen ei ollut [[Pohjoiset kääpiö-maat|pohjoisia kääpiömaita]]
+Ennen ei ollut [[Nori-Koldhazâd|pohjoisia kääpiömaita]]
 
 Maat oli jakautunut kahteen valtakuntaan: Kol-duhr ja Thazad
 

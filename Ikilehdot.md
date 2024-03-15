@@ -7,7 +7,7 @@ Tarinoiden mukaan [Werdaegin](Werdaeg.md) istuttamia lehtoja, jotka omaavat vahv
 
 Ikilehtoja uskotaan olevan neljä:
 - [Karkaiskoivu](Karkaiskoivu.md)
-- [Iki-Haapa](Iki-Haapa)
+- [Hurme-Haapa](Hurme-Haapa.md)
 - [Iki-Saarni](Iki-Saarni)
 - [Iki-Tammi](Iki-Tammi)
 ###### Ikilehtojen istutus
