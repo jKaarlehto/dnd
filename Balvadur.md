@@ -11,7 +11,7 @@ järjestöt:
   - "[[Vaka-Viisi.md|Vaka-Viisi]]"
 suku: 
 elossa: true
-lvl: 5
+lvl: 6
 ---
 
 >[!col]
