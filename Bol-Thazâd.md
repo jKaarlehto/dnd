@@ -7,4 +7,4 @@ tags:
   - Historia/Kääpiöt
 ---
 
-Kääpiökaupunki
+Kääpiökaupunki. Oli aikoinaan [[Thazad]]in valtakunnan pääkaupunki.
