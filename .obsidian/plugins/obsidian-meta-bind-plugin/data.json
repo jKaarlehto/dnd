@@ -19,6 +19,10 @@
     {
       "name": "rodut",
       "declaration": "INPUT[suggester(option(Ihminen),option(Haltija),option(Kääpiö),option(Grelekki),option(Puolituinen))]"
+    },
+    {
+      "name": "lokaatiot",
+      "declaration": "INPUT[suggester(option(Rakennus),option(Liike),option(Maamerkki),option(Lääni),option(Valtakunta),option(Alue),option(Mantere),option(Kaupunki),option(Kylä))]"
     }
   ],
   "buttonTemplates": [],

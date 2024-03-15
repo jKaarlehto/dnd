@@ -213,7 +213,8 @@
     "Pieni järjestö.md",
     "Heppu.md",
     "Alue.md",
-    "Jaenor.md"
+    "Jaenor.md",
+    "Uhm-gwe.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
