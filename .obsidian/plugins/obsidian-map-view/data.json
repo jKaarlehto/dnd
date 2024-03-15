@@ -129,7 +129,7 @@
   ],
   "mapControls": {
     "filtersDisplayed": false,
-    "viewDisplayed": false,
+    "viewDisplayed": true,
     "presetsDisplayed": false
   },
   "maxClusterRadiusPixels": 45,
