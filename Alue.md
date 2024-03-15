@@ -1,0 +1,3 @@
+---
+hallitsija: "[[Pieni järjestö]]"
+---

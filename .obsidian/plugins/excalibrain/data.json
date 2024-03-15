@@ -26,12 +26,15 @@
     "parents": [
       "hallitsija",
       "johtaja",
+      "jäsen",
+      "sijainti",
       "sijaitsee",
       "yläjärjestö"
     ],
     "children": [
       "alaiset",
       "alajärjestöt",
+      "jäsenet",
       "sisältää"
     ],
     "leftFriends": [
@@ -64,7 +67,7 @@
   "excludeFilepaths": [],
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
-  "showInferredNodes": false,
+  "showInferredNodes": true,
   "showAttachments": true,
   "showURLNodes": true,
   "showVirtualNodes": true,
@@ -162,21 +165,6 @@
   },
   "hierarchyLinkStyles": {
     "hidden": {},
-    "hallitsija": {
-      "strokeColor": "#696969ff",
-      "strokeWidth": 3.5,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "startArrowHead": "arrow",
-      "showLabel": true,
-      "textColor": "#ffffffff",
-      "fontFamily": 1,
-      "fontSize": 12
-    },
-    "yläjärjestö": {},
-    "sijaitsee": {},
-    "alaiset": {},
-    "alajärjestöt": {},
     "sisältää": {},
     "edeltäjä": {},
     "seuraava": {},
@@ -185,16 +173,47 @@
     "viholliset": {},
     "edellinen": {},
     "muut": {},
-    "johtaja": {},
+    "johtaja": {
+      "startArrowHead": "dot",
+      "showLabel": true,
+      "strokeWidth": 2
+    },
     "rinnastettavat": {},
-    "verrattavat": {}
+    "verrattavat": {},
+    "alaiset": {},
+    "alajärjestöt": {},
+    "jäsenet": {},
+    "hallitsija": {
+      "startArrowHead": "triangle",
+      "showLabel": true,
+      "strokeWidth": 2.5
+    },
+    "yläjärjestö": {
+      "strokeStyle": "dotted",
+      "strokeWidth": 2.5,
+      "startArrowHead": "triangle"
+    },
+    "jäsen": {
+      "showLabel": true,
+      "startArrowHead": "dot"
+    },
+    "sijaitsee": {},
+    "sijainti": {}
   },
   "navigationHistory": [
     "Veli Galindus.md",
     "Elhen imperiumin aatelishuoneet.md",
     "Ralfonin Suur-Lääni.md",
     "Excalidraw/ExcaliBrain Snapshot - Ralfonin Suur-Lääni.excalidraw.md",
-    "Leichten aatelishuone.md"
+    "Elhen Imperiumi.md",
+    "Leichten aatelishuone.md",
+    "Pikkupomo.md",
+    "Suurjohtaja.md",
+    "Yläjärjestö.md",
+    "Pieni järjestö.md",
+    "Heppu.md",
+    "Alue.md",
+    "Jaenor.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

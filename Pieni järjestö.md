@@ -1,0 +1,5 @@
+---
+johtaja: "[[Pikkupomo]]"
+yläjärjestö:
+  - "[[Yläjärjestö]]"
+---

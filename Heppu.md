@@ -1,0 +1,3 @@
+---
+jäsen: "[[Pieni järjestö]]"
+---
