@@ -39,11 +39,11 @@ lvl:
 
 %%KUVAUS%%
 >[!question] Vahvistamaton 
->Kuninkaan sielu on uhrattu [[Sielunielu]]uun. 
+>Kuninkaan sielu on uhrattu [[Filverelin Sampo]]oon. 
 >Tai
 >==[[Greli]] tappoi hänet armosta/uhrina==
 >>[!quote] Lähteet
->> [[Sielunielu]] on kultainen, joka sopii kuvaukseen.
+>> [[Filverelin Sampo]] on kultainen, joka sopii kuvaukseen.
 >> 
 >> Toisaalta niin ovat myös Grelin suomut. Kidan alttarin patsaassa mainitaan myös Grelin lentäneen kohti itää verisin kynsin. Ralfonin kirjaston arvoituksissa sanotaan seuraavaa:
 >>  
