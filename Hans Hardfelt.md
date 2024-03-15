@@ -11,7 +11,7 @@ järjestöt:
   - "[[Vaka-Viisi.md|Vaka-Viisi]]"
 suku: 
 elossa: false
-lvl: 7
+lvl: "7"
 ---
 
 >[!col]
@@ -22,7 +22,7 @@ lvl: 7
 >>%%KUVAUS
 >
 >>%%TIEDOT%%
->>![[IMG_3083.png]]
+>>![[skull.png]]
 >> ## Hans Hardfelt
 >>##### *`VIEW[{titteli}]`*
 >>###### Rotu: `VIEW[{rotu}]`
