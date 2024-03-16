@@ -3,6 +3,8 @@ tags:
   - Maantiede/Maamerkki
   - Lähdemateriaali
   - Uskonto/Reliikki
+sijaitsee:
+  - "[[Sôru-agaz]]"
 ---
 >[!question] Vahvistamaton 
 Sivu sisältää spekulaatiota

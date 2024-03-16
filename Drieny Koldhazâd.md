@@ -1,7 +1,7 @@
 ---
 tags:
   - Historia/Aikakausi
-aat-event-end-date: 1
+aat-event-end-date: 0
 aat-event-start-date: -1950
 aat-render-enabled: true
 timelines:

@@ -4,6 +4,8 @@ tags:
   - Uskonto/Reliikki
   - Historia/Rakennus
   - Lähdemateriaali
+sijaitsee:
+  - "[[Kita]]"
 ---
 [Kida](Kita.md)n pohjalta löytynyt alttari. Alttarilla on viisi patsasta, ja siihen on kiinnitetty plakka.
 

@@ -2,6 +2,8 @@
 tags:
   - Maantiede/Valtakunta
   - Historia/Grelekit
+sijaitsee:
+  - "[[Sôru-agaz]]"
 ---
 [Grelekkien](Grelekit.md) suuri imperiumi, joka hallitsi suuria osia [Sôru-agazista](Sôru-agaz.md). Imperiumin sortuessa sitä johti sen pitkäaikainen hallitsija, [Karminin kuningas](Karmini%20Kuningas.md).
 

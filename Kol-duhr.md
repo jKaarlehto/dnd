@@ -2,6 +2,7 @@
 tags:
   - Maantiede/Valtakunta
   - Historia/Kääpiöt
+seuraava: "[[Nori-Koldhazâd]]"
 ---
 [[Adin Koldhazâd]]in aikainen valtakunta nykyisen [[Nori-Koldhazâd|Kääpiövaltakunnan]] alueella.
 

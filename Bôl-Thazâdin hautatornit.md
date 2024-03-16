@@ -2,6 +2,8 @@
 tags:
   - Maantiede/Rakennus
   - Historia/Kääpiöt
+sijaitsee:
+  - "[[Bôl-Thazâdin kadonnut kaupunki|Bôl-Thazâd]]"
 ---
 >[!quote]
 >![](Sankarittaren%20runo.md#^49799e)

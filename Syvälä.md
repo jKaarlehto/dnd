@@ -2,12 +2,14 @@
 tags:
   - Maantiede/Kaupunki
   - Historia/Haltijat
-alaiset:
+aliases:
   - Syvättö
 location:
   - -3.5498966524376563
   - 25.44123341429098
-sisältää: []
+sijaitsee:
+  - "[[Rulindínin Haltija-maat]]"
+hallitsija: "[[Ilkvestin haltijasuku]]"
 ---
 
 

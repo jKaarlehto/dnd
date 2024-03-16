@@ -5,6 +5,8 @@ tags:
   - Uskonto/Käapiöt
 aliases:
   - Bôl-Thazâd
+sijaitsee:
+  - "[[Bol-Thazâd]]"
 ---
 >[!quote]
 >![](Sankarittaren%20runo.md#^0ae417)

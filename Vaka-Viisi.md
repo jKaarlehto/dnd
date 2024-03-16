@@ -9,6 +9,7 @@ jäsenet:
   - "[[Balvadur]]"
   - "[[Shiva]]"
   - "[[Hans Hardfelt]]"
+liittolaiset: "[[Hjildrumin haltijasuku]]"
 ---
 Seikkailijaryhmä [[Sôru-agaz]]in alueella. Ryhmä selvittää manteretta ympäröivään sulkukehään liittyvää mysteeriä.
 

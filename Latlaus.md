@@ -2,7 +2,11 @@
 tags:
   - Uskonto/Pyhättö
   - Maantiede/Maamerkki
-location: [-5.784594793200422,31.084838596667513]
+location:
+  - -5.784594793200422
+  - 31.084838596667513
+sijaitsee:
+  - "[[Vuorimaat|Menetetyt maat]]"
 ---
 
 

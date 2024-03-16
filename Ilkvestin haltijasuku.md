@@ -2,6 +2,8 @@
 tags:
   - Historia/Suku
   - Historia/Haltijat
+yläjärjestö:
+  - "[[Rulindínin Haltija-maat]]"
 ---
 
 Aatelinen haltijasuku. 

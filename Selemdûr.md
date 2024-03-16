@@ -1,8 +1,11 @@
 ---
 tags:
   - Maantiede/Kaupunki
-
-location: [-0.8431702486277648,23.003997802734375]
+location:
+  - -0.8431702486277648
+  - 23.003997802734375
+sijaitsee:
+  - "[[Elhen Imperiumi]]"
 ---
 
 Velhojen ja maagien kaupunki [Sôru-agaz](Sôru-agaz.md)in länsiosissa. Selemûr sijaitsee [Länsi-Lakeuden](Lakeus) alueella.

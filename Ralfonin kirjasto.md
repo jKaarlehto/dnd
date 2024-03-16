@@ -1,6 +1,8 @@
 ---
 tags:
   - Maantiede/Rakennus
+sijaitsee:
+  - "[[Ralfon]]"
 ---
 
 Kirjasto [Ralfonin kaupungissa](Ralfon.md). Tunnettu mystisestä ja maagisesta vanhasta siivestään, joka opastaa jokaista kulkijaa etsimänsä tiedon perään.

@@ -1,6 +1,8 @@
 ---
 tags:
   - Maantiede/Järjestö
+sijaitsee:
+  - "[[Ralfon]]"
 ---
 [Ralfonin](Ralfon.md) kaupungin yliopisto. Kuuluisa suuresta [kirjastostaan](Ralfonin%20kirjasto.md).
 

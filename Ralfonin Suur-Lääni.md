@@ -3,10 +3,6 @@ tags:
   - Maantiede/Lääni
 sijaitsee:
   - "[[Elhen Imperiumi]]"
-sisältää:
-  - "[[Selemdûr]]"
-  - "[[Lakeus]]"
-  - "[[Ralfon]]"
 ---
 [[Elhen Imperiumi]]n alainen autonominen lääni. Lääniä johtaa [[Leichten aatelishuone]] ja [[Selemdûrin Maagikilta]].
 

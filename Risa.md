@@ -1,11 +1,12 @@
 ---
 tags:
   - Maantiede/Kylä
-
-location: [-1.7096618253916394,30.7517755711313]
-
-
-
+location:
+  - -1.7096618253916394
+  - 30.7517755711313
+sijaitsee:
+  - "[[Rulindínin Haltija-maat]]"
+hallitsija: "[[Hjildrumin haltijasuku]]"
 ---
 Haltijoiden asuttama kaivoskaupunki lähellä [Kita](Kita.md)a. Sijaitsee [Rulindínin Haltija-maiden](Rulindínin%20Haltija-maat.md) ja [Vuorimaiden](Vuorimaat) rajalla, [Kärnävuorien](Kärnävuoret.md) lomassa.
 

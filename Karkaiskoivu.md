@@ -2,6 +2,8 @@
 tags:
   - Maantiede/Maamerkki
   - Uskonto/Pyhättö
+sijaitsee:
+  - "[[Bol-Thazâd]]"
 ---
 Yksi  neljästä [ikilehdosta](Ikilehdot.md). Sijaitsee [Bôl-Thazâdin kadonneen kaupungin](Bôl-Thazâdin%20kadonnut%20kaupunki.md) alla.
 

@@ -2,6 +2,7 @@
 tags:
   - Maantiede/Valtakunta
   - Historia/Haltijat
+seuraava: "[[Rulindínin Haltija-maat]]"
 ---
 [Drieny Koldhazâd](Drieny%20Koldhazâd.md)in aikaan vaikuttaneita haltijavaltakuntia. Heidän tiedetään luoneen [Vaskilaisia](Vaskilaiset.md).
 

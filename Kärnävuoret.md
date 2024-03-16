@@ -1,6 +1,8 @@
 ---
 tags:
   - Maantiede/Maamerkki
-  - Maantiede/Lääni
+  - Maantiede/Alue
+sijaitsee:
+  - "[[Sôru-agaz]]"
 ---
 Vuoristo [Sôru-agaz](Sôru-agaz.md)issa.

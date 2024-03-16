@@ -5,6 +5,9 @@ location:
 tags:
   - Maantiede/Kaupunki
   - Historia/Kääpiöt
+sijaitsee:
+  - "[[Shûlumir]]"
+  - "[[Elhen Imperiumi]]"
 ---
 
 Kääpiökaupunki. Oli aikoinaan [[Thazad]]in valtakunnan pääkaupunki.

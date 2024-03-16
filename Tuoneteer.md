@@ -3,6 +3,8 @@ tags:
   - Maantiede/Maamerkki
 aliases:
   - Pohjanportti
+sijaitsee:
+  - "[[Nori-Koldhazâd]]"
 ---
 [Sôru-agaz](Sôru-agaz.md)in korkein vuori. Sijaitsee koillisessa.
 Vuorta ympäröi jäinen ja vaarallinen autiomaa

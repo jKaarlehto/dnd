@@ -3,6 +3,8 @@ tags:
   - Maantiede/Rakennus
   - Maantiede/Maamerkki
   - Historia/Rakennus
+sijaitsee:
+  - "[[Kita]]"
 ---
 [Kidan](Kita.md) pohjalla oleva kirjasto. 
 

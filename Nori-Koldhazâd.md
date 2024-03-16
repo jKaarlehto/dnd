@@ -6,6 +6,9 @@ sijaitsee:
   - "[[Sôru-agaz]]"
 aliases:
   - Pohjoiset Kääpiömaat
+edellinen:
+  - "[[Thazad]]"
+  - "[[Kol-duhr]]"
 ---
 [Sôru-agaz](Sôru-agaz.md)in pohjoisin valtakunta. [Kääpiöiden](Kääpiöt.md) kotialuetta. Alue oli alunperin jakautunut kahteen valtakuntaan: [[Thazad]]iin ja [[Kol-duhr]]iin, jotka sotivat keskenään.
 

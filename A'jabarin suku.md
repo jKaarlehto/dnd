@@ -7,6 +7,9 @@ jäsenet:
   - "[[Thaer A'jabar]]"
   - "[[Bassem A'jabar]]"
   - "[[Balokim A'jabar]]"
+johtaja: "[[Zahhak A'jabar]]"
+yläjärjestö:
+  - "[[Arnakeshin valtakunta]]"
 ---
 [Ûhm-gwe](Ûhm-gwe.md)läinen aatelissuku, jonka jäsenet ovat [Bassem A'jabar](Bassem%20A'jabar.md) jälkeläisiä.
 

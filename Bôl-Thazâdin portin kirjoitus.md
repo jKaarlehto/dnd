@@ -4,6 +4,8 @@ tags:
   - Historia/Kääpiöt
   - Lähdemateriaali
   - Maantiede/Maamerkki
+sijaitsee:
+  - "[[Bol-Thazâd]]"
 ---
 Bôl-Thazâdin portissa lukeva teksti. Tekstissä mainitaan useita Kääpiöjumalia
 

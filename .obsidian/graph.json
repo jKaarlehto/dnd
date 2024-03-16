@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Henkilö  ",
+  "search": "tag:#Maantiede  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.726155598958333,
   "linkDistance": 500,
-  "scale": 0.24188920674220316,
+  "scale": 0.5453517887115116,
   "close": false
 }

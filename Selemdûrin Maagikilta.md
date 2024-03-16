@@ -5,6 +5,8 @@ tags:
 jäsenet:
   - "[[Azhar]]"
   - "[[Balasár Ghesh]]"
+sijaitsee:
+  - "[[Selemdûr]]"
 ---
 [Selemdûrin](Selemdûr.md) kaupungin maagikilta. [Vallanvaihdon](Selemdûrin%20vallanvaihto) jälkeen killan toiminta on ollut [Elhen kirkon](Elhen%20kirkko.md) tarkasti valvomaa.
 

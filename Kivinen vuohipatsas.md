@@ -4,6 +4,8 @@ tags:
   - Maantiede/Maamerkki
   - Historia/Esine
   - Uskonto/Reliikki
+sijaitsee:
+  - "[[Kidan alttari]]"
 ---
 [Kidan](Kita.md) alimmasta kerroksesta löytynyt, selvästi amatöörin veistämä kivipatsas, joka esittää [Vuohiäiti](Vuohiäiti.md)ä. Patsaaseen on kaiverrettu kirjoitus.
 

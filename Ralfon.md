@@ -1,9 +1,11 @@
 ---
 tags:
   - Maantiede/Kaupunki
-
-
-location: [-1.8920510496201288,19.465026855468754] 
+location:
+  - -1.8920510496201288
+  - 19.465026855468754
+sijaitsee:
+  - "[[Ralfonin Suur-Lääni]]"
 ---
 [Sôru-agazin](Sôru-agaz.md) kapunki, joka on tunnettu bardikulttuurista ja tupakasta.
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Maantiede/Maamerkki
+sijaitsee:
+  - "[[Jumalhovi]]"
 ---
 Yksi [Jumalhovi](Jumalhovi.md)n tähdistä.
 
