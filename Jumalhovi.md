@@ -11,6 +11,8 @@ Taivaalla sijaitseva usva, jossa on muutamia kirkkaampia tähtiä. Jumalhovi on 
 
 [Tähtitieteilijän muistiinpanot](Tähtitieteilijän%20muistiinpanot.md) kertovat jumalhovin tähtien himmenneen äkillisesti
 
+Jumalhovissa on kuusi tunnettua isoa tähteä.
+
 ###### Tähtiä
 - [Ya’ar](Ya’ar.md)
 - [Mutra’ar](Mutra’ar.md)

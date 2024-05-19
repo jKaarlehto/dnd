@@ -8,5 +8,7 @@ location:
 sijaitsee:
   - "[[Rulindínin Haltija-maat]]"
 hallitsija: "[[Gjeeljurdin haltijasuku]]"
+aliases:
+  - Porttikaupunki
 ---
 Haltijakaupunki

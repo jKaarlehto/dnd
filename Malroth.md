@@ -19,4 +19,8 @@ Malrothin rooli arkkifeinä on mielen ja persoonan/egon jumalhahmo.
 
 Malroth on [Yuhzusin](Yuhzus.md) suojelusjumala.
 
+#### Legend lore
+
+Syvällä maan alla, neljä hahmoa; puolituisnainen kättelee vihreänä hohtavaa miestä, valkoinen hohtava naishahmo sukeltaa käteen, neljä simementä, purppura liekki syntyy. Sama paikka vinoutuu, nousee korkeammalle. Maa järisee, edessä haltijamaagi, purppura liekki muuttuu mieshahmoksi purppura mies ja nainen halaa toisiaan ja nousee ylös samalla kun maa nousee ylös, valtaistuinsali linnassa - tum tum tum.
+
 

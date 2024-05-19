@@ -87,7 +87,7 @@
       }
     }
   ],
-  "zoomOnGoFromNote": 3,
+  "zoomOnGoFromNote": 9,
   "autoZoom": true,
   "markerClickBehavior": "alwaysNewTab",
   "markerCtrlClickBehavior": "dedicatedPane",
@@ -128,7 +128,7 @@
     }
   ],
   "mapControls": {
-    "filtersDisplayed": true,
+    "filtersDisplayed": false,
     "viewDisplayed": false,
     "presetsDisplayed": false
   },

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Henkilö
+  - Henkilö/Kuollut
 type: henkilö
 nimi: Hans Hardfelt
 titteli: Vaka-Viiden kunniajäsen

@@ -6,6 +6,7 @@ aliases:
   - Syvyyden Serovi
   - Muodoton Äiti
   - Vuohiäiti
+  - 0002A
 ---
 Jumalhahmo, johon viitataan useimmissa teksteissä nimellä "Syvyyden Serovi". 
 
@@ -20,3 +21,6 @@ Jumalhahmo, johon viitataan useimmissa teksteissä nimellä "Syvyyden Serovi".
 >>[Grozan diaari](Grozan%20diaari.md)
 
 
+#### Legend lore
+
+Kuusi olemusta tähtisumun keskellä, sumun täyttää riemu, joka tuntuu yksipuoliselta. Tähdistä vuotaa mustaa "verta", joka peittää tähdet. Musta sumu lopulta peittää tähdet kokonaan ja sen jälkeen, taivaasta tippuu kolme isoa kiveä. kivet vie varjot mukanaan ja jättää tähdet paikoilleen.
