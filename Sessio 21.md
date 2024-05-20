@@ -9,11 +9,12 @@ tags:
 
 -Sterlae
 
--glifot haava paise entiteetti 002a shial nageraz
+-glifotti:  haava, paise 
+-entiteetti 002a shial nageraz
 
 -rollo antoi sterlaelle käpäläsymbolin
 
-Ulthaz leke greli eä morderuna
+Rollon paladin voimat: Ulthaz leke greli eä morderuna
 
 felganar kadonnut linnoitus
 
