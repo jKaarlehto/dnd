@@ -18,7 +18,8 @@ Pieneen saliin matkalla kolme henkilöä.
 Nainen, hienosti pukeutunut, pitkä ruskea ja vihreä kaapu. Lyhyt ja roteva haltijamies, koristeltu miekka. Nainen ruskeavihreä tunika, pihlajanoksakruunu.
 
 Vaskilaiskammio:
-005A vaskisalo.
+005A vaskisalo on suljettu tapauksen skenaario 03A9 seurauksena.
+03A9 = vaskilaismajakan tai vaskilaiskammioin menettäminen vihollisen käsiin.
 
 
 Huoltotunneli vaskilaistykistön toimivuus: E3 F16 B11 J15
