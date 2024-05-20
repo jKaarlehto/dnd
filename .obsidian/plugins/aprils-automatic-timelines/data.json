@@ -1,7 +1,8 @@
 {
-  "dateDisplayFormat": "{day}/{month}/{year}",
-  "dateParserGroupPriority": "year,month,day",
-  "dateParserRegex": "(?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)",
+  "dateDisplayFormat": "{era}/{year}/{month}",
+  "dateParserGroupPriority": "era,year,month",
+  "dateParserRegex": "",
+  "eventRenderToggleKey": "aat-render-enabled",
   "inlineEventEndOfBodyMarker": "%%aat-event-end-of-body%%",
   "markdownBlockTagsToFindSeparator": ",",
   "metadataKeyEventBodyOverride": "aat-event-body",
@@ -21,32 +22,11 @@
   "titleFontSize": -1,
   "dateTokenConfiguration": [
     {
-      "minLeght": 1,
+      "minLeght": 4,
       "name": "year",
       "type": "NUMBER",
       "displayWhenZero": true,
-      "formatting": [
-        {
-          "evaluations": [
-            {
-              "condition": "GREATEROREQUAL",
-              "value": 0
-            }
-          ],
-          "conditionsAreExclusive": false,
-          "format": "Nousun vuosi {value}"
-        },
-        {
-          "evaluations": [
-            {
-              "condition": "LESS",
-              "value": 0
-            }
-          ],
-          "conditionsAreExclusive": false,
-          "format": "{value} ennen Elhen nousua"
-        }
-      ],
+      "formatting": [],
       "hideSign": false
     },
     {

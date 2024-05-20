@@ -4,6 +4,8 @@ tags:
 ---
 Myyteissä mainittava linnoitus, joka katosi salaperäisesti
 
+Tunnetaan kaksoistornista ja kokeellisesta työstä.
+
 Liittyy [[Malroth]]iin
 
 >[!question] Vahvistamaton 

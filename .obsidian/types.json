@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "aat-render-enabled": "checkbox",
-    "aat-event-start-date": "number",
+    "aat-event-start-date": "text",
     "aat-event-end-date": "number",
     "aat-event-body": "text",
     "sama": "multitext",

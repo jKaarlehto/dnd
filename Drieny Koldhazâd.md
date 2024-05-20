@@ -1,13 +1,14 @@
 ---
 tags:
   - Historia/Aikakausi
-aat-event-end-date: 0
-aat-event-start-date: -1950
+aat-event-end-date: 4
+aat-event-start-date: 3,0
 aat-render-enabled: true
 timelines:
   - main
 aat-event-body: Kääpiöiden kolmas aikakausi.
-edellinen: "[[Dvanie Koldhazâd]]"
+edellinen:
+  - "[[Dvanie Koldhazâd]]"
 ---
 [Kääpiöden](Kääpiöt.md) kalenterin kolmas ajanjakso. 
 

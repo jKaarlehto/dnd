@@ -10,7 +10,7 @@ tags:
 -Sterlae
 
 -glifotti:  haava, paise 
--entiteetti 002a shial nageraz
+-entiteetti 0002a shial nageraz
 
 -rollo antoi sterlaelle käpäläsymbolin
 

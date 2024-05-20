@@ -1,6 +1,8 @@
 ---
 tags:
   - Historia/Aikakausi
-edellinen: "[[Adin Koldhazâd]]"
+edellinen:
+  - "[[Adin Koldhazâd]]"
+seuraava: "[[Drieny Koldhazâd]]"
 ---
 Kääpiökalenterin toinen aikakausi.
