@@ -1,4 +1,5 @@
 ---
+sijaitsee: "[[Rulindínin Haltija-maat]]"
 tags:
   - Maantiede/Kaupunki
   - Historia/Haltijat
@@ -8,3 +9,8 @@ location:
 hallitsija: "[[Uurmsvaltin haltijasuku]]"
 ---
 Kaupunki [Rulindínin Haltija-maiden alueella](Rulindínin%20Haltija-maat.md). Haltijamaiden pääkaupunki.
+
+
+#### Liikkeet
+[[Kaarna-Kehto]]
+[[Haapasto]]
