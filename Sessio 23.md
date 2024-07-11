@@ -21,6 +21,10 @@ Vaskilaiskammio:
 005A vaskisalo on suljettu tapauksen skenaario 03A9 seurauksena.
 03A9 = vaskilaismajakan tai vaskilaiskammioin menettäminen vihollisen käsiin.
 
+Data-arkistot 72%
 
 Huoltotunneli vaskilaistykistön toimivuus: E3 F16 B11 J15
+
+Kohde A004 = Felganar??
+A101 = Lyijylinna = lähin merkittävin vaskilaismajakka?
 
